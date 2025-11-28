@@ -1,0 +1,1227 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Djibouti,DJI,2021,Agricultural land (sq. km),AG.LND.AGRI.K2,17039
+Djibouti,DJI,2020,Agricultural land (sq. km),AG.LND.AGRI.K2,17039
+Djibouti,DJI,2019,Agricultural land (sq. km),AG.LND.AGRI.K2,17029
+Djibouti,DJI,2018,Agricultural land (sq. km),AG.LND.AGRI.K2,17028
+Djibouti,DJI,2017,Agricultural land (sq. km),AG.LND.AGRI.K2,17028
+Djibouti,DJI,2016,Agricultural land (sq. km),AG.LND.AGRI.K2,17028
+Djibouti,DJI,2015,Agricultural land (sq. km),AG.LND.AGRI.K2,17028
+Djibouti,DJI,2014,Agricultural land (sq. km),AG.LND.AGRI.K2,17028
+Djibouti,DJI,2013,Agricultural land (sq. km),AG.LND.AGRI.K2,17028
+Djibouti,DJI,2012,Agricultural land (sq. km),AG.LND.AGRI.K2,17028
+Djibouti,DJI,2011,Agricultural land (sq. km),AG.LND.AGRI.K2,17028
+Djibouti,DJI,2010,Agricultural land (sq. km),AG.LND.AGRI.K2,17023
+Djibouti,DJI,2009,Agricultural land (sq. km),AG.LND.AGRI.K2,17020
+Djibouti,DJI,2008,Agricultural land (sq. km),AG.LND.AGRI.K2,17019
+Djibouti,DJI,2007,Agricultural land (sq. km),AG.LND.AGRI.K2,17022
+Djibouti,DJI,2006,Agricultural land (sq. km),AG.LND.AGRI.K2,17020
+Djibouti,DJI,2005,Agricultural land (sq. km),AG.LND.AGRI.K2,17017
+Djibouti,DJI,2004,Agricultural land (sq. km),AG.LND.AGRI.K2,17017
+Djibouti,DJI,2003,Agricultural land (sq. km),AG.LND.AGRI.K2,17017
+Djibouti,DJI,2002,Agricultural land (sq. km),AG.LND.AGRI.K2,17016
+Djibouti,DJI,2001,Agricultural land (sq. km),AG.LND.AGRI.K2,16816
+Djibouti,DJI,2000,Agricultural land (sq. km),AG.LND.AGRI.K2,16016
+Djibouti,DJI,1999,Agricultural land (sq. km),AG.LND.AGRI.K2,15516
+Djibouti,DJI,1998,Agricultural land (sq. km),AG.LND.AGRI.K2,15016
+Djibouti,DJI,1997,Agricultural land (sq. km),AG.LND.AGRI.K2,15016
+Djibouti,DJI,1996,Agricultural land (sq. km),AG.LND.AGRI.K2,14816
+Djibouti,DJI,1995,Agricultural land (sq. km),AG.LND.AGRI.K2,14516
+Djibouti,DJI,1994,Agricultural land (sq. km),AG.LND.AGRI.K2,14015
+Djibouti,DJI,1993,Agricultural land (sq. km),AG.LND.AGRI.K2,14015
+Djibouti,DJI,1992,Agricultural land (sq. km),AG.LND.AGRI.K2,13715
+Djibouti,DJI,1991,Agricultural land (sq. km),AG.LND.AGRI.K2,13365
+Djibouti,DJI,1990,Agricultural land (sq. km),AG.LND.AGRI.K2,12990
+Djibouti,DJI,1989,Agricultural land (sq. km),AG.LND.AGRI.K2,13010
+Djibouti,DJI,1988,Agricultural land (sq. km),AG.LND.AGRI.K2,13010
+Djibouti,DJI,1987,Agricultural land (sq. km),AG.LND.AGRI.K2,13010
+Djibouti,DJI,1986,Agricultural land (sq. km),AG.LND.AGRI.K2,13010
+Djibouti,DJI,1985,Agricultural land (sq. km),AG.LND.AGRI.K2,13010
+Djibouti,DJI,1984,Agricultural land (sq. km),AG.LND.AGRI.K2,13010
+Djibouti,DJI,1983,Agricultural land (sq. km),AG.LND.AGRI.K2,13010
+Djibouti,DJI,1982,Agricultural land (sq. km),AG.LND.AGRI.K2,13010
+Djibouti,DJI,1981,Agricultural land (sq. km),AG.LND.AGRI.K2,13010
+Djibouti,DJI,1980,Agricultural land (sq. km),AG.LND.AGRI.K2,13010
+Djibouti,DJI,1979,Agricultural land (sq. km),AG.LND.AGRI.K2,13010
+Djibouti,DJI,1978,Agricultural land (sq. km),AG.LND.AGRI.K2,13010
+Djibouti,DJI,1977,Agricultural land (sq. km),AG.LND.AGRI.K2,13010
+Djibouti,DJI,1976,Agricultural land (sq. km),AG.LND.AGRI.K2,13010
+Djibouti,DJI,1975,Agricultural land (sq. km),AG.LND.AGRI.K2,13010
+Djibouti,DJI,1974,Agricultural land (sq. km),AG.LND.AGRI.K2,13010
+Djibouti,DJI,1973,Agricultural land (sq. km),AG.LND.AGRI.K2,13010
+Djibouti,DJI,1972,Agricultural land (sq. km),AG.LND.AGRI.K2,13010
+Djibouti,DJI,1971,Agricultural land (sq. km),AG.LND.AGRI.K2,13010
+Djibouti,DJI,1970,Agricultural land (sq. km),AG.LND.AGRI.K2,13010
+Djibouti,DJI,1969,Agricultural land (sq. km),AG.LND.AGRI.K2,13010
+Djibouti,DJI,1968,Agricultural land (sq. km),AG.LND.AGRI.K2,13010
+Djibouti,DJI,1967,Agricultural land (sq. km),AG.LND.AGRI.K2,13010
+Djibouti,DJI,1966,Agricultural land (sq. km),AG.LND.AGRI.K2,13010
+Djibouti,DJI,1965,Agricultural land (sq. km),AG.LND.AGRI.K2,13010
+Djibouti,DJI,1964,Agricultural land (sq. km),AG.LND.AGRI.K2,13010
+Djibouti,DJI,1963,Agricultural land (sq. km),AG.LND.AGRI.K2,13010
+Djibouti,DJI,1962,Agricultural land (sq. km),AG.LND.AGRI.K2,13010
+Djibouti,DJI,1961,Agricultural land (sq. km),AG.LND.AGRI.K2,13010
+Djibouti,DJI,2022,Agricultural land (% of land area),AG.LND.AGRI.ZS,73.5073339085419
+Djibouti,DJI,2021,Agricultural land (% of land area),AG.LND.AGRI.ZS,73.5073339085419
+Djibouti,DJI,2020,Agricultural land (% of land area),AG.LND.AGRI.ZS,73.5073339085419
+Djibouti,DJI,2019,Agricultural land (% of land area),AG.LND.AGRI.ZS,73.4641932700604
+Djibouti,DJI,2018,Agricultural land (% of land area),AG.LND.AGRI.ZS,73.4598792062122
+Djibouti,DJI,2017,Agricultural land (% of land area),AG.LND.AGRI.ZS,73.4598792062122
+Djibouti,DJI,2016,Agricultural land (% of land area),AG.LND.AGRI.ZS,73.4598792062122
+Djibouti,DJI,2015,Agricultural land (% of land area),AG.LND.AGRI.ZS,73.4598792062122
+Djibouti,DJI,2014,Agricultural land (% of land area),AG.LND.AGRI.ZS,73.4598792062122
+Djibouti,DJI,2013,Agricultural land (% of land area),AG.LND.AGRI.ZS,73.4598792062122
+Djibouti,DJI,2012,Agricultural land (% of land area),AG.LND.AGRI.ZS,73.4598792062122
+Djibouti,DJI,2011,Agricultural land (% of land area),AG.LND.AGRI.ZS,73.4598792062122
+Djibouti,DJI,2010,Agricultural land (% of land area),AG.LND.AGRI.ZS,73.4383088869715
+Djibouti,DJI,2009,Agricultural land (% of land area),AG.LND.AGRI.ZS,73.4253666954271
+Djibouti,DJI,2008,Agricultural land (% of land area),AG.LND.AGRI.ZS,73.4210526315789
+Djibouti,DJI,2007,Agricultural land (% of land area),AG.LND.AGRI.ZS,73.4339948231234
+Djibouti,DJI,2006,Agricultural land (% of land area),AG.LND.AGRI.ZS,73.4253666954271
+Djibouti,DJI,2005,Agricultural land (% of land area),AG.LND.AGRI.ZS,73.4124245038827
+Djibouti,DJI,2004,Agricultural land (% of land area),AG.LND.AGRI.ZS,73.4124245038827
+Djibouti,DJI,2003,Agricultural land (% of land area),AG.LND.AGRI.ZS,73.4124245038827
+Djibouti,DJI,2002,Agricultural land (% of land area),AG.LND.AGRI.ZS,73.4081104400345
+Djibouti,DJI,2001,Agricultural land (% of land area),AG.LND.AGRI.ZS,72.5452976704055
+Djibouti,DJI,2000,Agricultural land (% of land area),AG.LND.AGRI.ZS,69.0940465918896
+Djibouti,DJI,1999,Agricultural land (% of land area),AG.LND.AGRI.ZS,66.9370146678171
+Djibouti,DJI,1998,Agricultural land (% of land area),AG.LND.AGRI.ZS,64.7799827437446
+Djibouti,DJI,1997,Agricultural land (% of land area),AG.LND.AGRI.ZS,64.7799827437446
+Djibouti,DJI,1996,Agricultural land (% of land area),AG.LND.AGRI.ZS,63.9171699741156
+Djibouti,DJI,1995,Agricultural land (% of land area),AG.LND.AGRI.ZS,62.6229508196721
+Djibouti,DJI,1994,Agricultural land (% of land area),AG.LND.AGRI.ZS,60.4616048317515
+Djibouti,DJI,1993,Agricultural land (% of land area),AG.LND.AGRI.ZS,60.4616048317515
+Djibouti,DJI,1992,Agricultural land (% of land area),AG.LND.AGRI.ZS,59.167385677308
+Djibouti,DJI,1991,Agricultural land (% of land area),AG.LND.AGRI.ZS,57.6574633304573
+Djibouti,DJI,1990,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.0396893874029
+Djibouti,DJI,1989,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1259706643658
+Djibouti,DJI,1988,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1259706643658
+Djibouti,DJI,1987,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1259706643658
+Djibouti,DJI,1986,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1259706643658
+Djibouti,DJI,1985,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1259706643658
+Djibouti,DJI,1984,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1259706643658
+Djibouti,DJI,1983,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1259706643658
+Djibouti,DJI,1982,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1259706643658
+Djibouti,DJI,1981,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1259706643658
+Djibouti,DJI,1980,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1259706643658
+Djibouti,DJI,1979,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1259706643658
+Djibouti,DJI,1978,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1259706643658
+Djibouti,DJI,1977,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1259706643658
+Djibouti,DJI,1976,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1259706643658
+Djibouti,DJI,1975,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1259706643658
+Djibouti,DJI,1974,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1259706643658
+Djibouti,DJI,1973,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1259706643658
+Djibouti,DJI,1972,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1259706643658
+Djibouti,DJI,1971,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1259706643658
+Djibouti,DJI,1970,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1259706643658
+Djibouti,DJI,1969,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1259706643658
+Djibouti,DJI,1968,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1259706643658
+Djibouti,DJI,1967,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1259706643658
+Djibouti,DJI,1966,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1259706643658
+Djibouti,DJI,1965,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1259706643658
+Djibouti,DJI,1964,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1259706643658
+Djibouti,DJI,1963,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1259706643658
+Djibouti,DJI,1962,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1259706643658
+Djibouti,DJI,1961,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.1259706643658
+Djibouti,DJI,2022,Arable land (% of land area),AG.LND.ARBL.ZS,0.129421915444349
+Djibouti,DJI,2021,Arable land (% of land area),AG.LND.ARBL.ZS,0.129421915444349
+Djibouti,DJI,2020,Arable land (% of land area),AG.LND.ARBL.ZS,0.129421915444349
+Djibouti,DJI,2019,Arable land (% of land area),AG.LND.ARBL.ZS,0.0862812769628991
+Djibouti,DJI,2018,Arable land (% of land area),AG.LND.ARBL.ZS,0.0862812769628991
+Djibouti,DJI,2017,Arable land (% of land area),AG.LND.ARBL.ZS,0.0862812769628991
+Djibouti,DJI,2016,Arable land (% of land area),AG.LND.ARBL.ZS,0.0862812769628991
+Djibouti,DJI,2015,Arable land (% of land area),AG.LND.ARBL.ZS,0.0862812769628991
+Djibouti,DJI,2014,Arable land (% of land area),AG.LND.ARBL.ZS,0.0862812769628991
+Djibouti,DJI,2013,Arable land (% of land area),AG.LND.ARBL.ZS,0.0862812769628991
+Djibouti,DJI,2012,Arable land (% of land area),AG.LND.ARBL.ZS,0.0862812769628991
+Djibouti,DJI,2011,Arable land (% of land area),AG.LND.ARBL.ZS,0.0862812769628991
+Djibouti,DJI,2010,Arable land (% of land area),AG.LND.ARBL.ZS,0.0690250215703192
+Djibouti,DJI,2009,Arable land (% of land area),AG.LND.ARBL.ZS,0.0560828300258844
+Djibouti,DJI,2008,Arable land (% of land area),AG.LND.ARBL.ZS,0.0517687661777394
+Djibouti,DJI,2007,Arable land (% of land area),AG.LND.ARBL.ZS,0.0647109577221743
+Djibouti,DJI,2006,Arable land (% of land area),AG.LND.ARBL.ZS,0.0560828300258844
+Djibouti,DJI,2005,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,2004,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,2003,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,2002,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,2001,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,2000,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1999,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1998,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1997,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1996,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1995,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1994,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1993,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1992,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1991,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1990,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1989,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1988,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1987,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1986,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1985,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1984,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1983,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1982,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1981,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1980,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1979,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1978,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1977,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1976,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1975,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1974,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1973,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1972,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1971,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1970,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1969,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1968,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1967,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1966,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1965,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1964,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1963,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1962,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,1961,Arable land (% of land area),AG.LND.ARBL.ZS,0.0431406384814495
+Djibouti,DJI,2015,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,153.474181863
+Djibouti,DJI,2000,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,157.016242951
+Djibouti,DJI,1990,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,157.375182673
+Djibouti,DJI,2015,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,0.709772020306866
+Djibouti,DJI,2000,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,0.726152989562228
+Djibouti,DJI,1990,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,0.727812978027273
+Djibouti,DJI,2015,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,8.39170619892
+Djibouti,DJI,2000,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,4.84964511171
+Djibouti,DJI,1990,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,4.49070538953
+Djibouti,DJI,2015,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.0388091220968094
+Djibouti,DJI,2000,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.0224281528458367
+Djibouti,DJI,1990,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.0207681643794381
+Djibouti,DJI,2015,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,0.748581142403675
+Djibouti,DJI,2000,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,0.748581142408065
+Djibouti,DJI,1990,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,0.748581142406711
+Djibouti,DJI,2022,Forest area (sq. km),AG.LND.FRST.K2,59.644
+Djibouti,DJI,2021,Forest area (sq. km),AG.LND.FRST.K2,58.733
+Djibouti,DJI,2020,Forest area (sq. km),AG.LND.FRST.K2,58
+Djibouti,DJI,2019,Forest area (sq. km),AG.LND.FRST.K2,57
+Djibouti,DJI,2018,Forest area (sq. km),AG.LND.FRST.K2,56.4
+Djibouti,DJI,2017,Forest area (sq. km),AG.LND.FRST.K2,56.1
+Djibouti,DJI,2016,Forest area (sq. km),AG.LND.FRST.K2,56
+Djibouti,DJI,2015,Forest area (sq. km),AG.LND.FRST.K2,56
+Djibouti,DJI,2014,Forest area (sq. km),AG.LND.FRST.K2,56
+Djibouti,DJI,2013,Forest area (sq. km),AG.LND.FRST.K2,56
+Djibouti,DJI,2012,Forest area (sq. km),AG.LND.FRST.K2,56
+Djibouti,DJI,2011,Forest area (sq. km),AG.LND.FRST.K2,56
+Djibouti,DJI,2010,Forest area (sq. km),AG.LND.FRST.K2,56
+Djibouti,DJI,2009,Forest area (sq. km),AG.LND.FRST.K2,56
+Djibouti,DJI,2008,Forest area (sq. km),AG.LND.FRST.K2,56
+Djibouti,DJI,2007,Forest area (sq. km),AG.LND.FRST.K2,56
+Djibouti,DJI,2006,Forest area (sq. km),AG.LND.FRST.K2,56
+Djibouti,DJI,2005,Forest area (sq. km),AG.LND.FRST.K2,56
+Djibouti,DJI,2004,Forest area (sq. km),AG.LND.FRST.K2,56
+Djibouti,DJI,2003,Forest area (sq. km),AG.LND.FRST.K2,56
+Djibouti,DJI,2002,Forest area (sq. km),AG.LND.FRST.K2,56
+Djibouti,DJI,2001,Forest area (sq. km),AG.LND.FRST.K2,56
+Djibouti,DJI,2000,Forest area (sq. km),AG.LND.FRST.K2,56
+Djibouti,DJI,1999,Forest area (sq. km),AG.LND.FRST.K2,56
+Djibouti,DJI,1998,Forest area (sq. km),AG.LND.FRST.K2,56
+Djibouti,DJI,1997,Forest area (sq. km),AG.LND.FRST.K2,56
+Djibouti,DJI,1996,Forest area (sq. km),AG.LND.FRST.K2,56
+Djibouti,DJI,1995,Forest area (sq. km),AG.LND.FRST.K2,56
+Djibouti,DJI,1994,Forest area (sq. km),AG.LND.FRST.K2,56
+Djibouti,DJI,1993,Forest area (sq. km),AG.LND.FRST.K2,56
+Djibouti,DJI,1992,Forest area (sq. km),AG.LND.FRST.K2,56
+Djibouti,DJI,1991,Forest area (sq. km),AG.LND.FRST.K2,56
+Djibouti,DJI,1990,Forest area (sq. km),AG.LND.FRST.K2,56
+Djibouti,DJI,2022,Forest area (% of land area),AG.LND.FRST.ZS,0.257308024158758
+Djibouti,DJI,2021,Forest area (% of land area),AG.LND.FRST.ZS,0.253377911993098
+Djibouti,DJI,2020,Forest area (% of land area),AG.LND.FRST.ZS,0.250215703192407
+Djibouti,DJI,2019,Forest area (% of land area),AG.LND.FRST.ZS,0.245901639344262
+Djibouti,DJI,2018,Forest area (% of land area),AG.LND.FRST.ZS,0.243313201035375
+Djibouti,DJI,2017,Forest area (% of land area),AG.LND.FRST.ZS,0.242018981880932
+Djibouti,DJI,2016,Forest area (% of land area),AG.LND.FRST.ZS,0.241587575496117
+Djibouti,DJI,2015,Forest area (% of land area),AG.LND.FRST.ZS,0.241587575496117
+Djibouti,DJI,2014,Forest area (% of land area),AG.LND.FRST.ZS,0.241587575496117
+Djibouti,DJI,2013,Forest area (% of land area),AG.LND.FRST.ZS,0.241587575496117
+Djibouti,DJI,2012,Forest area (% of land area),AG.LND.FRST.ZS,0.241587575496117
+Djibouti,DJI,2011,Forest area (% of land area),AG.LND.FRST.ZS,0.241587575496117
+Djibouti,DJI,2010,Forest area (% of land area),AG.LND.FRST.ZS,0.241587575496117
+Djibouti,DJI,2009,Forest area (% of land area),AG.LND.FRST.ZS,0.241587575496117
+Djibouti,DJI,2008,Forest area (% of land area),AG.LND.FRST.ZS,0.241587575496117
+Djibouti,DJI,2007,Forest area (% of land area),AG.LND.FRST.ZS,0.241587575496117
+Djibouti,DJI,2006,Forest area (% of land area),AG.LND.FRST.ZS,0.241587575496117
+Djibouti,DJI,2005,Forest area (% of land area),AG.LND.FRST.ZS,0.241587575496117
+Djibouti,DJI,2004,Forest area (% of land area),AG.LND.FRST.ZS,0.241587575496117
+Djibouti,DJI,2003,Forest area (% of land area),AG.LND.FRST.ZS,0.241587575496117
+Djibouti,DJI,2002,Forest area (% of land area),AG.LND.FRST.ZS,0.241587575496117
+Djibouti,DJI,2001,Forest area (% of land area),AG.LND.FRST.ZS,0.241587575496117
+Djibouti,DJI,2000,Forest area (% of land area),AG.LND.FRST.ZS,0.241587575496117
+Djibouti,DJI,1999,Forest area (% of land area),AG.LND.FRST.ZS,0.241587575496117
+Djibouti,DJI,1998,Forest area (% of land area),AG.LND.FRST.ZS,0.241587575496117
+Djibouti,DJI,1997,Forest area (% of land area),AG.LND.FRST.ZS,0.241587575496117
+Djibouti,DJI,1996,Forest area (% of land area),AG.LND.FRST.ZS,0.241587575496117
+Djibouti,DJI,1995,Forest area (% of land area),AG.LND.FRST.ZS,0.241587575496117
+Djibouti,DJI,1994,Forest area (% of land area),AG.LND.FRST.ZS,0.241587575496117
+Djibouti,DJI,1993,Forest area (% of land area),AG.LND.FRST.ZS,0.241587575496117
+Djibouti,DJI,1992,Forest area (% of land area),AG.LND.FRST.ZS,0.241587575496117
+Djibouti,DJI,1991,Forest area (% of land area),AG.LND.FRST.ZS,0.241587575496117
+Djibouti,DJI,1990,Forest area (% of land area),AG.LND.FRST.ZS,0.241587575496117
+Djibouti,DJI,2021,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,2020,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,2019,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,2018,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,2017,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,2016,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,2015,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,2014,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,2013,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,2012,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,2011,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,2010,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,2009,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,2008,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,2007,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,2006,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,2005,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,2004,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,2003,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,2002,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,2001,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,2000,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1999,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1998,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1997,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1996,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1995,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1994,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1993,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1992,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1991,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1990,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1989,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1988,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1987,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1986,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1985,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1984,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1983,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1982,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1981,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1980,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1979,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1978,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1977,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1976,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1975,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1974,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1973,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1972,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1971,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1970,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1969,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1968,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1967,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1966,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1965,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1964,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1963,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1962,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,1961,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,220
+Djibouti,DJI,2022,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2061.7
+Djibouti,DJI,2021,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1973.9
+Djibouti,DJI,2020,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2039.3
+Djibouti,DJI,2019,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2024.7
+Djibouti,DJI,2018,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1998.2
+Djibouti,DJI,2017,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1998.7
+Djibouti,DJI,2016,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1998.2
+Djibouti,DJI,2015,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2007.6
+Djibouti,DJI,2014,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1986.4
+Djibouti,DJI,2013,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2000
+Djibouti,DJI,2012,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2000
+Djibouti,DJI,2011,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1879.3
+Djibouti,DJI,2010,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1848.3
+Djibouti,DJI,2009,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1816.7
+Djibouti,DJI,2008,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1780.6
+Djibouti,DJI,2007,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1738.2
+Djibouti,DJI,2006,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1666.7
+Djibouti,DJI,2005,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1500
+Djibouti,DJI,2004,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1658.7
+Djibouti,DJI,2003,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1666.7
+Djibouti,DJI,2002,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1666.7
+Djibouti,DJI,2001,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1714.3
+Djibouti,DJI,2000,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1833.3
+Djibouti,DJI,1999,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1769.4
+Djibouti,DJI,1998,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1726
+Djibouti,DJI,1997,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1704.7
+Djibouti,DJI,1996,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1683.3
+Djibouti,DJI,1995,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1666.7
+Djibouti,DJI,1994,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1657.5
+Djibouti,DJI,1993,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1651.9
+Djibouti,DJI,1992,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1647.3
+Djibouti,DJI,1991,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1643.3
+Djibouti,DJI,1990,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1666.7
+Djibouti,DJI,1989,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1333.3
+Djibouti,DJI,1988,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1538.5
+Djibouti,DJI,1987,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1500
+Djibouti,DJI,1986,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1666.7
+Djibouti,DJI,1985,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1750
+Djibouti,DJI,1984,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2333.3
+Djibouti,DJI,1983,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2500
+Djibouti,DJI,1982,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2500
+Djibouti,DJI,1981,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2500
+Djibouti,DJI,2024,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.65964915631996
+Djibouti,DJI,2023,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.49768158438671
+Djibouti,DJI,2022,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,5.24930012962198
+Djibouti,DJI,2021,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.91482788768699
+Djibouti,DJI,2020,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,5.03254315668511
+Djibouti,DJI,2019,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,5.66550441566639
+Djibouti,DJI,2018,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,5.83497725047345
+Djibouti,DJI,2017,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,5.97013597143086
+Djibouti,DJI,2016,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,6.1420623506391
+Djibouti,DJI,2015,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,5.93271216592948
+Djibouti,DJI,2014,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,6.88983261287103
+Djibouti,DJI,2013,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,13.9893763417185
+Djibouti,DJI,2012,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,8.12615091720048
+Djibouti,DJI,2011,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,6.37538483893526
+Djibouti,DJI,2010,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.23415329697175
+Djibouti,DJI,2009,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,9.2325515288363
+Djibouti,DJI,2008,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,22.785843817934
+Djibouti,DJI,2007,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,23.0388936446949
+Djibouti,DJI,2006,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,14.0839401368509
+Djibouti,DJI,2005,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.13326292887826
+Djibouti,DJI,2004,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,5.78669482576557
+Djibouti,DJI,2003,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.28673980374562
+Djibouti,DJI,2002,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.580649337298248
+Djibouti,DJI,2001,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.592742006829803
+Djibouti,DJI,2000,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.596129445834392
+Djibouti,DJI,1999,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.599332232633272
+Djibouti,DJI,1998,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.617093489663684
+Djibouti,DJI,1997,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.616772633652726
+Djibouti,DJI,1996,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.660629876416653
+Djibouti,DJI,1995,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.646649181513972
+Djibouti,DJI,1994,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.289528343451568
+Djibouti,DJI,1993,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.305457425513061
+Djibouti,DJI,1992,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.479043325761231
+Djibouti,DJI,1991,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.495241664547389
+Djibouti,DJI,1990,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.0132647080044086
+Djibouti,DJI,1989,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-0.0317677465249493
+Djibouti,DJI,1988,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.151593804723951
+Djibouti,DJI,1987,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.112488428269259
+Djibouti,DJI,1985,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.0674507517490648
+Djibouti,DJI,2023,Access to electricity (% of population),EG.ELC.ACCS.ZS,65.2
+Djibouti,DJI,2022,Access to electricity (% of population),EG.ELC.ACCS.ZS,65
+Djibouti,DJI,2021,Access to electricity (% of population),EG.ELC.ACCS.ZS,65.4
+Djibouti,DJI,2020,Access to electricity (% of population),EG.ELC.ACCS.ZS,64.5
+Djibouti,DJI,2019,Access to electricity (% of population),EG.ELC.ACCS.ZS,64.7
+Djibouti,DJI,2018,Access to electricity (% of population),EG.ELC.ACCS.ZS,62.4
+Djibouti,DJI,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,60.2
+Djibouti,DJI,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,59.8
+Djibouti,DJI,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,59.1
+Djibouti,DJI,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,58.9
+Djibouti,DJI,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,58.6
+Djibouti,DJI,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,54.6
+Djibouti,DJI,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,58.1
+Djibouti,DJI,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,57.9
+Djibouti,DJI,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,57.6
+Djibouti,DJI,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,57.4
+Djibouti,DJI,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,57.2
+Djibouti,DJI,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,55.5
+Djibouti,DJI,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,56.8
+Djibouti,DJI,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,56.6
+Djibouti,DJI,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,56.4
+Djibouti,DJI,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,49.7
+Djibouti,DJI,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,56.1
+Djibouti,DJI,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,56
+Djibouti,DJI,1999,Access to electricity (% of population),EG.ELC.ACCS.ZS,56.3451690673828
+Djibouti,DJI,1998,Access to electricity (% of population),EG.ELC.ACCS.ZS,56.3222541809082
+Djibouti,DJI,1997,Access to electricity (% of population),EG.ELC.ACCS.ZS,56.2944946289063
+Djibouti,DJI,1996,Access to electricity (% of population),EG.ELC.ACCS.ZS,62
+Djibouti,DJI,2021,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Djibouti,DJI,2020,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Djibouti,DJI,2019,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Djibouti,DJI,2018,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Djibouti,DJI,2017,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Djibouti,DJI,2016,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Djibouti,DJI,2015,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Djibouti,DJI,2014,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Djibouti,DJI,2013,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Djibouti,DJI,2012,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Djibouti,DJI,2011,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Djibouti,DJI,2010,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Djibouti,DJI,2009,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Djibouti,DJI,2008,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Djibouti,DJI,2007,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Djibouti,DJI,2006,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Djibouti,DJI,2005,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Djibouti,DJI,2004,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Djibouti,DJI,2003,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Djibouti,DJI,2002,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Djibouti,DJI,2001,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Djibouti,DJI,2000,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Djibouti,DJI,2021,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Djibouti,DJI,2020,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Djibouti,DJI,2019,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Djibouti,DJI,2018,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Djibouti,DJI,2017,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Djibouti,DJI,2016,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Djibouti,DJI,2015,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Djibouti,DJI,2014,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Djibouti,DJI,2013,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Djibouti,DJI,2012,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Djibouti,DJI,2011,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Djibouti,DJI,2010,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Djibouti,DJI,2009,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Djibouti,DJI,2008,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Djibouti,DJI,2007,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Djibouti,DJI,2006,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Djibouti,DJI,2005,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Djibouti,DJI,2004,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Djibouti,DJI,2003,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Djibouti,DJI,2002,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Djibouti,DJI,2001,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Djibouti,DJI,2000,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Djibouti,DJI,2021,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Djibouti,DJI,2020,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Djibouti,DJI,2019,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Djibouti,DJI,2018,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Djibouti,DJI,2017,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Djibouti,DJI,2016,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Djibouti,DJI,2015,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Djibouti,DJI,2014,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Djibouti,DJI,2013,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Djibouti,DJI,2012,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Djibouti,DJI,2011,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Djibouti,DJI,2010,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Djibouti,DJI,2009,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Djibouti,DJI,2008,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Djibouti,DJI,2007,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Djibouti,DJI,2006,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Djibouti,DJI,2005,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Djibouti,DJI,2004,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Djibouti,DJI,2003,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Djibouti,DJI,2002,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Djibouti,DJI,2001,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Djibouti,DJI,2000,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Djibouti,DJI,2021,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Djibouti,DJI,2020,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Djibouti,DJI,2019,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Djibouti,DJI,2018,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Djibouti,DJI,2017,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Djibouti,DJI,2016,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Djibouti,DJI,2015,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Djibouti,DJI,2014,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Djibouti,DJI,2013,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Djibouti,DJI,2012,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Djibouti,DJI,2011,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Djibouti,DJI,2010,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Djibouti,DJI,2009,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Djibouti,DJI,2008,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Djibouti,DJI,2007,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Djibouti,DJI,2006,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Djibouti,DJI,2005,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Djibouti,DJI,2004,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Djibouti,DJI,2003,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Djibouti,DJI,2002,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Djibouti,DJI,2001,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Djibouti,DJI,2000,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Djibouti,DJI,2021,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,64.6464646464647
+Djibouti,DJI,2020,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,99.5222929936306
+Djibouti,DJI,2019,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,99.3449781659389
+Djibouti,DJI,2018,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,98.9208633093525
+Djibouti,DJI,2017,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,98.993288590604
+Djibouti,DJI,2016,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,99.3227990970655
+Djibouti,DJI,2015,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,99.7198879551821
+Djibouti,DJI,2014,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,99.5024875621891
+Djibouti,DJI,2013,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,99.8846597462514
+Djibouti,DJI,2012,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,99.8719590268886
+Djibouti,DJI,2011,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Djibouti,DJI,2010,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Djibouti,DJI,2009,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Djibouti,DJI,2008,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Djibouti,DJI,2007,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Djibouti,DJI,2006,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Djibouti,DJI,2005,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Djibouti,DJI,2004,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Djibouti,DJI,2003,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Djibouti,DJI,2002,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Djibouti,DJI,2001,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Djibouti,DJI,2000,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Djibouti,DJI,2021,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,35.3535353535354
+Djibouti,DJI,2020,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.477707006369427
+Djibouti,DJI,2019,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.655021834061135
+Djibouti,DJI,2018,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,1.07913669064748
+Djibouti,DJI,2017,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,1.00671140939597
+Djibouti,DJI,2016,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.677200902934537
+Djibouti,DJI,2015,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.280112044817927
+Djibouti,DJI,2014,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.497512437810945
+Djibouti,DJI,2013,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.115340253748558
+Djibouti,DJI,2012,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.128040973111396
+Djibouti,DJI,2011,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Djibouti,DJI,2010,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Djibouti,DJI,2009,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Djibouti,DJI,2008,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Djibouti,DJI,2007,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Djibouti,DJI,2006,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Djibouti,DJI,2005,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Djibouti,DJI,2004,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Djibouti,DJI,2003,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Djibouti,DJI,2002,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Djibouti,DJI,2001,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Djibouti,DJI,2000,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Djibouti,DJI,2021,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,70000000
+Djibouti,DJI,2020,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,600000
+Djibouti,DJI,2019,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,600000
+Djibouti,DJI,2018,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,600000
+Djibouti,DJI,2017,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,600000
+Djibouti,DJI,2016,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,600000
+Djibouti,DJI,2015,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,500000
+Djibouti,DJI,2014,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,500000
+Djibouti,DJI,2013,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,500000
+Djibouti,DJI,2012,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,500000
+Djibouti,DJI,2011,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Djibouti,DJI,2010,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Djibouti,DJI,2009,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Djibouti,DJI,2008,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Djibouti,DJI,2007,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Djibouti,DJI,2006,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Djibouti,DJI,2005,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Djibouti,DJI,2004,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Djibouti,DJI,2003,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Djibouti,DJI,2002,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Djibouti,DJI,2001,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Djibouti,DJI,2000,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Djibouti,DJI,2021,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,35.3535353535354
+Djibouti,DJI,2020,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.477707006369427
+Djibouti,DJI,2019,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.655021834061135
+Djibouti,DJI,2018,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.07913669064748
+Djibouti,DJI,2017,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.00671140939597
+Djibouti,DJI,2016,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.677200902934537
+Djibouti,DJI,2015,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.280112044817927
+Djibouti,DJI,2014,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.497512437810945
+Djibouti,DJI,2013,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.115340253748558
+Djibouti,DJI,2012,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.128040973111396
+Djibouti,DJI,2011,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Djibouti,DJI,2010,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Djibouti,DJI,2009,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Djibouti,DJI,2008,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Djibouti,DJI,2007,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Djibouti,DJI,2006,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Djibouti,DJI,2005,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Djibouti,DJI,2004,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Djibouti,DJI,2003,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Djibouti,DJI,2002,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Djibouti,DJI,2001,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Djibouti,DJI,2000,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Djibouti,DJI,2022,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,26.9
+Djibouti,DJI,2021,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,26.6
+Djibouti,DJI,2020,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,27.5
+Djibouti,DJI,2019,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,23.4
+Djibouti,DJI,2018,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,24.7
+Djibouti,DJI,2017,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,23.3
+Djibouti,DJI,2016,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,23.6
+Djibouti,DJI,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,24.8
+Djibouti,DJI,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,29.4
+Djibouti,DJI,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,29.9
+Djibouti,DJI,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,32.3
+Djibouti,DJI,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,32
+Djibouti,DJI,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,32.5
+Djibouti,DJI,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,34.4
+Djibouti,DJI,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,33.1
+Djibouti,DJI,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,32.5
+Djibouti,DJI,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,33
+Djibouti,DJI,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,33.1
+Djibouti,DJI,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,33.6
+Djibouti,DJI,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,32.9
+Djibouti,DJI,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,32.4
+Djibouti,DJI,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,31.7
+Djibouti,DJI,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,31.4
+Djibouti,DJI,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,29.6
+Djibouti,DJI,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,29.6
+Djibouti,DJI,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,32
+Djibouti,DJI,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,34
+Djibouti,DJI,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,32.2
+Djibouti,DJI,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,32.4
+Djibouti,DJI,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,31.2
+Djibouti,DJI,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,30.3
+Djibouti,DJI,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,30.1
+Djibouti,DJI,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,29.6
+Djibouti,DJI,2007,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,163.51677705002
+Djibouti,DJI,2006,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,167.102144983897
+Djibouti,DJI,2005,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,165.640450589692
+Djibouti,DJI,2004,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,160.992780744779
+Djibouti,DJI,1990,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,224.414357643502
+Djibouti,DJI,2009,"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",EN.CLC.MDAT.ZS,6.79684704554282
+Djibouti,DJI,2015,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,2.46515159416008
+Djibouti,DJI,2000,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,2.90582106096569
+Djibouti,DJI,1990,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,2.64081879813276
+Djibouti,DJI,2015,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,8.60943946807135
+Djibouti,DJI,2000,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,6.97694948852883
+Djibouti,DJI,1990,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,6.96576800872689
+Djibouti,DJI,2015,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,11.0745910622314
+Djibouti,DJI,2000,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,9.88277054949452
+Djibouti,DJI,1990,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,9.60658680685964
+Djibouti,DJI,2021,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.019
+Djibouti,DJI,2020,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.019
+Djibouti,DJI,2019,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.019
+Djibouti,DJI,2018,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.019
+Djibouti,DJI,2017,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.019
+Djibouti,DJI,2016,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.019
+Djibouti,DJI,2015,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.019
+Djibouti,DJI,2014,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.019
+Djibouti,DJI,2013,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.019
+Djibouti,DJI,2012,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.019
+Djibouti,DJI,2011,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.019
+Djibouti,DJI,2010,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.019
+Djibouti,DJI,2009,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.019
+Djibouti,DJI,2008,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.019
+Djibouti,DJI,2007,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.019
+Djibouti,DJI,2006,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.019
+Djibouti,DJI,2005,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.019
+Djibouti,DJI,2004,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.019
+Djibouti,DJI,2003,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.019
+Djibouti,DJI,2002,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.019
+Djibouti,DJI,2001,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.019
+Djibouti,DJI,2000,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.019
+Djibouti,DJI,1999,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.0182666667
+Djibouti,DJI,1998,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.0174333333
+Djibouti,DJI,1997,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.0168
+Djibouti,DJI,1996,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.0160666667
+Djibouti,DJI,1995,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.0153333333
+Djibouti,DJI,1994,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.0145
+Djibouti,DJI,1993,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.0138666667
+Djibouti,DJI,1992,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.0131333333
+Djibouti,DJI,1991,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.0124
+Djibouti,DJI,1990,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.0116666667
+Djibouti,DJI,1989,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.0109333333
+Djibouti,DJI,1988,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.0102
+Djibouti,DJI,1987,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.0094666667
+Djibouti,DJI,1986,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.0087333333
+Djibouti,DJI,1985,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.008
+Djibouti,DJI,2021,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.33333333333333
+Djibouti,DJI,2020,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.33333333333333
+Djibouti,DJI,2019,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.33333333333333
+Djibouti,DJI,2018,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.33333333333333
+Djibouti,DJI,2017,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.33333333333333
+Djibouti,DJI,2016,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.33333333333333
+Djibouti,DJI,2015,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.33333333333333
+Djibouti,DJI,2014,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.33333333333333
+Djibouti,DJI,2013,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.33333333333333
+Djibouti,DJI,2012,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.33333333333333
+Djibouti,DJI,2011,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.33333333333333
+Djibouti,DJI,2010,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.33333333333333
+Djibouti,DJI,2009,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.33333333333333
+Djibouti,DJI,2008,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.33333333333333
+Djibouti,DJI,2007,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.33333333333333
+Djibouti,DJI,2006,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.33333333333333
+Djibouti,DJI,2005,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.33333333333333
+Djibouti,DJI,2004,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.33333333333333
+Djibouti,DJI,2003,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.33333333333333
+Djibouti,DJI,2002,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.33333333333333
+Djibouti,DJI,2001,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.33333333333333
+Djibouti,DJI,2000,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.33333333333333
+Djibouti,DJI,1999,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.0888889
+Djibouti,DJI,1998,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,5.8111111
+Djibouti,DJI,1997,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,5.6
+Djibouti,DJI,1996,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,5.35555556666667
+Djibouti,DJI,1995,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,5.1111111
+Djibouti,DJI,1994,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,4.83333333333333
+Djibouti,DJI,1993,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,4.62222223333333
+Djibouti,DJI,1992,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,4.37777776666667
+Djibouti,DJI,1991,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,4.13333333333333
+Djibouti,DJI,1990,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.8888889
+Djibouti,DJI,1989,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.64444443333333
+Djibouti,DJI,1988,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.4
+Djibouti,DJI,1987,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.15555556666667
+Djibouti,DJI,1986,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.9111111
+Djibouti,DJI,1985,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.66666666666667
+Djibouti,DJI,2024,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,1.6
+Djibouti,DJI,2023,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,1.6
+Djibouti,DJI,2022,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,1.6
+Djibouti,DJI,2021,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,1.6
+Djibouti,DJI,2020,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,1.6
+Djibouti,DJI,2019,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,1.6
+Djibouti,DJI,2018,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,1.6
+Djibouti,DJI,2017,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,1.6
+Djibouti,DJI,2016,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,1.6
+Djibouti,DJI,2015,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,1.6
+Djibouti,DJI,2014,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,1.6
+Djibouti,DJI,2013,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,0.1
+Djibouti,DJI,2024,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.2
+Djibouti,DJI,2023,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.2
+Djibouti,DJI,2022,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.2
+Djibouti,DJI,2021,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.2
+Djibouti,DJI,2020,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.2
+Djibouti,DJI,2019,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.2
+Djibouti,DJI,2018,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.2
+Djibouti,DJI,2017,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.2
+Djibouti,DJI,2016,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.2
+Djibouti,DJI,2015,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.2
+Djibouti,DJI,2014,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.2
+Djibouti,DJI,2013,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.3
+Djibouti,DJI,2024,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,1.2
+Djibouti,DJI,2023,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,1.2
+Djibouti,DJI,2022,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,1.2
+Djibouti,DJI,2021,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,1.2
+Djibouti,DJI,2020,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,1.2
+Djibouti,DJI,2019,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,1.2
+Djibouti,DJI,2018,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,1.2
+Djibouti,DJI,2017,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,1.3
+Djibouti,DJI,2016,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,1.2
+Djibouti,DJI,2015,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,1.2
+Djibouti,DJI,2014,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,1.2
+Djibouti,DJI,2013,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,0.1
+Djibouti,DJI,2024,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,3.1
+Djibouti,DJI,2023,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,3.1
+Djibouti,DJI,2022,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,3.1
+Djibouti,DJI,2021,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,3.1
+Djibouti,DJI,2020,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,3.2
+Djibouti,DJI,2019,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,3.1
+Djibouti,DJI,2018,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,3
+Djibouti,DJI,2017,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.7
+Djibouti,DJI,2016,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.7
+Djibouti,DJI,2015,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.7
+Djibouti,DJI,2014,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.7
+Djibouti,DJI,2013,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.7
+Djibouti,DJI,2012,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.6
+Djibouti,DJI,2011,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.8
+Djibouti,DJI,2010,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.8
+Djibouti,DJI,2009,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.8
+Djibouti,DJI,2008,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.8
+Djibouti,DJI,2007,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.8
+Djibouti,DJI,2006,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.8
+Djibouti,DJI,2005,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.8
+Djibouti,DJI,2024,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.58338607501002
+Djibouti,DJI,2023,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.49007578360367
+Djibouti,DJI,2022,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.63101792247644
+Djibouti,DJI,2021,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.00716226184265
+Djibouti,DJI,2020,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.99744473588682
+Djibouti,DJI,2019,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.51935229833123
+Djibouti,DJI,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.41671102035767
+Djibouti,DJI,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.29424095183589
+Djibouti,DJI,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.99558771996226
+Djibouti,DJI,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.05900752644099
+Djibouti,DJI,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.22411023326762
+Djibouti,DJI,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.19392304728354
+Djibouti,DJI,2021,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.972949981689453
+Djibouti,DJI,2020,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00286996364594
+Djibouti,DJI,2019,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02002000808716
+Djibouti,DJI,2018,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.0144499540329
+Djibouti,DJI,2017,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02550005912781
+Djibouti,DJI,2016,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01397001743317
+Djibouti,DJI,2015,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00581002235413
+Djibouti,DJI,2014,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00177001953125
+Djibouti,DJI,2013,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.983290016651154
+Djibouti,DJI,2012,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.992999970912933
+Djibouti,DJI,2011,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00932002067566
+Djibouti,DJI,2009,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.906270027160645
+Djibouti,DJI,2008,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.854839980602264
+Djibouti,DJI,2007,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.820469975471497
+Djibouti,DJI,2006,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.764829993247986
+Djibouti,DJI,2005,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.75586998462677
+Djibouti,DJI,2004,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.750240027904511
+Djibouti,DJI,2002,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.717509984970093
+Djibouti,DJI,2001,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.711279988288879
+Djibouti,DJI,2000,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.715020000934601
+Djibouti,DJI,1999,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.719129979610443
+Djibouti,DJI,1997,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.738460004329681
+Djibouti,DJI,1996,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.747039973735809
+Djibouti,DJI,1995,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.755720019340515
+Djibouti,DJI,1994,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.766889989376068
+Djibouti,DJI,1993,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.776970028877258
+Djibouti,DJI,1992,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.714789986610413
+Djibouti,DJI,1989,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.724940001964569
+Djibouti,DJI,1988,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.723209977149963
+Djibouti,DJI,1987,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.714609980583191
+Djibouti,DJI,1986,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.705200016498566
+Djibouti,DJI,1985,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.710219979286194
+Djibouti,DJI,1984,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.71833997964859
+Djibouti,DJI,1983,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.722230017185211
+Djibouti,DJI,1982,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.714699983596802
+Djibouti,DJI,1976,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.518830001354218
+Djibouti,DJI,1975,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.544120013713837
+Djibouti,DJI,1974,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.526700019836426
+Djibouti,DJI,1973,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.49439001083374
+Djibouti,DJI,1971,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.421480000019073
+Djibouti,DJI,2023,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,50.4
+Djibouti,DJI,2022,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,52.2
+Djibouti,DJI,2021,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,53.8
+Djibouti,DJI,2020,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,55.6
+Djibouti,DJI,2019,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,57.5
+Djibouti,DJI,2018,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,59.4
+Djibouti,DJI,2017,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,61.3
+Djibouti,DJI,2016,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,63.3
+Djibouti,DJI,2015,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,65.1
+Djibouti,DJI,2014,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,67.2
+Djibouti,DJI,2013,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,69.3
+Djibouti,DJI,2012,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,71.4
+Djibouti,DJI,2011,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,73.6
+Djibouti,DJI,2010,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,75.9
+Djibouti,DJI,2009,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,78.1
+Djibouti,DJI,2008,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,80.3
+Djibouti,DJI,2007,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,82.8
+Djibouti,DJI,2006,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,85.3
+Djibouti,DJI,2005,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,87.7
+Djibouti,DJI,2004,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,90
+Djibouti,DJI,2003,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,92.4
+Djibouti,DJI,2002,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,94.8
+Djibouti,DJI,2001,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,97.2
+Djibouti,DJI,2000,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,99.5
+Djibouti,DJI,1999,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,101.5
+Djibouti,DJI,1998,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,103.4
+Djibouti,DJI,1997,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,105.1
+Djibouti,DJI,1996,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,106.6
+Djibouti,DJI,1995,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,107.9
+Djibouti,DJI,1994,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,109.3
+Djibouti,DJI,1993,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,110.6
+Djibouti,DJI,1992,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,112.2
+Djibouti,DJI,1991,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,114
+Djibouti,DJI,1990,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,116.3
+Djibouti,DJI,1989,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,118.8
+Djibouti,DJI,1988,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,121.6
+Djibouti,DJI,1987,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,124.7
+Djibouti,DJI,1986,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,128.1
+Djibouti,DJI,1985,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,131.8
+Djibouti,DJI,1984,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,135.6
+Djibouti,DJI,1983,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,139.7
+Djibouti,DJI,1982,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,143.8
+Djibouti,DJI,1981,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,148.4
+Djibouti,DJI,1980,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,152.6
+Djibouti,DJI,1979,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,157
+Djibouti,DJI,1978,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,161.7
+Djibouti,DJI,1977,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,166.3
+Djibouti,DJI,1976,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,171
+Djibouti,DJI,2023,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,17.7
+Djibouti,DJI,2019,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,16.2
+Djibouti,DJI,2013,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,26
+Djibouti,DJI,2011,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,24.2
+Djibouti,DJI,1996,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,19.7
+Djibouti,DJI,1989,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,20.2
+Djibouti,DJI,2017,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,25.4
+Djibouti,DJI,2013,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,31.2
+Djibouti,DJI,2012,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,26.4
+Djibouti,DJI,2002,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,32.3
+Djibouti,DJI,2024,Population growth (annual %),SP.POP.GROW,1.3592172957681
+Djibouti,DJI,2023,Population growth (annual %),SP.POP.GROW,1.38410272350128
+Djibouti,DJI,2022,Population growth (annual %),SP.POP.GROW,1.40352932560807
+Djibouti,DJI,2021,Population growth (annual %),SP.POP.GROW,1.44268944208775
+Djibouti,DJI,2020,Population growth (annual %),SP.POP.GROW,1.50228656339009
+Djibouti,DJI,2019,Population growth (annual %),SP.POP.GROW,1.55766086478885
+Djibouti,DJI,2018,Population growth (annual %),SP.POP.GROW,1.60259372935612
+Djibouti,DJI,2017,Population growth (annual %),SP.POP.GROW,1.64286125399062
+Djibouti,DJI,2016,Population growth (annual %),SP.POP.GROW,1.68519891610854
+Djibouti,DJI,2015,Population growth (annual %),SP.POP.GROW,1.73961273409176
+Djibouti,DJI,2014,Population growth (annual %),SP.POP.GROW,1.80056496059208
+Djibouti,DJI,2013,Population growth (annual %),SP.POP.GROW,1.85261177020025
+Djibouti,DJI,2012,Population growth (annual %),SP.POP.GROW,1.8993890613377
+Djibouti,DJI,2011,Population growth (annual %),SP.POP.GROW,1.94884944824561
+Djibouti,DJI,2010,Population growth (annual %),SP.POP.GROW,2.03332270229716
+Djibouti,DJI,2009,Population growth (annual %),SP.POP.GROW,2.08325510197307
+Djibouti,DJI,2008,Population growth (annual %),SP.POP.GROW,2.06043519210448
+Djibouti,DJI,2007,Population growth (annual %),SP.POP.GROW,2.16896750475782
+Djibouti,DJI,2006,Population growth (annual %),SP.POP.GROW,1.95849040506805
+Djibouti,DJI,2005,Population growth (annual %),SP.POP.GROW,1.56648498246787
+Djibouti,DJI,2004,Population growth (annual %),SP.POP.GROW,1.53756010632665
+Djibouti,DJI,2003,Population growth (annual %),SP.POP.GROW,2.23054155487864
+Djibouti,DJI,2002,Population growth (annual %),SP.POP.GROW,3.09696092483835
+Djibouti,DJI,2001,Population growth (annual %),SP.POP.GROW,3.16034601005493
+Djibouti,DJI,2000,Population growth (annual %),SP.POP.GROW,3.13983453232405
+Djibouti,DJI,1999,Population growth (annual %),SP.POP.GROW,3.49382600154796
+Djibouti,DJI,1998,Population growth (annual %),SP.POP.GROW,4.01682100112432
+Djibouti,DJI,1997,Population growth (annual %),SP.POP.GROW,3.55583927718347
+Djibouti,DJI,1996,Population growth (annual %),SP.POP.GROW,2.38402702915598
+Djibouti,DJI,1995,Population growth (annual %),SP.POP.GROW,1.01034052435923
+Djibouti,DJI,1994,Population growth (annual %),SP.POP.GROW,2.00900423413595
+Djibouti,DJI,1993,Population growth (annual %),SP.POP.GROW,-1.89724740533846
+Djibouti,DJI,1992,Population growth (annual %),SP.POP.GROW,-0.808530681693408
+Djibouti,DJI,1991,Population growth (annual %),SP.POP.GROW,8.52204178299047
+Djibouti,DJI,1990,Population growth (annual %),SP.POP.GROW,10.1971224309312
+Djibouti,DJI,1989,Population growth (annual %),SP.POP.GROW,7.70951082668141
+Djibouti,DJI,1988,Population growth (annual %),SP.POP.GROW,6.41892351240116
+Djibouti,DJI,1987,Population growth (annual %),SP.POP.GROW,6.37361711521884
+Djibouti,DJI,1986,Population growth (annual %),SP.POP.GROW,5.70799103076287
+Djibouti,DJI,1985,Population growth (annual %),SP.POP.GROW,4.73790213434161
+Djibouti,DJI,1984,Population growth (annual %),SP.POP.GROW,3.84863967177875
+Djibouti,DJI,1983,Population growth (annual %),SP.POP.GROW,3.48945763592646
+Djibouti,DJI,1982,Population growth (annual %),SP.POP.GROW,3.95321268022398
+Djibouti,DJI,1981,Population growth (annual %),SP.POP.GROW,5.15377283940028
+Djibouti,DJI,1980,Population growth (annual %),SP.POP.GROW,6.76159564458876
+Djibouti,DJI,1979,Population growth (annual %),SP.POP.GROW,8.3813467851289
+Djibouti,DJI,1978,Population growth (annual %),SP.POP.GROW,9.51555660197874
+Djibouti,DJI,1977,Population growth (annual %),SP.POP.GROW,9.84662115390561
+Djibouti,DJI,1976,Population growth (annual %),SP.POP.GROW,9.46091942801282
+Djibouti,DJI,1975,Population growth (annual %),SP.POP.GROW,8.5986344997494
+Djibouti,DJI,1974,Population growth (annual %),SP.POP.GROW,7.63801483802472
+Djibouti,DJI,1973,Population growth (annual %),SP.POP.GROW,7.07740769995858
+Djibouti,DJI,1972,Population growth (annual %),SP.POP.GROW,6.9226617543551
+Djibouti,DJI,1971,Population growth (annual %),SP.POP.GROW,6.63622403086263
+Djibouti,DJI,1970,Population growth (annual %),SP.POP.GROW,6.47116605154322
+Djibouti,DJI,1969,Population growth (annual %),SP.POP.GROW,5.92467666918025
+Djibouti,DJI,1968,Population growth (annual %),SP.POP.GROW,5.28416351592854
+Djibouti,DJI,1967,Population growth (annual %),SP.POP.GROW,5.38713216004184
+Djibouti,DJI,1966,Population growth (annual %),SP.POP.GROW,5.50769643634537
+Djibouti,DJI,1965,Population growth (annual %),SP.POP.GROW,5.5542089913012
+Djibouti,DJI,1964,Population growth (annual %),SP.POP.GROW,5.29889705145004
+Djibouti,DJI,1963,Population growth (annual %),SP.POP.GROW,4.80226191801968
+Djibouti,DJI,1962,Population growth (annual %),SP.POP.GROW,4.26290642202511
+Djibouti,DJI,1961,Population growth (annual %),SP.POP.GROW,3.8382492011536
+Djibouti,DJI,2024,"Population, total",SP.POP.TOTL,1168722
+Djibouti,DJI,2023,"Population, total",SP.POP.TOTL,1152944
+Djibouti,DJI,2022,"Population, total",SP.POP.TOTL,1137096
+Djibouti,DJI,2021,"Population, total",SP.POP.TOTL,1121248
+Djibouti,DJI,2020,"Population, total",SP.POP.TOTL,1105188
+Djibouti,DJI,2019,"Population, total",SP.POP.TOTL,1088709
+Djibouti,DJI,2018,"Population, total",SP.POP.TOTL,1071882
+Djibouti,DJI,2017,"Population, total",SP.POP.TOTL,1054841
+Djibouti,DJI,2016,"Population, total",SP.POP.TOTL,1037653
+Djibouti,DJI,2015,"Population, total",SP.POP.TOTL,1020313
+Djibouti,DJI,2014,"Population, total",SP.POP.TOTL,1002717
+Djibouti,DJI,2013,"Population, total",SP.POP.TOTL,984824
+Djibouti,DJI,2012,"Population, total",SP.POP.TOTL,966747
+Djibouti,DJI,2011,"Population, total",SP.POP.TOTL,948558
+Djibouti,DJI,2010,"Population, total",SP.POP.TOTL,930251
+Djibouti,DJI,2009,"Population, total",SP.POP.TOTL,911527
+Djibouti,DJI,2008,"Population, total",SP.POP.TOTL,892734
+Djibouti,DJI,2007,"Population, total",SP.POP.TOTL,874528
+Djibouti,DJI,2006,"Population, total",SP.POP.TOTL,855764
+Djibouti,DJI,2005,"Population, total",SP.POP.TOTL,839167
+Djibouti,DJI,2004,"Population, total",SP.POP.TOTL,826124
+Djibouti,DJI,2003,"Population, total",SP.POP.TOTL,813519
+Djibouti,DJI,2002,"Population, total",SP.POP.TOTL,795574
+Djibouti,DJI,2001,"Population, total",SP.POP.TOTL,771313
+Djibouti,DJI,2000,"Population, total",SP.POP.TOTL,747318
+Djibouti,DJI,1999,"Population, total",SP.POP.TOTL,724218
+Djibouti,DJI,1998,"Population, total",SP.POP.TOTL,699352
+Djibouti,DJI,1997,"Population, total",SP.POP.TOTL,671817
+Djibouti,DJI,1996,"Population, total",SP.POP.TOTL,648348
+Djibouti,DJI,1995,"Population, total",SP.POP.TOTL,633074
+Djibouti,DJI,1994,"Population, total",SP.POP.TOTL,626710
+Djibouti,DJI,1993,"Population, total",SP.POP.TOTL,614245
+Djibouti,DJI,1992,"Population, total",SP.POP.TOTL,626010
+Djibouti,DJI,1991,"Population, total",SP.POP.TOTL,631092
+Djibouti,DJI,1990,"Population, total",SP.POP.TOTL,579538
+Djibouti,DJI,1989,"Population, total",SP.POP.TOTL,523355
+Djibouti,DJI,1988,"Population, total",SP.POP.TOTL,484523
+Djibouti,DJI,1987,"Population, total",SP.POP.TOTL,454399
+Djibouti,DJI,1986,"Population, total",SP.POP.TOTL,426341
+Djibouti,DJI,1985,"Population, total",SP.POP.TOTL,402687
+Djibouti,DJI,1984,"Population, total",SP.POP.TOTL,384053
+Djibouti,DJI,1983,"Population, total",SP.POP.TOTL,369553
+Djibouti,DJI,1982,"Population, total",SP.POP.TOTL,356880
+Djibouti,DJI,1981,"Population, total",SP.POP.TOTL,343047
+Djibouti,DJI,1980,"Population, total",SP.POP.TOTL,325815
+Djibouti,DJI,1979,"Population, total",SP.POP.TOTL,304513
+Djibouti,DJI,1978,"Population, total",SP.POP.TOTL,280031
+Djibouti,DJI,1977,"Population, total",SP.POP.TOTL,254613
+Djibouti,DJI,1976,"Population, total",SP.POP.TOTL,230737
+Djibouti,DJI,1975,"Population, total",SP.POP.TOTL,209908
+Djibouti,DJI,1974,"Population, total",SP.POP.TOTL,192613
+Djibouti,DJI,1973,"Population, total",SP.POP.TOTL,178449
+Djibouti,DJI,1972,"Population, total",SP.POP.TOTL,166256
+Djibouti,DJI,1971,"Population, total",SP.POP.TOTL,155136
+Djibouti,DJI,1970,"Population, total",SP.POP.TOTL,145175
+Djibouti,DJI,1969,"Population, total",SP.POP.TOTL,136078
+Djibouti,DJI,1968,"Population, total",SP.POP.TOTL,128250
+Djibouti,DJI,1967,"Population, total",SP.POP.TOTL,121649
+Djibouti,DJI,1966,"Population, total",SP.POP.TOTL,115269
+Djibouti,DJI,1965,"Population, total",SP.POP.TOTL,109092
+Djibouti,DJI,1964,"Population, total",SP.POP.TOTL,103198
+Djibouti,DJI,1963,"Population, total",SP.POP.TOTL,97872
+Djibouti,DJI,1962,"Population, total",SP.POP.TOTL,93283
+Djibouti,DJI,1961,"Population, total",SP.POP.TOTL,89390
+Djibouti,DJI,1960,"Population, total",SP.POP.TOTL,86024
+Djibouti,DJI,2024,Urban population growth (annual %),SP.URB.GROW,1.58803305903748
+Djibouti,DJI,2023,Urban population growth (annual %),SP.URB.GROW,1.60333600140127
+Djibouti,DJI,2022,Urban population growth (annual %),SP.URB.GROW,1.61167297273418
+Djibouti,DJI,2021,Urban population growth (annual %),SP.URB.GROW,1.64108758536696
+Djibouti,DJI,2020,Urban population growth (annual %),SP.URB.GROW,1.69074746442994
+Djibouti,DJI,2019,Urban population growth (annual %),SP.URB.GROW,1.73493869190671
+Djibouti,DJI,2018,Urban population growth (annual %),SP.URB.GROW,1.7686232707715
+Djibouti,DJI,2017,Urban population growth (annual %),SP.URB.GROW,1.7974842371035
+Djibouti,DJI,2016,Urban population growth (annual %),SP.URB.GROW,1.82848703751209
+Djibouti,DJI,2015,Urban population growth (annual %),SP.URB.GROW,1.87273424705729
+Djibouti,DJI,2014,Urban population growth (annual %),SP.URB.GROW,1.91965221319605
+Djibouti,DJI,2013,Urban population growth (annual %),SP.URB.GROW,1.96151631954069
+Djibouti,DJI,2012,Urban population growth (annual %),SP.URB.GROW,1.9952907653279
+Djibouti,DJI,2011,Urban population growth (annual %),SP.URB.GROW,2.0332619412891
+Djibouti,DJI,2010,Urban population growth (annual %),SP.URB.GROW,2.10483000998775
+Djibouti,DJI,2009,Urban population growth (annual %),SP.URB.GROW,2.14163844134141
+Djibouti,DJI,2008,Urban population growth (annual %),SP.URB.GROW,2.12034249993648
+Djibouti,DJI,2007,Urban population growth (annual %),SP.URB.GROW,2.22878696538986
+Djibouti,DJI,2006,Urban population growth (annual %),SP.URB.GROW,2.01844816677361
+Djibouti,DJI,2005,Urban population growth (annual %),SP.URB.GROW,1.62517407948792
+Djibouti,DJI,2004,Urban population growth (annual %),SP.URB.GROW,1.59749686299509
+Djibouti,DJI,2003,Urban population growth (annual %),SP.URB.GROW,2.29049213111381
+Djibouti,DJI,2002,Urban population growth (annual %),SP.URB.GROW,3.1570861147927
+Djibouti,DJI,2001,Urban population growth (annual %),SP.URB.GROW,3.22049381892933
+Djibouti,DJI,2000,Urban population growth (annual %),SP.URB.GROW,3.20121841021859
+Djibouti,DJI,1999,Urban population growth (annual %),SP.URB.GROW,3.55390107569659
+Djibouti,DJI,1998,Urban population growth (annual %),SP.URB.GROW,4.07710989709665
+Djibouti,DJI,1997,Urban population growth (annual %),SP.URB.GROW,3.61609103405936
+Djibouti,DJI,1996,Urban population growth (annual %),SP.URB.GROW,2.445652648779
+Djibouti,DJI,1995,Urban population growth (annual %),SP.URB.GROW,1.07064417802495
+Djibouti,DJI,1994,Urban population growth (annual %),SP.URB.GROW,2.07049973094963
+Djibouti,DJI,1993,Urban population growth (annual %),SP.URB.GROW,-1.83670057850114
+Djibouti,DJI,1992,Urban population growth (annual %),SP.URB.GROW,-0.746824154765542
+Djibouti,DJI,1991,Urban population growth (annual %),SP.URB.GROW,8.72837539458762
+Djibouti,DJI,1990,Urban population growth (annual %),SP.URB.GROW,10.466158282659
+Djibouti,DJI,1989,Urban population growth (annual %),SP.URB.GROW,7.98058458083975
+Djibouti,DJI,1988,Urban population growth (annual %),SP.URB.GROW,6.69310558818617
+Djibouti,DJI,1987,Urban population growth (annual %),SP.URB.GROW,6.64883355405797
+Djibouti,DJI,1986,Urban population growth (annual %),SP.URB.GROW,5.98661146368095
+Djibouti,DJI,1985,Urban population growth (annual %),SP.URB.GROW,5.01856746340008
+Djibouti,DJI,1984,Urban population growth (annual %),SP.URB.GROW,4.13129175379912
+Djibouti,DJI,1983,Urban population growth (annual %),SP.URB.GROW,4.24680295810124
+Djibouti,DJI,1982,Urban population growth (annual %),SP.URB.GROW,5.19708549879063
+Djibouti,DJI,1981,Urban population growth (annual %),SP.URB.GROW,6.43788659923449
+Djibouti,DJI,1980,Urban population growth (annual %),SP.URB.GROW,8.09505980408861
+Djibouti,DJI,1979,Urban population growth (annual %),SP.URB.GROW,9.75723079310228
+Djibouti,DJI,1978,Urban population growth (annual %),SP.URB.GROW,10.9380561782087
+Djibouti,DJI,1977,Urban population growth (annual %),SP.URB.GROW,11.3146115790428
+Djibouti,DJI,1976,Urban population growth (annual %),SP.URB.GROW,10.9804421495604
+Djibouti,DJI,1975,Urban population growth (annual %),SP.URB.GROW,10.1641556109945
+Djibouti,DJI,1974,Urban population growth (annual %),SP.URB.GROW,9.25311833875552
+Djibouti,DJI,1973,Urban population growth (annual %),SP.URB.GROW,8.73882026103964
+Djibouti,DJI,1972,Urban population growth (annual %),SP.URB.GROW,8.64208829015536
+Djibouti,DJI,1971,Urban population growth (annual %),SP.URB.GROW,8.40205306144117
+Djibouti,DJI,1970,Urban population growth (annual %),SP.URB.GROW,8.28993606348405
+Djibouti,DJI,1969,Urban population growth (annual %),SP.URB.GROW,7.79451715085902
+Djibouti,DJI,1968,Urban population growth (annual %),SP.URB.GROW,7.21032939013439
+Djibouti,DJI,1967,Urban population growth (annual %),SP.URB.GROW,7.36555094173495
+Djibouti,DJI,1966,Urban population growth (annual %),SP.URB.GROW,7.53896206758751
+Djibouti,DJI,1965,Urban population growth (annual %),SP.URB.GROW,7.63776465668407
+Djibouti,DJI,1964,Urban population growth (annual %),SP.URB.GROW,7.44186480798541
+Djibouti,DJI,1963,Urban population growth (annual %),SP.URB.GROW,6.9960791071799
+Djibouti,DJI,1962,Urban population growth (annual %),SP.URB.GROW,6.51512516864136
+Djibouti,DJI,1961,Urban population growth (annual %),SP.URB.GROW,6.0434377025171
+Djibouti,DJI,2024,Urban population,SP.URB.TOTL,920158
+Djibouti,DJI,2023,Urban population,SP.URB.TOTL,905661
+Djibouti,DJI,2022,Urban population,SP.URB.TOTL,891256
+Djibouti,DJI,2021,Urban population,SP.URB.TOTL,877007
+Djibouti,DJI,2020,Urban population,SP.URB.TOTL,862732
+Djibouti,DJI,2019,Urban population,SP.URB.TOTL,848268
+Djibouti,DJI,2018,Urban population,SP.URB.TOTL,833678
+Djibouti,DJI,2017,Urban population,SP.URB.TOTL,819063
+Djibouti,DJI,2016,Urban population,SP.URB.TOTL,804472
+Djibouti,DJI,2015,Urban population,SP.URB.TOTL,789896
+Djibouti,DJI,2014,Urban population,SP.URB.TOTL,775241
+Djibouti,DJI,2013,Urban population,SP.URB.TOTL,760501
+Djibouti,DJI,2012,Urban population,SP.URB.TOTL,745729
+Djibouti,DJI,2011,Urban population,SP.URB.TOTL,730997
+Djibouti,DJI,2010,Urban population,SP.URB.TOTL,716284
+Djibouti,DJI,2009,Urban population,SP.URB.TOTL,701365
+Djibouti,DJI,2008,Urban population,SP.URB.TOTL,686504
+Djibouti,DJI,2007,Urban population,SP.URB.TOTL,672101
+Djibouti,DJI,2006,Urban population,SP.URB.TOTL,657287
+Djibouti,DJI,2005,Urban population,SP.URB.TOTL,644153
+Djibouti,DJI,2004,Urban population,SP.URB.TOTL,633769
+Djibouti,DJI,2003,Urban population,SP.URB.TOTL,623725
+Djibouti,DJI,2002,Urban population,SP.URB.TOTL,609601
+Djibouti,DJI,2001,Urban population,SP.URB.TOTL,590656
+Djibouti,DJI,2000,Urban population,SP.URB.TOTL,571937
+Djibouti,DJI,1999,Urban population,SP.URB.TOTL,553918
+Djibouti,DJI,1998,Urban population,SP.URB.TOTL,534578
+Djibouti,DJI,1997,Urban population,SP.URB.TOTL,513221
+Djibouti,DJI,1996,Urban population,SP.URB.TOTL,494994
+Djibouti,DJI,1995,Urban population,SP.URB.TOTL,483035
+Djibouti,DJI,1994,Urban population,SP.URB.TOTL,477891
+Djibouti,DJI,1993,Urban population,SP.URB.TOTL,468098
+Djibouti,DJI,1992,Urban population,SP.URB.TOTL,476775
+Djibouti,DJI,1991,Urban population,SP.URB.TOTL,480349
+Djibouti,DJI,1990,Urban population,SP.URB.TOTL,440200
+Djibouti,DJI,1989,Urban population,SP.URB.TOTL,396457
+Djibouti,DJI,1988,Urban population,SP.URB.TOTL,366047
+Djibouti,DJI,1987,Urban population,SP.URB.TOTL,342349
+Djibouti,DJI,1986,Urban population,SP.URB.TOTL,320327
+Djibouti,DJI,1985,Urban population,SP.URB.TOTL,301713
+Djibouti,DJI,1984,Urban population,SP.URB.TOTL,286945
+Djibouti,DJI,1983,Urban population,SP.URB.TOTL,275332
+Djibouti,DJI,1982,Urban population,SP.URB.TOTL,263884
+Djibouti,DJI,1981,Urban population,SP.URB.TOTL,250520
+Djibouti,DJI,1980,Urban population,SP.URB.TOTL,234900
+Djibouti,DJI,1979,Urban population,SP.URB.TOTL,216634
+Djibouti,DJI,1978,Urban population,SP.URB.TOTL,196495
+Djibouti,DJI,1977,Urban population,SP.URB.TOTL,176136
+Djibouti,DJI,1976,Urban population,SP.URB.TOTL,157293
+Djibouti,DJI,1975,Urban population,SP.URB.TOTL,140936
+Djibouti,DJI,1974,Urban population,SP.URB.TOTL,127315
+Djibouti,DJI,1973,Urban population,SP.URB.TOTL,116063
+Djibouti,DJI,1972,Urban population,SP.URB.TOTL,106351
+Djibouti,DJI,1971,Urban population,SP.URB.TOTL,97546
+Djibouti,DJI,1970,Urban population,SP.URB.TOTL,89685
+Djibouti,DJI,1969,Urban population,SP.URB.TOTL,82550
+Djibouti,DJI,1968,Urban population,SP.URB.TOTL,76360
+Djibouti,DJI,1967,Urban population,SP.URB.TOTL,71048
+Djibouti,DJI,1966,Urban population,SP.URB.TOTL,66003
+Djibouti,DJI,1965,Urban population,SP.URB.TOTL,61210
+Djibouti,DJI,1964,Urban population,SP.URB.TOTL,56709
+Djibouti,DJI,1963,Urban population,SP.URB.TOTL,52642
+Djibouti,DJI,1962,Urban population,SP.URB.TOTL,49085
+Djibouti,DJI,1961,Urban population,SP.URB.TOTL,45989
+Djibouti,DJI,1960,Urban population,SP.URB.TOTL,43292
+Djibouti,DJI,2024,Urban population (% of total population),SP.URB.TOTL.IN.ZS,78.732
+Djibouti,DJI,2023,Urban population (% of total population),SP.URB.TOTL.IN.ZS,78.552
+Djibouti,DJI,2022,Urban population (% of total population),SP.URB.TOTL.IN.ZS,78.38
+Djibouti,DJI,2021,Urban population (% of total population),SP.URB.TOTL.IN.ZS,78.217
+Djibouti,DJI,2020,Urban population (% of total population),SP.URB.TOTL.IN.ZS,78.062
+Djibouti,DJI,2019,Urban population (% of total population),SP.URB.TOTL.IN.ZS,77.915
+Djibouti,DJI,2018,Urban population (% of total population),SP.URB.TOTL.IN.ZS,77.777
+Djibouti,DJI,2017,Urban population (% of total population),SP.URB.TOTL.IN.ZS,77.648
+Djibouti,DJI,2016,Urban population (% of total population),SP.URB.TOTL.IN.ZS,77.528
+Djibouti,DJI,2015,Urban population (% of total population),SP.URB.TOTL.IN.ZS,77.417
+Djibouti,DJI,2014,Urban population (% of total population),SP.URB.TOTL.IN.ZS,77.314
+Djibouti,DJI,2013,Urban population (% of total population),SP.URB.TOTL.IN.ZS,77.222
+Djibouti,DJI,2012,Urban population (% of total population),SP.URB.TOTL.IN.ZS,77.138
+Djibouti,DJI,2011,Urban population (% of total population),SP.URB.TOTL.IN.ZS,77.064
+Djibouti,DJI,2010,Urban population (% of total population),SP.URB.TOTL.IN.ZS,76.999
+Djibouti,DJI,2009,Urban population (% of total population),SP.URB.TOTL.IN.ZS,76.944
+Djibouti,DJI,2008,Urban population (% of total population),SP.URB.TOTL.IN.ZS,76.899
+Djibouti,DJI,2007,Urban population (% of total population),SP.URB.TOTL.IN.ZS,76.853
+Djibouti,DJI,2006,Urban population (% of total population),SP.URB.TOTL.IN.ZS,76.807
+Djibouti,DJI,2005,Urban population (% of total population),SP.URB.TOTL.IN.ZS,76.761
+Djibouti,DJI,2004,Urban population (% of total population),SP.URB.TOTL.IN.ZS,76.716
+Djibouti,DJI,2003,Urban population (% of total population),SP.URB.TOTL.IN.ZS,76.67
+Djibouti,DJI,2002,Urban population (% of total population),SP.URB.TOTL.IN.ZS,76.624
+Djibouti,DJI,2001,Urban population (% of total population),SP.URB.TOTL.IN.ZS,76.578
+Djibouti,DJI,2000,Urban population (% of total population),SP.URB.TOTL.IN.ZS,76.532
+Djibouti,DJI,1999,Urban population (% of total population),SP.URB.TOTL.IN.ZS,76.485
+Djibouti,DJI,1998,Urban population (% of total population),SP.URB.TOTL.IN.ZS,76.439
+Djibouti,DJI,1997,Urban population (% of total population),SP.URB.TOTL.IN.ZS,76.393
+Djibouti,DJI,1996,Urban population (% of total population),SP.URB.TOTL.IN.ZS,76.347
+Djibouti,DJI,1995,Urban population (% of total population),SP.URB.TOTL.IN.ZS,76.3
+Djibouti,DJI,1994,Urban population (% of total population),SP.URB.TOTL.IN.ZS,76.254
+Djibouti,DJI,1993,Urban population (% of total population),SP.URB.TOTL.IN.ZS,76.207
+Djibouti,DJI,1992,Urban population (% of total population),SP.URB.TOTL.IN.ZS,76.161
+Djibouti,DJI,1991,Urban population (% of total population),SP.URB.TOTL.IN.ZS,76.114
+Djibouti,DJI,1990,Urban population (% of total population),SP.URB.TOTL.IN.ZS,75.957
+Djibouti,DJI,1989,Urban population (% of total population),SP.URB.TOTL.IN.ZS,75.753
+Djibouti,DJI,1988,Urban population (% of total population),SP.URB.TOTL.IN.ZS,75.548
+Djibouti,DJI,1987,Urban population (% of total population),SP.URB.TOTL.IN.ZS,75.341
+Djibouti,DJI,1986,Urban population (% of total population),SP.URB.TOTL.IN.ZS,75.134
+Djibouti,DJI,1985,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.925
+Djibouti,DJI,1984,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.715
+Djibouti,DJI,1983,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.504
+Djibouti,DJI,1982,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.942
+Djibouti,DJI,1981,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.028
+Djibouti,DJI,1980,Urban population (% of total population),SP.URB.TOTL.IN.ZS,72.096
+Djibouti,DJI,1979,Urban population (% of total population),SP.URB.TOTL.IN.ZS,71.141
+Djibouti,DJI,1978,Urban population (% of total population),SP.URB.TOTL.IN.ZS,70.169
+Djibouti,DJI,1977,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.178
+Djibouti,DJI,1976,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.17
+Djibouti,DJI,1975,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.142
+Djibouti,DJI,1974,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.099
+Djibouti,DJI,1973,Urban population (% of total population),SP.URB.TOTL.IN.ZS,65.04
+Djibouti,DJI,1972,Urban population (% of total population),SP.URB.TOTL.IN.ZS,63.968
+Djibouti,DJI,1971,Urban population (% of total population),SP.URB.TOTL.IN.ZS,62.878
+Djibouti,DJI,1970,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.777
+Djibouti,DJI,1969,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.664
+Djibouti,DJI,1968,Urban population (% of total population),SP.URB.TOTL.IN.ZS,59.54
+Djibouti,DJI,1967,Urban population (% of total population),SP.URB.TOTL.IN.ZS,58.404
+Djibouti,DJI,1966,Urban population (% of total population),SP.URB.TOTL.IN.ZS,57.26
+Djibouti,DJI,1965,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.109
+Djibouti,DJI,1964,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.952
+Djibouti,DJI,1963,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.787
+Djibouti,DJI,1962,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.619
+Djibouti,DJI,1961,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.448
+Djibouti,DJI,1960,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.325
+Djibouti,DJI,2001,"Roads, paved (% of total roads)",IS.ROD.PAVE.ZS,45
+Djibouti,DJI,2000,"Roads, paved (% of total roads)",IS.ROD.PAVE.ZS,45

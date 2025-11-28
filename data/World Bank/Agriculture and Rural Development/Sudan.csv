@@ -1,0 +1,1157 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Sudan,SDN,2022,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,7.10201554286672
+Sudan,SDN,2021,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,7.10307199292779
+Sudan,SDN,2020,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,13.847366781552
+Sudan,SDN,2019,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,6.46987402618929
+Sudan,SDN,2018,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,7.10307199292779
+Sudan,SDN,2017,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,8.33866539841623
+Sudan,SDN,2016,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,9.38239636987982
+Sudan,SDN,2015,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,4.47432480348684
+Sudan,SDN,2014,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,4.20062593451296
+Sudan,SDN,2013,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,2.61245839205321
+Sudan,SDN,2012,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,3.32788732905066
+Sudan,SDN,2021,Agricultural land (sq. km),AG.LND.AGRI.K2,1126648.4
+Sudan,SDN,2020,Agricultural land (sq. km),AG.LND.AGRI.K2,1126648.4
+Sudan,SDN,2019,Agricultural land (sq. km),AG.LND.AGRI.K2,1126646.4
+Sudan,SDN,2018,Agricultural land (sq. km),AG.LND.AGRI.K2,1126646.4
+Sudan,SDN,2017,Agricultural land (sq. km),AG.LND.AGRI.K2,1123597.2
+Sudan,SDN,2016,Agricultural land (sq. km),AG.LND.AGRI.K2,1120548
+Sudan,SDN,2015,Agricultural land (sq. km),AG.LND.AGRI.K2,1117498.8
+Sudan,SDN,2014,Agricultural land (sq. km),AG.LND.AGRI.K2,1114449.6
+Sudan,SDN,2013,Agricultural land (sq. km),AG.LND.AGRI.K2,1114533.6
+Sudan,SDN,2012,Agricultural land (sq. km),AG.LND.AGRI.K2,1114659.6
+Sudan,SDN,2011,Agricultural land (sq. km),AG.LND.AGRI.K2,1372462
+Sudan,SDN,2010,Agricultural land (sq. km),AG.LND.AGRI.K2,1372462
+Sudan,SDN,2009,Agricultural land (sq. km),AG.LND.AGRI.K2,1372658
+Sudan,SDN,2008,Agricultural land (sq. km),AG.LND.AGRI.K2,1366980
+Sudan,SDN,2007,Agricultural land (sq. km),AG.LND.AGRI.K2,1366150
+Sudan,SDN,2006,Agricultural land (sq. km),AG.LND.AGRI.K2,1360530
+Sudan,SDN,2005,Agricultural land (sq. km),AG.LND.AGRI.K2,1352200
+Sudan,SDN,2004,Agricultural land (sq. km),AG.LND.AGRI.K2,1344970
+Sudan,SDN,2003,Agricultural land (sq. km),AG.LND.AGRI.K2,1345300
+Sudan,SDN,2002,Agricultural land (sq. km),AG.LND.AGRI.K2,1326140
+Sudan,SDN,2001,Agricultural land (sq. km),AG.LND.AGRI.K2,1320930
+Sudan,SDN,2000,Agricultural land (sq. km),AG.LND.AGRI.K2,1315750
+Sudan,SDN,1999,Agricultural land (sq. km),AG.LND.AGRI.K2,1313520
+Sudan,SDN,1998,Agricultural land (sq. km),AG.LND.AGRI.K2,1311020
+Sudan,SDN,1997,Agricultural land (sq. km),AG.LND.AGRI.K2,1308320
+Sudan,SDN,1996,Agricultural land (sq. km),AG.LND.AGRI.K2,1305390
+Sudan,SDN,1995,Agricultural land (sq. km),AG.LND.AGRI.K2,1296440
+Sudan,SDN,1994,Agricultural land (sq. km),AG.LND.AGRI.K2,1281150
+Sudan,SDN,1993,Agricultural land (sq. km),AG.LND.AGRI.K2,1267330
+Sudan,SDN,1992,Agricultural land (sq. km),AG.LND.AGRI.K2,1240150
+Sudan,SDN,1991,Agricultural land (sq. km),AG.LND.AGRI.K2,1229650
+Sudan,SDN,1990,Agricultural land (sq. km),AG.LND.AGRI.K2,1229100
+Sudan,SDN,1989,Agricultural land (sq. km),AG.LND.AGRI.K2,1228600
+Sudan,SDN,1988,Agricultural land (sq. km),AG.LND.AGRI.K2,1208450
+Sudan,SDN,1987,Agricultural land (sq. km),AG.LND.AGRI.K2,1178050
+Sudan,SDN,1986,Agricultural land (sq. km),AG.LND.AGRI.K2,1157500
+Sudan,SDN,1985,Agricultural land (sq. km),AG.LND.AGRI.K2,1127000
+Sudan,SDN,1984,Agricultural land (sq. km),AG.LND.AGRI.K2,1106450
+Sudan,SDN,1983,Agricultural land (sq. km),AG.LND.AGRI.K2,1105900
+Sudan,SDN,1982,Agricultural land (sq. km),AG.LND.AGRI.K2,1105400
+Sudan,SDN,1981,Agricultural land (sq. km),AG.LND.AGRI.K2,1104800
+Sudan,SDN,1980,Agricultural land (sq. km),AG.LND.AGRI.K2,1104500
+Sudan,SDN,1979,Agricultural land (sq. km),AG.LND.AGRI.K2,1104350
+Sudan,SDN,1978,Agricultural land (sq. km),AG.LND.AGRI.K2,1104360
+Sudan,SDN,1977,Agricultural land (sq. km),AG.LND.AGRI.K2,1103980
+Sudan,SDN,1976,Agricultural land (sq. km),AG.LND.AGRI.K2,1103000
+Sudan,SDN,1975,Agricultural land (sq. km),AG.LND.AGRI.K2,1102050
+Sudan,SDN,1974,Agricultural land (sq. km),AG.LND.AGRI.K2,1101050
+Sudan,SDN,1973,Agricultural land (sq. km),AG.LND.AGRI.K2,1100480
+Sudan,SDN,1972,Agricultural land (sq. km),AG.LND.AGRI.K2,1099410
+Sudan,SDN,1971,Agricultural land (sq. km),AG.LND.AGRI.K2,1098430
+Sudan,SDN,1970,Agricultural land (sq. km),AG.LND.AGRI.K2,1097450
+Sudan,SDN,1969,Agricultural land (sq. km),AG.LND.AGRI.K2,1096470
+Sudan,SDN,1968,Agricultural land (sq. km),AG.LND.AGRI.K2,1095470
+Sudan,SDN,1967,Agricultural land (sq. km),AG.LND.AGRI.K2,1094500
+Sudan,SDN,1966,Agricultural land (sq. km),AG.LND.AGRI.K2,1093400
+Sudan,SDN,1965,Agricultural land (sq. km),AG.LND.AGRI.K2,1092420
+Sudan,SDN,1964,Agricultural land (sq. km),AG.LND.AGRI.K2,1091420
+Sudan,SDN,1963,Agricultural land (sq. km),AG.LND.AGRI.K2,1090400
+Sudan,SDN,1962,Agricultural land (sq. km),AG.LND.AGRI.K2,1089400
+Sudan,SDN,1961,Agricultural land (sq. km),AG.LND.AGRI.K2,1088400
+Sudan,SDN,2022,Agricultural land (% of land area),AG.LND.AGRI.ZS,60.3130835117773
+Sudan,SDN,2021,Agricultural land (% of land area),AG.LND.AGRI.ZS,60.3130835117773
+Sudan,SDN,2020,Agricultural land (% of land area),AG.LND.AGRI.ZS,60.3130835117773
+Sudan,SDN,2019,Agricultural land (% of land area),AG.LND.AGRI.ZS,60.3129764453961
+Sudan,SDN,2018,Agricultural land (% of land area),AG.LND.AGRI.ZS,60.3129764453961
+Sudan,SDN,2017,Agricultural land (% of land area),AG.LND.AGRI.ZS,60.1497430406852
+Sudan,SDN,2016,Agricultural land (% of land area),AG.LND.AGRI.ZS,59.9865096359743
+Sudan,SDN,2015,Agricultural land (% of land area),AG.LND.AGRI.ZS,59.8232762312634
+Sudan,SDN,2014,Agricultural land (% of land area),AG.LND.AGRI.ZS,59.6600428265525
+Sudan,SDN,2013,Agricultural land (% of land area),AG.LND.AGRI.ZS,59.664539614561
+Sudan,SDN,2012,Agricultural land (% of land area),AG.LND.AGRI.ZS,59.6712847965739
+Sudan,SDN,2021,Arable land (hectares),AG.LND.ARBL.HA,20994840
+Sudan,SDN,2020,Arable land (hectares),AG.LND.ARBL.HA,20994840
+Sudan,SDN,2019,Arable land (hectares),AG.LND.ARBL.HA,20994840
+Sudan,SDN,2018,Arable land (hectares),AG.LND.ARBL.HA,20994840
+Sudan,SDN,2017,Arable land (hectares),AG.LND.ARBL.HA,20689920
+Sudan,SDN,2016,Arable land (hectares),AG.LND.ARBL.HA,20385000
+Sudan,SDN,2015,Arable land (hectares),AG.LND.ARBL.HA,20080080
+Sudan,SDN,2014,Arable land (hectares),AG.LND.ARBL.HA,19823160
+Sudan,SDN,2013,Arable land (hectares),AG.LND.ARBL.HA,19839960
+Sudan,SDN,2012,Arable land (hectares),AG.LND.ARBL.HA,19856760
+Sudan,SDN,2011,Arable land (hectares),AG.LND.ARBL.HA,19877700
+Sudan,SDN,2010,Arable land (hectares),AG.LND.ARBL.HA,19877700
+Sudan,SDN,2009,Arable land (hectares),AG.LND.ARBL.HA,19898800
+Sudan,SDN,2008,Arable land (hectares),AG.LND.ARBL.HA,19321000
+Sudan,SDN,2007,Arable land (hectares),AG.LND.ARBL.HA,19247000
+Sudan,SDN,2006,Arable land (hectares),AG.LND.ARBL.HA,18750000
+Sudan,SDN,2005,Arable land (hectares),AG.LND.ARBL.HA,18750000
+Sudan,SDN,2004,Arable land (hectares),AG.LND.ARBL.HA,18019000
+Sudan,SDN,2003,Arable land (hectares),AG.LND.ARBL.HA,18052000
+Sudan,SDN,2002,Arable land (hectares),AG.LND.ARBL.HA,16519000
+Sudan,SDN,2001,Arable land (hectares),AG.LND.ARBL.HA,16376000
+Sudan,SDN,2000,Arable land (hectares),AG.LND.ARBL.HA,16233000
+Sudan,SDN,1999,Arable land (hectares),AG.LND.ARBL.HA,16380000
+Sudan,SDN,1998,Arable land (hectares),AG.LND.ARBL.HA,16500000
+Sudan,SDN,1997,Arable land (hectares),AG.LND.ARBL.HA,16600000
+Sudan,SDN,1996,Arable land (hectares),AG.LND.ARBL.HA,16672000
+Sudan,SDN,1995,Arable land (hectares),AG.LND.ARBL.HA,16157000
+Sudan,SDN,1994,Arable land (hectares),AG.LND.ARBL.HA,15000000
+Sudan,SDN,1993,Arable land (hectares),AG.LND.ARBL.HA,14618000
+Sudan,SDN,1992,Arable land (hectares),AG.LND.ARBL.HA,12900000
+Sudan,SDN,1991,Arable land (hectares),AG.LND.ARBL.HA,12850000
+Sudan,SDN,1990,Arable land (hectares),AG.LND.ARBL.HA,12800000
+Sudan,SDN,1989,Arable land (hectares),AG.LND.ARBL.HA,12750000
+Sudan,SDN,1988,Arable land (hectares),AG.LND.ARBL.HA,12740000
+Sudan,SDN,1987,Arable land (hectares),AG.LND.ARBL.HA,12700000
+Sudan,SDN,1986,Arable land (hectares),AG.LND.ARBL.HA,12650000
+Sudan,SDN,1985,Arable land (hectares),AG.LND.ARBL.HA,12600000
+Sudan,SDN,1984,Arable land (hectares),AG.LND.ARBL.HA,12550000
+Sudan,SDN,1983,Arable land (hectares),AG.LND.ARBL.HA,12500000
+Sudan,SDN,1982,Arable land (hectares),AG.LND.ARBL.HA,12450000
+Sudan,SDN,1981,Arable land (hectares),AG.LND.ARBL.HA,12390000
+Sudan,SDN,1980,Arable land (hectares),AG.LND.ARBL.HA,12360000
+Sudan,SDN,1979,Arable land (hectares),AG.LND.ARBL.HA,12345000
+Sudan,SDN,1978,Arable land (hectares),AG.LND.ARBL.HA,12346000
+Sudan,SDN,1977,Arable land (hectares),AG.LND.ARBL.HA,12308000
+Sudan,SDN,1976,Arable land (hectares),AG.LND.ARBL.HA,12210000
+Sudan,SDN,1975,Arable land (hectares),AG.LND.ARBL.HA,12115000
+Sudan,SDN,1974,Arable land (hectares),AG.LND.ARBL.HA,12015000
+Sudan,SDN,1973,Arable land (hectares),AG.LND.ARBL.HA,11958000
+Sudan,SDN,1972,Arable land (hectares),AG.LND.ARBL.HA,11861000
+Sudan,SDN,1971,Arable land (hectares),AG.LND.ARBL.HA,11763000
+Sudan,SDN,1970,Arable land (hectares),AG.LND.ARBL.HA,11665000
+Sudan,SDN,1969,Arable land (hectares),AG.LND.ARBL.HA,11567000
+Sudan,SDN,1968,Arable land (hectares),AG.LND.ARBL.HA,11467000
+Sudan,SDN,1967,Arable land (hectares),AG.LND.ARBL.HA,11370000
+Sudan,SDN,1966,Arable land (hectares),AG.LND.ARBL.HA,11270000
+Sudan,SDN,1965,Arable land (hectares),AG.LND.ARBL.HA,11172000
+Sudan,SDN,1964,Arable land (hectares),AG.LND.ARBL.HA,11072000
+Sudan,SDN,1963,Arable land (hectares),AG.LND.ARBL.HA,10975000
+Sudan,SDN,1962,Arable land (hectares),AG.LND.ARBL.HA,10875000
+Sudan,SDN,1961,Arable land (hectares),AG.LND.ARBL.HA,10775000
+Sudan,SDN,2021,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.43678351458479
+Sudan,SDN,2020,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.448710943763961
+Sudan,SDN,2019,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.460937018881657
+Sudan,SDN,2018,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.474667806872871
+Sudan,SDN,2017,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.484379167953706
+Sudan,SDN,2016,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.494063338798851
+Sudan,SDN,2015,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.501695576884029
+Sudan,SDN,2014,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.510599325899966
+Sudan,SDN,2013,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.525063232005188
+Sudan,SDN,2012,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.537785777811433
+Sudan,SDN,2011,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.550007102774631
+Sudan,SDN,2010,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.561288644203732
+Sudan,SDN,2009,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.575623678860375
+Sudan,SDN,2008,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.574619661325042
+Sudan,SDN,2007,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.587441115109555
+Sudan,SDN,2006,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.586076052041678
+Sudan,SDN,2005,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.599761170303896
+Sudan,SDN,2004,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.589691856469676
+Sudan,SDN,2003,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.603825891961927
+Sudan,SDN,2002,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.565163169781565
+Sudan,SDN,2001,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.574258585386774
+Sudan,SDN,2000,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.583569357234285
+Sudan,SDN,1999,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.603746034046485
+Sudan,SDN,1998,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.623606357897364
+Sudan,SDN,1997,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.64341531671867
+Sudan,SDN,1996,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.660760616638041
+Sudan,SDN,1995,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.654868123940429
+Sudan,SDN,1994,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.623857612734814
+Sudan,SDN,1993,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.623486069364339
+Sudan,SDN,1992,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.562646672501036
+Sudan,SDN,1991,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.571856405210061
+Sudan,SDN,1990,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.581250643405864
+Sudan,SDN,1989,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.590878997157385
+Sudan,SDN,1988,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.602693738243865
+Sudan,SDN,1987,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.613381254991571
+Sudan,SDN,1986,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.623513978887669
+Sudan,SDN,1985,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.632979052613219
+Sudan,SDN,1984,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.642057760846325
+Sudan,SDN,1983,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.654115669628677
+Sudan,SDN,1982,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.673459137663973
+Sudan,SDN,1981,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.696827976062862
+Sudan,SDN,1980,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.724548263795361
+Sudan,SDN,1979,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.754798796137191
+Sudan,SDN,1978,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.786619792299498
+Sudan,SDN,1977,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.815822556340343
+Sudan,SDN,1976,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.838039670780131
+Sudan,SDN,1975,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.861370351710704
+Sudan,SDN,1974,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.884709893574885
+Sudan,SDN,1973,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.916369939724806
+Sudan,SDN,1972,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.946770141674681
+Sudan,SDN,1971,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.97170394478098
+Sudan,SDN,1970,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.997369049034903
+Sudan,SDN,1969,Arable land (hectares per person),AG.LND.ARBL.HA.PC,1.02372471177817
+Sudan,SDN,1968,Arable land (hectares per person),AG.LND.ARBL.HA.PC,1.05028403098407
+Sudan,SDN,1967,Arable land (hectares per person),AG.LND.ARBL.HA.PC,1.07766413597259
+Sudan,SDN,1966,Arable land (hectares per person),AG.LND.ARBL.HA.PC,1.10516438315059
+Sudan,SDN,1965,Arable land (hectares per person),AG.LND.ARBL.HA.PC,1.13328930831008
+Sudan,SDN,1964,Arable land (hectares per person),AG.LND.ARBL.HA.PC,1.16166964410962
+Sudan,SDN,1963,Arable land (hectares per person),AG.LND.ARBL.HA.PC,1.19059539207581
+Sudan,SDN,1962,Arable land (hectares per person),AG.LND.ARBL.HA.PC,1.21930326936971
+Sudan,SDN,1961,Arable land (hectares per person),AG.LND.ARBL.HA.PC,1.24783713056059
+Sudan,SDN,2022,Arable land (% of land area),AG.LND.ARBL.ZS,11.2392077087794
+Sudan,SDN,2021,Arable land (% of land area),AG.LND.ARBL.ZS,11.2392077087794
+Sudan,SDN,2020,Arable land (% of land area),AG.LND.ARBL.ZS,11.2392077087794
+Sudan,SDN,2019,Arable land (% of land area),AG.LND.ARBL.ZS,11.2392077087794
+Sudan,SDN,2018,Arable land (% of land area),AG.LND.ARBL.ZS,11.2392077087794
+Sudan,SDN,2017,Arable land (% of land area),AG.LND.ARBL.ZS,11.0759743040685
+Sudan,SDN,2016,Arable land (% of land area),AG.LND.ARBL.ZS,10.9127408993576
+Sudan,SDN,2015,Arable land (% of land area),AG.LND.ARBL.ZS,10.7495074946467
+Sudan,SDN,2014,Arable land (% of land area),AG.LND.ARBL.ZS,10.6119700214133
+Sudan,SDN,2013,Arable land (% of land area),AG.LND.ARBL.ZS,10.6209635974304
+Sudan,SDN,2012,Arable land (% of land area),AG.LND.ARBL.ZS,10.6299571734475
+Sudan,SDN,2022,Land under cereal production (hectares),AG.LND.CREL.HA,9814448
+Sudan,SDN,2021,Land under cereal production (hectares),AG.LND.CREL.HA,10022186
+Sudan,SDN,2020,Land under cereal production (hectares),AG.LND.CREL.HA,9592120
+Sudan,SDN,2019,Land under cereal production (hectares),AG.LND.CREL.HA,10183520
+Sudan,SDN,2018,Land under cereal production (hectares),AG.LND.CREL.HA,12127530
+Sudan,SDN,2017,Land under cereal production (hectares),AG.LND.CREL.HA,9185545
+Sudan,SDN,2016,Land under cereal production (hectares),AG.LND.CREL.HA,12424860
+Sudan,SDN,2015,Land under cereal production (hectares),AG.LND.CREL.HA,7174020
+Sudan,SDN,2014,Land under cereal production (hectares),AG.LND.CREL.HA,11812534
+Sudan,SDN,2013,Land under cereal production (hectares),AG.LND.CREL.HA,10031765
+Sudan,SDN,2012,Land under cereal production (hectares),AG.LND.CREL.HA,5631780
+Sudan,SDN,2011,Land under cereal production (hectares),AG.LND.CREL.HA,9929220
+Sudan,SDN,2010,Land under cereal production (hectares),AG.LND.CREL.HA,7886440
+Sudan,SDN,2009,Land under cereal production (hectares),AG.LND.CREL.HA,9453803
+Sudan,SDN,2008,Land under cereal production (hectares),AG.LND.CREL.HA,9290904
+Sudan,SDN,2007,Land under cereal production (hectares),AG.LND.CREL.HA,9172504
+Sudan,SDN,2006,Land under cereal production (hectares),AG.LND.CREL.HA,9004586
+Sudan,SDN,2005,Land under cereal production (hectares),AG.LND.CREL.HA,12342840
+Sudan,SDN,2004,Land under cereal production (hectares),AG.LND.CREL.HA,5349940
+Sudan,SDN,2003,Land under cereal production (hectares),AG.LND.CREL.HA,9899820
+Sudan,SDN,2002,Land under cereal production (hectares),AG.LND.CREL.HA,7623682
+Sudan,SDN,2001,Land under cereal production (hectares),AG.LND.CREL.HA,8526340
+Sudan,SDN,2000,Land under cereal production (hectares),AG.LND.CREL.HA,6451260
+Sudan,SDN,1999,Land under cereal production (hectares),AG.LND.CREL.HA,7137840
+Sudan,SDN,1998,Land under cereal production (hectares),AG.LND.CREL.HA,9398620
+Sudan,SDN,1997,Land under cereal production (hectares),AG.LND.CREL.HA,9777220
+Sudan,SDN,1996,Land under cereal production (hectares),AG.LND.CREL.HA,8570100
+Sudan,SDN,1995,Land under cereal production (hectares),AG.LND.CREL.HA,7779570
+Sudan,SDN,1994,Land under cereal production (hectares),AG.LND.CREL.HA,10123688
+Sudan,SDN,1993,Land under cereal production (hectares),AG.LND.CREL.HA,6163842
+Sudan,SDN,1992,Land under cereal production (hectares),AG.LND.CREL.HA,8258795
+Sudan,SDN,1991,Land under cereal production (hectares),AG.LND.CREL.HA,6807379
+Sudan,SDN,1990,Land under cereal production (hectares),AG.LND.CREL.HA,3734629
+Sudan,SDN,1989,Land under cereal production (hectares),AG.LND.CREL.HA,5586558
+Sudan,SDN,1988,Land under cereal production (hectares),AG.LND.CREL.HA,8168746
+Sudan,SDN,1987,Land under cereal production (hectares),AG.LND.CREL.HA,4658280
+Sudan,SDN,1986,Land under cereal production (hectares),AG.LND.CREL.HA,6718950
+Sudan,SDN,1985,Land under cereal production (hectares),AG.LND.CREL.HA,7347342
+Sudan,SDN,1984,Land under cereal production (hectares),AG.LND.CREL.HA,4987021
+Sudan,SDN,1983,Land under cereal production (hectares),AG.LND.CREL.HA,5109180
+Sudan,SDN,1982,Land under cereal production (hectares),AG.LND.CREL.HA,4759713
+Sudan,SDN,1981,Land under cereal production (hectares),AG.LND.CREL.HA,5400934
+Sudan,SDN,1980,Land under cereal production (hectares),AG.LND.CREL.HA,4290453
+Sudan,SDN,1979,Land under cereal production (hectares),AG.LND.CREL.HA,3650781
+Sudan,SDN,1978,Land under cereal production (hectares),AG.LND.CREL.HA,4529297
+Sudan,SDN,1977,Land under cereal production (hectares),AG.LND.CREL.HA,4510817
+Sudan,SDN,1976,Land under cereal production (hectares),AG.LND.CREL.HA,4331650
+Sudan,SDN,1975,Land under cereal production (hectares),AG.LND.CREL.HA,4125081
+Sudan,SDN,1974,Land under cereal production (hectares),AG.LND.CREL.HA,3693036
+Sudan,SDN,1973,Land under cereal production (hectares),AG.LND.CREL.HA,3593284
+Sudan,SDN,1972,Land under cereal production (hectares),AG.LND.CREL.HA,2969966
+Sudan,SDN,1971,Land under cereal production (hectares),AG.LND.CREL.HA,2928797
+Sudan,SDN,1970,Land under cereal production (hectares),AG.LND.CREL.HA,2963831
+Sudan,SDN,1969,Land under cereal production (hectares),AG.LND.CREL.HA,2493008
+Sudan,SDN,1968,Land under cereal production (hectares),AG.LND.CREL.HA,1854151
+Sudan,SDN,1967,Land under cereal production (hectares),AG.LND.CREL.HA,2694291
+Sudan,SDN,1966,Land under cereal production (hectares),AG.LND.CREL.HA,1956722
+Sudan,SDN,1965,Land under cereal production (hectares),AG.LND.CREL.HA,2027871
+Sudan,SDN,1964,Land under cereal production (hectares),AG.LND.CREL.HA,1988734
+Sudan,SDN,1963,Land under cereal production (hectares),AG.LND.CREL.HA,2042662
+Sudan,SDN,1962,Land under cereal production (hectares),AG.LND.CREL.HA,1991247
+Sudan,SDN,1961,Land under cereal production (hectares),AG.LND.CREL.HA,1843005
+Sudan,SDN,2022,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.115631691648822
+Sudan,SDN,2021,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.115631691648822
+Sudan,SDN,2020,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.115631691648822
+Sudan,SDN,2019,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.115631691648822
+Sudan,SDN,2018,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.115631691648822
+Sudan,SDN,2017,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.115631691648822
+Sudan,SDN,2016,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.115631691648822
+Sudan,SDN,2015,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.115631691648822
+Sudan,SDN,2014,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.0899357601713062
+Sudan,SDN,2013,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.0854389721627409
+Sudan,SDN,2012,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.0831905781584582
+Sudan,SDN,2015,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,1536.24806884
+Sudan,SDN,2000,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,1542.04496725
+Sudan,SDN,1990,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,1546.27593635
+Sudan,SDN,2015,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,0.0824304712530423
+Sudan,SDN,2000,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,0.0827415154634499
+Sudan,SDN,1990,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,0.0829685365959735
+Sudan,SDN,2022,Forest area (sq. km),AG.LND.FRST.K2,180152.3
+Sudan,SDN,2021,Forest area (sq. km),AG.LND.FRST.K2,181873.9
+Sudan,SDN,2020,Forest area (sq. km),AG.LND.FRST.K2,183595.5
+Sudan,SDN,2019,Forest area (sq. km),AG.LND.FRST.K2,185317.1
+Sudan,SDN,2018,Forest area (sq. km),AG.LND.FRST.K2,187038.7
+Sudan,SDN,2017,Forest area (sq. km),AG.LND.FRST.K2,188760.3
+Sudan,SDN,2016,Forest area (sq. km),AG.LND.FRST.K2,190481.9
+Sudan,SDN,2015,Forest area (sq. km),AG.LND.FRST.K2,192099.3
+Sudan,SDN,2014,Forest area (sq. km),AG.LND.FRST.K2,193841.78
+Sudan,SDN,2013,Forest area (sq. km),AG.LND.FRST.K2,195584.26
+Sudan,SDN,2012,Forest area (sq. km),AG.LND.FRST.K2,197326.74
+Sudan,SDN,2022,Forest area (% of land area),AG.LND.FRST.ZS,9.64412740899358
+Sudan,SDN,2021,Forest area (% of land area),AG.LND.FRST.ZS,9.73629014989293
+Sudan,SDN,2020,Forest area (% of land area),AG.LND.FRST.ZS,9.82845289079229
+Sudan,SDN,2019,Forest area (% of land area),AG.LND.FRST.ZS,9.92061563169165
+Sudan,SDN,2018,Forest area (% of land area),AG.LND.FRST.ZS,10.012778372591
+Sudan,SDN,2017,Forest area (% of land area),AG.LND.FRST.ZS,10.1049411134904
+Sudan,SDN,2016,Forest area (% of land area),AG.LND.FRST.ZS,10.1971038543897
+Sudan,SDN,2015,Forest area (% of land area),AG.LND.FRST.ZS,10.2836884368308
+Sudan,SDN,2014,Forest area (% of land area),AG.LND.FRST.ZS,10.3769689507495
+Sudan,SDN,2013,Forest area (% of land area),AG.LND.FRST.ZS,10.4702494646681
+Sudan,SDN,2012,Forest area (% of land area),AG.LND.FRST.ZS,10.5635299785867
+Sudan,SDN,2020,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,1.39049591691605
+Sudan,SDN,2019,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,1.37612741672986
+Sudan,SDN,2018,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,1.26785120868446
+Sudan,SDN,2017,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,0.453899315519832
+Sudan,SDN,2021,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,250
+Sudan,SDN,2020,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,250
+Sudan,SDN,2019,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,250
+Sudan,SDN,2018,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,250
+Sudan,SDN,2017,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,250
+Sudan,SDN,2016,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,250
+Sudan,SDN,2015,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,250
+Sudan,SDN,2014,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,250
+Sudan,SDN,2013,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,250
+Sudan,SDN,2012,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,250
+Sudan,SDN,2022,Land area (sq. km),AG.LND.TOTL.K2,1868000
+Sudan,SDN,2021,Land area (sq. km),AG.LND.TOTL.K2,1868000
+Sudan,SDN,2020,Land area (sq. km),AG.LND.TOTL.K2,1868000
+Sudan,SDN,2019,Land area (sq. km),AG.LND.TOTL.K2,1868000
+Sudan,SDN,2018,Land area (sq. km),AG.LND.TOTL.K2,1868000
+Sudan,SDN,2017,Land area (sq. km),AG.LND.TOTL.K2,1868000
+Sudan,SDN,2016,Land area (sq. km),AG.LND.TOTL.K2,1868000
+Sudan,SDN,2015,Land area (sq. km),AG.LND.TOTL.K2,1868000
+Sudan,SDN,2014,Land area (sq. km),AG.LND.TOTL.K2,1868000
+Sudan,SDN,2013,Land area (sq. km),AG.LND.TOTL.K2,1868000
+Sudan,SDN,2012,Land area (sq. km),AG.LND.TOTL.K2,1868000
+Sudan,SDN,2015,Rural land area (sq. km),AG.LND.TOTL.RU.K2,1859899.89349867
+Sudan,SDN,2000,Rural land area (sq. km),AG.LND.TOTL.RU.K2,1860761.15326881
+Sudan,SDN,1990,Rural land area (sq. km),AG.LND.TOTL.RU.K2,1861441.52687439
+Sudan,SDN,2022,Cereal production (metric tons),AG.PRD.CREL.MT,7456084.13
+Sudan,SDN,2021,Cereal production (metric tons),AG.PRD.CREL.MT,5094456.39
+Sudan,SDN,2020,Cereal production (metric tons),AG.PRD.CREL.MT,5709038.96
+Sudan,SDN,2019,Cereal production (metric tons),AG.PRD.CREL.MT,5646000
+Sudan,SDN,2018,Cereal production (metric tons),AG.PRD.CREL.MT,8875000
+Sudan,SDN,2017,Cereal production (metric tons),AG.PRD.CREL.MT,5519957.59
+Sudan,SDN,2016,Cereal production (metric tons),AG.PRD.CREL.MT,8523000
+Sudan,SDN,2015,Cereal production (metric tons),AG.PRD.CREL.MT,4104600
+Sudan,SDN,2014,Cereal production (metric tons),AG.PRD.CREL.MT,8072300
+Sudan,SDN,2013,Cereal production (metric tons),AG.PRD.CREL.MT,5959500
+Sudan,SDN,2012,Cereal production (metric tons),AG.PRD.CREL.MT,3038000
+Sudan,SDN,2011,Cereal production (metric tons),AG.PRD.CREL.MT,5598000
+Sudan,SDN,2010,Cereal production (metric tons),AG.PRD.CREL.MT,3562350
+Sudan,SDN,2009,Cereal production (metric tons),AG.PRD.CREL.MT,5552195
+Sudan,SDN,2008,Cereal production (metric tons),AG.PRD.CREL.MT,5269000
+Sudan,SDN,2007,Cereal production (metric tons),AG.PRD.CREL.MT,6691000
+Sudan,SDN,2006,Cereal production (metric tons),AG.PRD.CREL.MT,5806000
+Sudan,SDN,2005,Cereal production (metric tons),AG.PRD.CREL.MT,6243000
+Sudan,SDN,2004,Cereal production (metric tons),AG.PRD.CREL.MT,3516000
+Sudan,SDN,2003,Cereal production (metric tons),AG.PRD.CREL.MT,6372748
+Sudan,SDN,2002,Cereal production (metric tons),AG.PRD.CREL.MT,3714000
+Sudan,SDN,2001,Cereal production (metric tons),AG.PRD.CREL.MT,5339000
+Sudan,SDN,2000,Cereal production (metric tons),AG.PRD.CREL.MT,3259000
+Sudan,SDN,1999,Cereal production (metric tons),AG.PRD.CREL.MT,3066000
+Sudan,SDN,1998,Cereal production (metric tons),AG.PRD.CREL.MT,5583000
+Sudan,SDN,1997,Cereal production (metric tons),AG.PRD.CREL.MT,4209000
+Sudan,SDN,1996,Cereal production (metric tons),AG.PRD.CREL.MT,5202000
+Sudan,SDN,1995,Cereal production (metric tons),AG.PRD.CREL.MT,3305200
+Sudan,SDN,1994,Cereal production (metric tons),AG.PRD.CREL.MT,5145650
+Sudan,SDN,1993,Cereal production (metric tons),AG.PRD.CREL.MT,3101500
+Sudan,SDN,1992,Cereal production (metric tons),AG.PRD.CREL.MT,5381200
+Sudan,SDN,1991,Cereal production (metric tons),AG.PRD.CREL.MT,4637100
+Sudan,SDN,1990,Cereal production (metric tons),AG.PRD.CREL.MT,1729000
+Sudan,SDN,1989,Cereal production (metric tons),AG.PRD.CREL.MT,2063500
+Sudan,SDN,1988,Cereal production (metric tons),AG.PRD.CREL.MT,5132200
+Sudan,SDN,1987,Cereal production (metric tons),AG.PRD.CREL.MT,1699200
+Sudan,SDN,1986,Cereal production (metric tons),AG.PRD.CREL.MT,3798600
+Sudan,SDN,1985,Cereal production (metric tons),AG.PRD.CREL.MT,4112900
+Sudan,SDN,1984,Cereal production (metric tons),AG.PRD.CREL.MT,1448000
+Sudan,SDN,1983,Cereal production (metric tons),AG.PRD.CREL.MT,2524500
+Sudan,SDN,1982,Cereal production (metric tons),AG.PRD.CREL.MT,2286000
+Sudan,SDN,1981,Cereal production (metric tons),AG.PRD.CREL.MT,4105000
+Sudan,SDN,1980,Cereal production (metric tons),AG.PRD.CREL.MT,2701000
+Sudan,SDN,1979,Cereal production (metric tons),AG.PRD.CREL.MT,1986000
+Sudan,SDN,1978,Cereal production (metric tons),AG.PRD.CREL.MT,3272000
+Sudan,SDN,1977,Cereal production (metric tons),AG.PRD.CREL.MT,2927000
+Sudan,SDN,1976,Cereal production (metric tons),AG.PRD.CREL.MT,3365000
+Sudan,SDN,1975,Cereal production (metric tons),AG.PRD.CREL.MT,2857184
+Sudan,SDN,1974,Cereal production (metric tons),AG.PRD.CREL.MT,2482200
+Sudan,SDN,1973,Cereal production (metric tons),AG.PRD.CREL.MT,2171000
+Sudan,SDN,1972,Cereal production (metric tons),AG.PRD.CREL.MT,1796000
+Sudan,SDN,1971,Cereal production (metric tons),AG.PRD.CREL.MT,2216000
+Sudan,SDN,1970,Cereal production (metric tons),AG.PRD.CREL.MT,2137398
+Sudan,SDN,1969,Cereal production (metric tons),AG.PRD.CREL.MT,2001005
+Sudan,SDN,1968,Cereal production (metric tons),AG.PRD.CREL.MT,1239410
+Sudan,SDN,1967,Cereal production (metric tons),AG.PRD.CREL.MT,2446538
+Sudan,SDN,1966,Cereal production (metric tons),AG.PRD.CREL.MT,1184372
+Sudan,SDN,1965,Cereal production (metric tons),AG.PRD.CREL.MT,1417047
+Sudan,SDN,1964,Cereal production (metric tons),AG.PRD.CREL.MT,1558402
+Sudan,SDN,1963,Cereal production (metric tons),AG.PRD.CREL.MT,1792560
+Sudan,SDN,1962,Cereal production (metric tons),AG.PRD.CREL.MT,1615349
+Sudan,SDN,1961,Cereal production (metric tons),AG.PRD.CREL.MT,1682841
+Sudan,SDN,2022,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,126.22
+Sudan,SDN,2021,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,116.62
+Sudan,SDN,2020,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,128.05
+Sudan,SDN,2019,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,122.21
+Sudan,SDN,2018,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,130.94
+Sudan,SDN,2017,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,103.42
+Sudan,SDN,2016,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,107.7
+Sudan,SDN,2015,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,85.38
+Sudan,SDN,2014,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,106.91
+Sudan,SDN,2013,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,91.93
+Sudan,SDN,2012,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,69.56
+Sudan,SDN,2022,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,116.41
+Sudan,SDN,2021,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,110.7
+Sudan,SDN,2020,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,116.99
+Sudan,SDN,2019,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,113.32
+Sudan,SDN,2018,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,117.3
+Sudan,SDN,2017,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,101.74
+Sudan,SDN,2016,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,104.97
+Sudan,SDN,2015,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,91.74
+Sudan,SDN,2014,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,103.29
+Sudan,SDN,2013,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,94.64
+Sudan,SDN,2012,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,81.05
+Sudan,SDN,2022,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,106.37
+Sudan,SDN,2021,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,105.32
+Sudan,SDN,2020,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,105.6
+Sudan,SDN,2019,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,104.78
+Sudan,SDN,2018,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,103.99
+Sudan,SDN,2017,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,102.73
+Sudan,SDN,2016,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,101.45
+Sudan,SDN,2015,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,99.75
+Sudan,SDN,2014,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,98.8
+Sudan,SDN,2013,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,97.49
+Sudan,SDN,2012,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,96.26
+Sudan,SDN,2022,Surface area (sq. km),AG.SRF.TOTL.K2,1878000
+Sudan,SDN,2021,Surface area (sq. km),AG.SRF.TOTL.K2,1878000
+Sudan,SDN,2020,Surface area (sq. km),AG.SRF.TOTL.K2,1878000
+Sudan,SDN,2019,Surface area (sq. km),AG.SRF.TOTL.K2,1878000
+Sudan,SDN,2018,Surface area (sq. km),AG.SRF.TOTL.K2,1878000
+Sudan,SDN,2017,Surface area (sq. km),AG.SRF.TOTL.K2,1878000
+Sudan,SDN,2016,Surface area (sq. km),AG.SRF.TOTL.K2,1878000
+Sudan,SDN,2015,Surface area (sq. km),AG.SRF.TOTL.K2,1878000
+Sudan,SDN,2014,Surface area (sq. km),AG.SRF.TOTL.K2,1878000
+Sudan,SDN,2013,Surface area (sq. km),AG.SRF.TOTL.K2,1878000
+Sudan,SDN,2012,Surface area (sq. km),AG.SRF.TOTL.K2,1878000
+Sudan,SDN,2011,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,2010,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,2009,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,2008,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,2007,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,2006,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,2005,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,2004,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,2003,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,2002,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,2001,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,2000,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1999,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1998,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1997,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1996,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1995,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1994,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1993,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1992,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1991,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1990,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1989,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1988,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1987,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1986,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1985,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1984,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1983,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1982,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1981,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1980,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1979,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1978,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1977,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1976,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1975,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1974,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1973,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1972,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1971,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1970,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1969,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1968,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1967,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1966,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1965,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1964,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1963,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1962,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,1961,Surface area (sq. km),AG.SRF.TOTL.K2,2505810
+Sudan,SDN,2022,Cereal yield (kg per hectare),AG.YLD.CREL.KG,759.7
+Sudan,SDN,2021,Cereal yield (kg per hectare),AG.YLD.CREL.KG,508.3
+Sudan,SDN,2020,Cereal yield (kg per hectare),AG.YLD.CREL.KG,595.2
+Sudan,SDN,2019,Cereal yield (kg per hectare),AG.YLD.CREL.KG,554.4
+Sudan,SDN,2018,Cereal yield (kg per hectare),AG.YLD.CREL.KG,731.8
+Sudan,SDN,2017,Cereal yield (kg per hectare),AG.YLD.CREL.KG,600.9
+Sudan,SDN,2016,Cereal yield (kg per hectare),AG.YLD.CREL.KG,686
+Sudan,SDN,2015,Cereal yield (kg per hectare),AG.YLD.CREL.KG,572.1
+Sudan,SDN,2014,Cereal yield (kg per hectare),AG.YLD.CREL.KG,683.4
+Sudan,SDN,2013,Cereal yield (kg per hectare),AG.YLD.CREL.KG,594.1
+Sudan,SDN,2012,Cereal yield (kg per hectare),AG.YLD.CREL.KG,539.4
+Sudan,SDN,2011,Cereal yield (kg per hectare),AG.YLD.CREL.KG,563.8
+Sudan,SDN,2010,Cereal yield (kg per hectare),AG.YLD.CREL.KG,451.7
+Sudan,SDN,2009,Cereal yield (kg per hectare),AG.YLD.CREL.KG,587.3
+Sudan,SDN,2008,Cereal yield (kg per hectare),AG.YLD.CREL.KG,567.1
+Sudan,SDN,2007,Cereal yield (kg per hectare),AG.YLD.CREL.KG,729.5
+Sudan,SDN,2006,Cereal yield (kg per hectare),AG.YLD.CREL.KG,644.8
+Sudan,SDN,2005,Cereal yield (kg per hectare),AG.YLD.CREL.KG,505.8
+Sudan,SDN,2004,Cereal yield (kg per hectare),AG.YLD.CREL.KG,657.2
+Sudan,SDN,2003,Cereal yield (kg per hectare),AG.YLD.CREL.KG,643.7
+Sudan,SDN,2002,Cereal yield (kg per hectare),AG.YLD.CREL.KG,487.2
+Sudan,SDN,2001,Cereal yield (kg per hectare),AG.YLD.CREL.KG,626.2
+Sudan,SDN,2000,Cereal yield (kg per hectare),AG.YLD.CREL.KG,505.2
+Sudan,SDN,1999,Cereal yield (kg per hectare),AG.YLD.CREL.KG,429.5
+Sudan,SDN,1998,Cereal yield (kg per hectare),AG.YLD.CREL.KG,594
+Sudan,SDN,1997,Cereal yield (kg per hectare),AG.YLD.CREL.KG,430.5
+Sudan,SDN,1996,Cereal yield (kg per hectare),AG.YLD.CREL.KG,607
+Sudan,SDN,1995,Cereal yield (kg per hectare),AG.YLD.CREL.KG,424.9
+Sudan,SDN,1994,Cereal yield (kg per hectare),AG.YLD.CREL.KG,508.3
+Sudan,SDN,1993,Cereal yield (kg per hectare),AG.YLD.CREL.KG,503.2
+Sudan,SDN,1992,Cereal yield (kg per hectare),AG.YLD.CREL.KG,651.6
+Sudan,SDN,1991,Cereal yield (kg per hectare),AG.YLD.CREL.KG,681.2
+Sudan,SDN,1990,Cereal yield (kg per hectare),AG.YLD.CREL.KG,463
+Sudan,SDN,1989,Cereal yield (kg per hectare),AG.YLD.CREL.KG,369.4
+Sudan,SDN,1988,Cereal yield (kg per hectare),AG.YLD.CREL.KG,628.3
+Sudan,SDN,1987,Cereal yield (kg per hectare),AG.YLD.CREL.KG,364.8
+Sudan,SDN,1986,Cereal yield (kg per hectare),AG.YLD.CREL.KG,565.4
+Sudan,SDN,1985,Cereal yield (kg per hectare),AG.YLD.CREL.KG,559.8
+Sudan,SDN,1984,Cereal yield (kg per hectare),AG.YLD.CREL.KG,290.4
+Sudan,SDN,1983,Cereal yield (kg per hectare),AG.YLD.CREL.KG,494.1
+Sudan,SDN,1982,Cereal yield (kg per hectare),AG.YLD.CREL.KG,480.3
+Sudan,SDN,1981,Cereal yield (kg per hectare),AG.YLD.CREL.KG,760.1
+Sudan,SDN,1980,Cereal yield (kg per hectare),AG.YLD.CREL.KG,629.5
+Sudan,SDN,1979,Cereal yield (kg per hectare),AG.YLD.CREL.KG,544
+Sudan,SDN,1978,Cereal yield (kg per hectare),AG.YLD.CREL.KG,722.4
+Sudan,SDN,1977,Cereal yield (kg per hectare),AG.YLD.CREL.KG,648.9
+Sudan,SDN,1976,Cereal yield (kg per hectare),AG.YLD.CREL.KG,776.8
+Sudan,SDN,1975,Cereal yield (kg per hectare),AG.YLD.CREL.KG,692.6
+Sudan,SDN,1974,Cereal yield (kg per hectare),AG.YLD.CREL.KG,672.1
+Sudan,SDN,1973,Cereal yield (kg per hectare),AG.YLD.CREL.KG,604.2
+Sudan,SDN,1972,Cereal yield (kg per hectare),AG.YLD.CREL.KG,604.7
+Sudan,SDN,1971,Cereal yield (kg per hectare),AG.YLD.CREL.KG,756.6
+Sudan,SDN,1970,Cereal yield (kg per hectare),AG.YLD.CREL.KG,721.2
+Sudan,SDN,1969,Cereal yield (kg per hectare),AG.YLD.CREL.KG,802.6
+Sudan,SDN,1968,Cereal yield (kg per hectare),AG.YLD.CREL.KG,668.5
+Sudan,SDN,1967,Cereal yield (kg per hectare),AG.YLD.CREL.KG,908
+Sudan,SDN,1966,Cereal yield (kg per hectare),AG.YLD.CREL.KG,605.3
+Sudan,SDN,1965,Cereal yield (kg per hectare),AG.YLD.CREL.KG,698.8
+Sudan,SDN,1964,Cereal yield (kg per hectare),AG.YLD.CREL.KG,783.6
+Sudan,SDN,1963,Cereal yield (kg per hectare),AG.YLD.CREL.KG,877.6
+Sudan,SDN,1962,Cereal yield (kg per hectare),AG.YLD.CREL.KG,811.2
+Sudan,SDN,1961,Cereal yield (kg per hectare),AG.YLD.CREL.KG,913.1
+Sudan,SDN,2023,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,54
+Sudan,SDN,2022,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,49.4
+Sudan,SDN,2021,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,49.4
+Sudan,SDN,2020,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,46.9
+Sudan,SDN,2019,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,44.4
+Sudan,SDN,2018,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,41.7
+Sudan,SDN,2017,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,38.8
+Sudan,SDN,2016,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,35.8
+Sudan,SDN,2015,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,32.7
+Sudan,SDN,2014,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,28.9
+Sudan,SDN,2013,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,26.7
+Sudan,SDN,2012,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,23.8
+Sudan,SDN,2011,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,21
+Sudan,SDN,2010,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,18.2
+Sudan,SDN,2009,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,14.7
+Sudan,SDN,2008,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,7.3
+Sudan,SDN,2007,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,16
+Sudan,SDN,2006,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,15.6
+Sudan,SDN,2005,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,15.2
+Sudan,SDN,2004,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,14.9
+Sudan,SDN,2003,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,14.5
+Sudan,SDN,2002,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,14.2
+Sudan,SDN,2001,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,13.8
+Sudan,SDN,2000,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,4.4
+Sudan,SDN,1999,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,13.9135440471703
+Sudan,SDN,1998,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,13.3557695871224
+Sudan,SDN,1997,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,12.8018831488452
+Sudan,SDN,1996,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,12.2514904189297
+Sudan,SDN,1995,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,11.7032773021867
+Sudan,SDN,1994,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,11.1582587189977
+Sudan,SDN,1993,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,10.6143440942736
+Sudan,SDN,1992,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,10.8343538444816
+Sudan,SDN,1991,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,11.2197237237857
+Sudan,SDN,1990,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,19.4548132165178
+Sudan,SDN,2015,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,0.0923792031027797
+Sudan,SDN,2000,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,0.0698804975039818
+Sudan,SDN,1990,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,0.199141731187503
+Sudan,SDN,2021,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,96.1945424169
+Sudan,SDN,2020,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,96.1945424169
+Sudan,SDN,2019,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,96.1945424169
+Sudan,SDN,2018,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,96.1945424169
+Sudan,SDN,2017,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,96.1945424169
+Sudan,SDN,2016,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,96.1945424169
+Sudan,SDN,2015,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,96.1945424169
+Sudan,SDN,2014,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,96.1945424169
+Sudan,SDN,2013,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,96.1945424169
+Sudan,SDN,2012,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,96.1945424169
+Sudan,SDN,2024,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,11018032471.1835
+Sudan,SDN,2023,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,12079476958.6707
+Sudan,SDN,2022,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,2599511708.57045
+Sudan,SDN,2021,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,2176001725.64561
+Sudan,SDN,2020,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,5493662692.15425
+Sudan,SDN,2019,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,6520655246.28099
+Sudan,SDN,2018,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,7111321309.58231
+Sudan,SDN,2017,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,8764735157.14286
+Sudan,SDN,2016,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,9795429353.33333
+Sudan,SDN,2015,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,16323129424.2424
+Sudan,SDN,2014,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,16154478168.5393
+Sudan,SDN,2013,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,12738394863.0137
+Sudan,SDN,2012,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,12710377283.3333
+Sudan,SDN,2011,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,15321401947.3684
+Sudan,SDN,2010,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,18781018137.931
+Sudan,SDN,2009,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,17296498346.1538
+Sudan,SDN,2008,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,23458660401.1266
+Sudan,SDN,2007,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,21200820395.8137
+Sudan,SDN,2006,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,14403000092.5613
+Sudan,SDN,2005,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,11680632398.736
+Sudan,SDN,2004,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,9061261704.89134
+Sudan,SDN,2003,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,8203981939.08118
+Sudan,SDN,2002,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,6830939918.52819
+Sudan,SDN,2001,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,5623435990.66262
+Sudan,SDN,2000,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,4986535756.30293
+Sudan,SDN,1999,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,4621632909.70832
+Sudan,SDN,1998,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,4994489793.17427
+Sudan,SDN,1997,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,5261464337.77589
+Sudan,SDN,1996,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,3822393411.53445
+Sudan,SDN,1995,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,5155998547.01708
+Sudan,SDN,1994,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,4417787430.63924
+Sudan,SDN,1993,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,3543527248.07613
+Sudan,SDN,1992,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,2710314921.56896
+Sudan,SDN,1991,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,17749908048.263
+Sudan,SDN,1990,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,13126666666.6667
+Sudan,SDN,1989,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,8000000000
+Sudan,SDN,1988,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,5658888888.88889
+Sudan,SDN,1987,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,3822900000
+Sudan,SDN,1986,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,3483600000
+Sudan,SDN,1985,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,2540988053.60694
+Sudan,SDN,1984,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,2988692307.69231
+Sudan,SDN,1983,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,2567076923.07692
+Sudan,SDN,1982,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,2978263154.97415
+Sudan,SDN,1981,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,3589639599.04503
+Sudan,SDN,1980,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,2677800000
+Sudan,SDN,1979,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,2704776705.33152
+Sudan,SDN,1978,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,2824201417.72845
+Sudan,SDN,1977,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,2669969953.6337
+Sudan,SDN,1976,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,2067202762.97301
+Sudan,SDN,1975,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,1727168299.04414
+Sudan,SDN,1974,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,1567777144.07748
+Sudan,SDN,1973,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,1226019532.52734
+Sudan,SDN,1972,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,956921312.340383
+Sudan,SDN,1971,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,888282598.760145
+Sudan,SDN,1970,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,801550835.156665
+Sudan,SDN,1969,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,637564619.866642
+Sudan,SDN,1968,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,545950604.669588
+Sudan,SDN,1967,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,560310168.180098
+Sudan,SDN,1966,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,521539346.701721
+Sudan,SDN,1965,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,606835153.95415
+Sudan,SDN,1964,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,580700748.365022
+Sudan,SDN,1963,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,605973580.14352
+Sudan,SDN,1962,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,662550260.374929
+Sudan,SDN,1961,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,629810455.570966
+Sudan,SDN,1960,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,579264792.013971
+Sudan,SDN,2024,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,22.075886738306
+Sudan,SDN,2023,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,30.2756760074835
+Sudan,SDN,2022,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.03129266150122
+Sudan,SDN,2021,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,6.35709212800824
+Sudan,SDN,2020,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,20.3208627544265
+Sudan,SDN,2019,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,20.1640153484443
+Sudan,SDN,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,21.9934731580502
+Sudan,SDN,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,21.2305403131037
+Sudan,SDN,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,22.9775814159681
+Sudan,SDN,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,31.5564513257888
+Sudan,SDN,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,32.6242708162674
+Sudan,SDN,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.6076364571032
+Sudan,SDN,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,33.774624171049
+Sudan,SDN,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,27.8476934681736
+Sudan,SDN,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,31.8522211122842
+Sudan,SDN,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,33.5066805707755
+Sudan,SDN,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,36.1831633212385
+Sudan,SDN,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,35.6675143701418
+Sudan,SDN,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,31.8201079594306
+Sudan,SDN,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,33.199920468691
+Sudan,SDN,2004,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,34.0060768565709
+Sudan,SDN,2003,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,38.416611009222
+Sudan,SDN,2002,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,37.662742261404
+Sudan,SDN,2001,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,35.7807746157648
+Sudan,SDN,2000,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,40.6821739143403
+Sudan,SDN,1999,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,43.2654994233288
+Sudan,SDN,1998,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,44.394590603038
+Sudan,SDN,1997,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,45.042249161223
+Sudan,SDN,1996,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,42.3848519608798
+Sudan,SDN,1995,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,37.2802811576655
+Sudan,SDN,1994,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,34.5307043097102
+Sudan,SDN,1993,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,39.9000684515911
+Sudan,SDN,1992,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,38.5429544336647
+Sudan,SDN,1991,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,40.1843515959888
+Sudan,SDN,1990,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,39.0195890623607
+Sudan,SDN,1989,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,37.369013821345
+Sudan,SDN,1988,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,39.3728788663579
+Sudan,SDN,1987,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,31.611631753032
+Sudan,SDN,1986,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,34.5177463783912
+Sudan,SDN,1985,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,31.4663327170314
+Sudan,SDN,1984,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,28.6064541779869
+Sudan,SDN,1983,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,31.1911170928668
+Sudan,SDN,1982,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,34.1053391053391
+Sudan,SDN,1981,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,33.3799231268407
+Sudan,SDN,1980,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.9135369422909
+Sudan,SDN,1979,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,32.1293144011736
+Sudan,SDN,1978,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,34.7434978163092
+Sudan,SDN,1977,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,35.6043198529412
+Sudan,SDN,1976,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,34.3776865030089
+Sudan,SDN,1975,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,35.8104084792188
+Sudan,SDN,1974,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,39.601015596663
+Sudan,SDN,1973,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,39.841343910406
+Sudan,SDN,1972,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,38.5380522785103
+Sudan,SDN,1971,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,38.8177710843374
+Sudan,SDN,1970,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,38.1649118009025
+Sudan,SDN,1969,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,34.5095600808332
+Sudan,SDN,1968,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,32.5402259500171
+Sudan,SDN,1967,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,34.8579596212257
+Sudan,SDN,1966,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,35.1325207970594
+Sudan,SDN,1965,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,41.9412465263994
+Sudan,SDN,1964,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,41.8287132809268
+Sudan,SDN,1963,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,44.845908607864
+Sudan,SDN,1962,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,49.8810810810811
+Sudan,SDN,1961,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,51.5030530765618
+Sudan,SDN,1960,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,51.4278429372769
+Sudan,SDN,2022,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,48.6474136010182
+Sudan,SDN,2021,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,50.5142692377479
+Sudan,SDN,2020,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,50.6831069785156
+Sudan,SDN,2019,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,51.4003464412473
+Sudan,SDN,2018,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,53.040552239441
+Sudan,SDN,2017,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,53.5677297831947
+Sudan,SDN,2016,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,54.7046419584688
+Sudan,SDN,2015,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,54.9131066694824
+Sudan,SDN,2014,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,56.3630936047932
+Sudan,SDN,2013,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,58.2232246629987
+Sudan,SDN,2012,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,58.9149462410777
+Sudan,SDN,2011,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,60.5408225990398
+Sudan,SDN,2010,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,60.2576311242627
+Sudan,SDN,2009,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,61.6122858097225
+Sudan,SDN,2008,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,61.6979425558938
+Sudan,SDN,2007,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,62.3153696115274
+Sudan,SDN,2006,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,65.2285741367486
+Sudan,SDN,2005,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,66.2876679878633
+Sudan,SDN,2004,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,67.6507741663577
+Sudan,SDN,2003,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,68.6995798319328
+Sudan,SDN,2002,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,70.0657079207481
+Sudan,SDN,2001,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,71.9115362086413
+Sudan,SDN,2000,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,73.5294586006767
+Sudan,SDN,1999,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,74.4937428614302
+Sudan,SDN,1998,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,75.2949764258191
+Sudan,SDN,1997,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,76.0506025392175
+Sudan,SDN,1996,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,77.0544218574672
+Sudan,SDN,1995,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,78.1230318189557
+Sudan,SDN,1994,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,78.9821570442234
+Sudan,SDN,1993,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,79.2091235860606
+Sudan,SDN,1992,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,79.3233235897031
+Sudan,SDN,1991,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,79.443386643566
+Sudan,SDN,2022,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,37.7867011576133
+Sudan,SDN,2021,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,38.3635930525736
+Sudan,SDN,2020,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,38.3421364750848
+Sudan,SDN,2019,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,37.8903133564511
+Sudan,SDN,2018,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,37.707861354216
+Sudan,SDN,2017,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,37.9742517865228
+Sudan,SDN,2016,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,38.2976413816687
+Sudan,SDN,2015,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,39.3572858211041
+Sudan,SDN,2014,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,39.52992878285
+Sudan,SDN,2013,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,39.6469960515805
+Sudan,SDN,2012,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,39.936958627613
+Sudan,SDN,2011,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,39.2590431999539
+Sudan,SDN,2010,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,40.6967910309206
+Sudan,SDN,2009,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,40.9311302985659
+Sudan,SDN,2008,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,41.6455721213136
+Sudan,SDN,2007,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,42.4702143209205
+Sudan,SDN,2006,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,41.709307395091
+Sudan,SDN,2005,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,42.4798889508359
+Sudan,SDN,2004,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,42.8301238782129
+Sudan,SDN,2003,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,43.485810968965
+Sudan,SDN,2002,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,44.0159424150609
+Sudan,SDN,2001,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,44.0289534455773
+Sudan,SDN,2000,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,44.2345680801423
+Sudan,SDN,1999,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,44.8465540701439
+Sudan,SDN,1998,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,45.1943960796717
+Sudan,SDN,1997,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,45.541754212865
+Sudan,SDN,1996,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,46.1204151058553
+Sudan,SDN,1995,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,46.4744797579081
+Sudan,SDN,1994,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,46.9606491895842
+Sudan,SDN,1993,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,47.6133078934255
+Sudan,SDN,1992,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,48.4541835725838
+Sudan,SDN,1991,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,49.1979966400072
+Sudan,SDN,2022,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,39.7749696558281
+Sudan,SDN,2021,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,40.6717773976675
+Sudan,SDN,2020,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,40.7998002623199
+Sudan,SDN,2019,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,40.7294174284763
+Sudan,SDN,2018,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,41.0393905202671
+Sudan,SDN,2017,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,41.4510451013518
+Sudan,SDN,2016,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,42.0399819583205
+Sudan,SDN,2015,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,42.9838373833995
+Sudan,SDN,2014,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,43.5144807456723
+Sudan,SDN,2013,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,44.1202642911536
+Sudan,SDN,2012,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,44.5984531707591
+Sudan,SDN,2011,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,44.601769296736
+Sudan,SDN,2010,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,45.554036933823
+Sudan,SDN,2009,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,46.0002627847627
+Sudan,SDN,2008,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,46.5660365607705
+Sudan,SDN,2007,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,47.3542029091845
+Sudan,SDN,2006,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,47.5181631573309
+Sudan,SDN,2005,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,48.3783988321568
+Sudan,SDN,2004,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,48.9953021859015
+Sudan,SDN,2003,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,49.7708338424622
+Sudan,SDN,2002,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,50.5380009412961
+Sudan,SDN,2001,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,51.039850058028
+Sudan,SDN,2000,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,51.6351025553825
+Sudan,SDN,1999,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,52.3865266390211
+Sudan,SDN,1998,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,52.8939388251928
+Sudan,SDN,1997,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,53.3927233794601
+Sudan,SDN,1996,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,54.1203089693951
+Sudan,SDN,1995,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,54.4321640326265
+Sudan,SDN,1994,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,54.7837879697942
+Sudan,SDN,1993,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,55.1085775666038
+Sudan,SDN,1992,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,55.5337730105812
+Sudan,SDN,1991,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,55.9073845525946
+Sudan,SDN,2024,Rural population,SP.RUR.TOTL,31907960
+Sudan,SDN,2023,Rural population,SP.RUR.TOTL,31856240
+Sudan,SDN,2022,Rural population,SP.RUR.TOTL,31627070
+Sudan,SDN,2021,Rural population,SP.RUR.TOTL,30958464
+Sudan,SDN,2020,Rural population,SP.RUR.TOTL,30294623
+Sudan,SDN,2019,Rural population,SP.RUR.TOTL,29635465
+Sudan,SDN,2018,Rural population,SP.RUR.TOTL,28908233
+Sudan,SDN,2017,Rural population,SP.RUR.TOTL,28033399
+Sudan,SDN,2016,Rural population,SP.RUR.TOTL,27181604
+Sudan,SDN,2015,Rural population,SP.RUR.TOTL,26458550
+Sudan,SDN,2014,Rural population,SP.RUR.TOTL,25744130
+Sudan,SDN,2013,Rural population,SP.RUR.TOTL,25124945
+Sudan,SDN,2012,Rural population,SP.RUR.TOTL,24610775
+Sudan,SDN,2011,Rural population,SP.RUR.TOTL,24139529
+Sudan,SDN,2010,Rural population,SP.RUR.TOTL,23696129
+Sudan,SDN,2009,Rural population,SP.RUR.TOTL,23163726
+Sudan,SDN,2008,Rural population,SP.RUR.TOTL,22555302
+Sudan,SDN,2007,Rural population,SP.RUR.TOTL,21995874
+Sudan,SDN,2006,Rural population,SP.RUR.TOTL,21494757
+Sudan,SDN,2005,Rural population,SP.RUR.TOTL,21020867
+Sudan,SDN,2004,Rural population,SP.RUR.TOTL,20562478
+Sudan,SDN,2003,Rural population,SP.RUR.TOTL,20133784
+Sudan,SDN,2002,Rural population,SP.RUR.TOTL,19699870
+Sudan,SDN,2001,Rural population,SP.RUR.TOTL,19235132
+Sudan,SDN,2000,Rural population,SP.RUR.TOTL,18777694
+Sudan,SDN,1999,Rural population,SP.RUR.TOTL,18328900
+Sudan,SDN,1998,Rural population,SP.RUR.TOTL,17888929
+Sudan,SDN,1997,Rural population,SP.RUR.TOTL,17456933
+Sudan,SDN,1996,Rural population,SP.RUR.TOTL,17085782
+Sudan,SDN,1995,Rural population,SP.RUR.TOTL,16719818
+Sudan,SDN,1994,Rural population,SP.RUR.TOTL,16306846
+Sudan,SDN,1993,Rural population,SP.RUR.TOTL,15913227
+Sudan,SDN,1992,Rural population,SP.RUR.TOTL,15796260
+Sudan,SDN,1991,Rural population,SP.RUR.TOTL,15765426
+Sudan,SDN,1990,Rural population,SP.RUR.TOTL,15721135
+Sudan,SDN,1989,Rural population,SP.RUR.TOTL,15663486
+Sudan,SDN,1988,Rural population,SP.RUR.TOTL,15590861
+Sudan,SDN,1987,Rural population,SP.RUR.TOTL,15506524
+Sudan,SDN,1986,Rural population,SP.RUR.TOTL,15418046
+Sudan,SDN,1985,Rural population,SP.RUR.TOTL,15340062
+Sudan,SDN,1984,Rural population,SP.RUR.TOTL,15265252
+Sudan,SDN,1983,Rural population,SP.RUR.TOTL,15115637
+Sudan,SDN,1982,Rural population,SP.RUR.TOTL,14719806
+Sudan,SDN,1981,Rural population,SP.RUR.TOTL,14194942
+Sudan,SDN,1980,Rural population,SP.RUR.TOTL,13654118
+Sudan,SDN,1979,Rural population,SP.RUR.TOTL,13124843
+Sudan,SDN,1978,Rural population,SP.RUR.TOTL,12627101
+Sudan,SDN,1977,Rural population,SP.RUR.TOTL,12168259
+Sudan,SDN,1976,Rural population,SP.RUR.TOTL,11780635
+Sudan,SDN,1975,Rural population,SP.RUR.TOTL,11400503
+Sudan,SDN,1974,Rural population,SP.RUR.TOTL,11035152
+Sudan,SDN,1973,Rural population,SP.RUR.TOTL,10628928
+Sudan,SDN,1972,Rural population,SP.RUR.TOTL,10280233
+Sudan,SDN,1971,Rural population,SP.RUR.TOTL,10020965
+Sudan,SDN,1970,Rural population,SP.RUR.TOTL,9763279
+Sudan,SDN,1969,Rural population,SP.RUR.TOTL,9508281
+Sudan,SDN,1968,Rural population,SP.RUR.TOTL,9258791
+Sudan,SDN,1967,Rural population,SP.RUR.TOTL,9013692
+Sudan,SDN,1966,Rural population,SP.RUR.TOTL,8774098
+Sudan,SDN,1965,Rural population,SP.RUR.TOTL,8539716
+Sudan,SDN,1964,Rural population,SP.RUR.TOTL,8310365
+Sudan,SDN,1963,Rural population,SP.RUR.TOTL,8087756
+Sudan,SDN,1962,Rural population,SP.RUR.TOTL,7872202
+Sudan,SDN,1961,Rural population,SP.RUR.TOTL,7665064
+Sudan,SDN,1960,Rural population,SP.RUR.TOTL,7465641
+Sudan,SDN,2024,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.162222724796314
+Sudan,SDN,2023,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.721988174493869
+Sudan,SDN,2022,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.1366964363394
+Sudan,SDN,2021,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.16761970659072
+Sudan,SDN,2020,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.19984519990588
+Sudan,SDN,2019,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.48453525818907
+Sudan,SDN,2018,Rural population growth (annual %),SP.RUR.TOTL.ZG,3.07298126833192
+Sudan,SDN,2017,Rural population growth (annual %),SP.RUR.TOTL.ZG,3.08561997949046
+Sudan,SDN,2016,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.69610634750149
+Sudan,SDN,2015,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.73727175299938
+Sudan,SDN,2014,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.43454626354833
+Sudan,SDN,2013,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.06768221512785
+Sudan,SDN,2012,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.93336508765548
+Sudan,SDN,2011,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.85390028268735
+Sudan,SDN,2010,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.27241808735334
+Sudan,SDN,2009,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.66173603308045
+Sudan,SDN,2008,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.51152699481504
+Sudan,SDN,2007,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.30458453852197
+Sudan,SDN,2006,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.22934338995388
+Sudan,SDN,2005,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.20476524139602
+Sudan,SDN,2004,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.10687584881041
+Sudan,SDN,2003,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.17871633907016
+Sudan,SDN,2002,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.3873638066434
+Sudan,SDN,2001,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.40687226325238
+Sudan,SDN,2000,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.41906268986278
+Sudan,SDN,1999,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.42970192580575
+Sudan,SDN,1998,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.4445153548425
+Sudan,SDN,1997,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.14902206692629
+Sudan,SDN,1996,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.16519332342194
+Sudan,SDN,1995,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.50097027924427
+Sudan,SDN,1994,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.44343694448051
+Sudan,SDN,1993,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.73774470404023
+Sudan,SDN,1992,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.195388863633775
+Sudan,SDN,1991,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.28133291033556
+Sudan,SDN,1990,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.36737142587601
+Sudan,SDN,1989,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.464736189898216
+Sudan,SDN,1988,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.542407065866948
+Sudan,SDN,1987,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.572219703772368
+Sudan,SDN,1986,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.507080390643569
+Sudan,SDN,1985,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.488870324891322
+Sudan,SDN,1984,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.984936349361979
+Sudan,SDN,1983,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.65358370433446
+Sudan,SDN,1982,Rural population growth (annual %),SP.RUR.TOTL.ZG,3.63082298952242
+Sudan,SDN,1981,Rural population growth (annual %),SP.RUR.TOTL.ZG,3.88445428559413
+Sudan,SDN,1980,Rural population growth (annual %),SP.RUR.TOTL.ZG,3.95343146135087
+Sudan,SDN,1979,Rural population growth (annual %),SP.RUR.TOTL.ZG,3.86614693439538
+Sudan,SDN,1978,Rural population growth (annual %),SP.RUR.TOTL.ZG,3.70145370883724
+Sudan,SDN,1977,Rural population growth (annual %),SP.RUR.TOTL.ZG,3.23737583748335
+Sudan,SDN,1976,Rural population growth (annual %),SP.RUR.TOTL.ZG,3.27996044601369
+Sudan,SDN,1975,Rural population growth (annual %),SP.RUR.TOTL.ZG,3.25716632659236
+Sudan,SDN,1974,Rural population growth (annual %),SP.RUR.TOTL.ZG,3.75064733600663
+Sudan,SDN,1973,Rural population growth (annual %),SP.RUR.TOTL.ZG,3.33564154682819
+Sudan,SDN,1972,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.55435267351234
+Sudan,SDN,1971,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.60510912879047
+Sudan,SDN,1970,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.6465203995811
+Sudan,SDN,1969,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.65896245418634
+Sudan,SDN,1968,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.68287239647652
+Sudan,SDN,1967,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.694078256867
+Sudan,SDN,1966,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.70762200674866
+Sudan,SDN,1965,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.7224221091062
+Sudan,SDN,1964,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.71522177743707
+Sudan,SDN,1963,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.70134931229251
+Sudan,SDN,1962,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.66649580596854
+Sudan,SDN,1961,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.63615672442728
+Sudan,SDN,2024,Rural population (% of total population),SP.RUR.TOTL.ZS,63.248
+Sudan,SDN,2023,Rural population (% of total population),SP.RUR.TOTL.ZS,63.658
+Sudan,SDN,2022,Rural population (% of total population),SP.RUR.TOTL.ZS,64.044
+Sudan,SDN,2021,Rural population (% of total population),SP.RUR.TOTL.ZS,64.407
+Sudan,SDN,2020,Rural population (% of total population),SP.RUR.TOTL.ZS,64.747
+Sudan,SDN,2019,Rural population (% of total population),SP.RUR.TOTL.ZS,65.064
+Sudan,SDN,2018,Rural population (% of total population),SP.RUR.TOTL.ZS,65.358
+Sudan,SDN,2017,Rural population (% of total population),SP.RUR.TOTL.ZS,65.63
+Sudan,SDN,2016,Rural population (% of total population),SP.RUR.TOTL.ZS,65.879
+Sudan,SDN,2015,Rural population (% of total population),SP.RUR.TOTL.ZS,66.106
+Sudan,SDN,2014,Rural population (% of total population),SP.RUR.TOTL.ZS,66.311
+Sudan,SDN,2013,Rural population (% of total population),SP.RUR.TOTL.ZS,66.493
+Sudan,SDN,2012,Rural population (% of total population),SP.RUR.TOTL.ZS,66.654
+Sudan,SDN,2011,Rural population (% of total population),SP.RUR.TOTL.ZS,66.793
+Sudan,SDN,2010,Rural population (% of total population),SP.RUR.TOTL.ZS,66.911
+Sudan,SDN,2009,Rural population (% of total population),SP.RUR.TOTL.ZS,67.007
+Sudan,SDN,2008,Rural population (% of total population),SP.RUR.TOTL.ZS,67.081
+Sudan,SDN,2007,Rural population (% of total population),SP.RUR.TOTL.ZS,67.134
+Sudan,SDN,2006,Rural population (% of total population),SP.RUR.TOTL.ZS,67.187
+Sudan,SDN,2005,Rural population (% of total population),SP.RUR.TOTL.ZS,67.24
+Sudan,SDN,2004,Rural population (% of total population),SP.RUR.TOTL.ZS,67.293
+Sudan,SDN,2003,Rural population (% of total population),SP.RUR.TOTL.ZS,67.346
+Sudan,SDN,2002,Rural population (% of total population),SP.RUR.TOTL.ZS,67.399
+Sudan,SDN,2001,Rural population (% of total population),SP.RUR.TOTL.ZS,67.452
+Sudan,SDN,2000,Rural population (% of total population),SP.RUR.TOTL.ZS,67.505
+Sudan,SDN,1999,Rural population (% of total population),SP.RUR.TOTL.ZS,67.558
+Sudan,SDN,1998,Rural population (% of total population),SP.RUR.TOTL.ZS,67.61
+Sudan,SDN,1997,Rural population (% of total population),SP.RUR.TOTL.ZS,67.663
+Sudan,SDN,1996,Rural population (% of total population),SP.RUR.TOTL.ZS,67.716
+Sudan,SDN,1995,Rural population (% of total population),SP.RUR.TOTL.ZS,67.768
+Sudan,SDN,1994,Rural population (% of total population),SP.RUR.TOTL.ZS,67.821
+Sudan,SDN,1993,Rural population (% of total population),SP.RUR.TOTL.ZS,67.873
+Sudan,SDN,1992,Rural population (% of total population),SP.RUR.TOTL.ZS,68.897
+Sudan,SDN,1991,Rural population (% of total population),SP.RUR.TOTL.ZS,70.16
+Sudan,SDN,1990,Rural population (% of total population),SP.RUR.TOTL.ZS,71.39
+Sudan,SDN,1989,Rural population (% of total population),SP.RUR.TOTL.ZS,72.59
+Sudan,SDN,1988,Rural population (% of total population),SP.RUR.TOTL.ZS,73.756
+Sudan,SDN,1987,Rural population (% of total population),SP.RUR.TOTL.ZS,74.893
+Sudan,SDN,1986,Rural population (% of total population),SP.RUR.TOTL.ZS,75.995
+Sudan,SDN,1985,Rural population (% of total population),SP.RUR.TOTL.ZS,77.063
+Sudan,SDN,1984,Rural population (% of total population),SP.RUR.TOTL.ZS,78.097
+Sudan,SDN,1983,Rural population (% of total population),SP.RUR.TOTL.ZS,79.099
+Sudan,SDN,1982,Rural population (% of total population),SP.RUR.TOTL.ZS,79.624
+Sudan,SDN,1981,Rural population (% of total population),SP.RUR.TOTL.ZS,79.834
+Sudan,SDN,1980,Rural population (% of total population),SP.RUR.TOTL.ZS,80.041
+Sudan,SDN,1979,Rural population (% of total population),SP.RUR.TOTL.ZS,80.248
+Sudan,SDN,1978,Rural population (% of total population),SP.RUR.TOTL.ZS,80.453
+Sudan,SDN,1977,Rural population (% of total population),SP.RUR.TOTL.ZS,80.656
+Sudan,SDN,1976,Rural population (% of total population),SP.RUR.TOTL.ZS,80.857
+Sudan,SDN,1975,Rural population (% of total population),SP.RUR.TOTL.ZS,81.057
+Sudan,SDN,1974,Rural population (% of total population),SP.RUR.TOTL.ZS,81.256
+Sudan,SDN,1973,Rural population (% of total population),SP.RUR.TOTL.ZS,81.452
+Sudan,SDN,1972,Rural population (% of total population),SP.RUR.TOTL.ZS,82.059
+Sudan,SDN,1971,Rural population (% of total population),SP.RUR.TOTL.ZS,82.78
+Sudan,SDN,1970,Rural population (% of total population),SP.RUR.TOTL.ZS,83.477
+Sudan,SDN,1969,Rural population (% of total population),SP.RUR.TOTL.ZS,84.152
+Sudan,SDN,1968,Rural population (% of total population),SP.RUR.TOTL.ZS,84.803
+Sudan,SDN,1967,Rural population (% of total population),SP.RUR.TOTL.ZS,85.433
+Sudan,SDN,1966,Rural population (% of total population),SP.RUR.TOTL.ZS,86.041
+Sudan,SDN,1965,Rural population (% of total population),SP.RUR.TOTL.ZS,86.627
+Sudan,SDN,1964,Rural population (% of total population),SP.RUR.TOTL.ZS,87.192
+Sudan,SDN,1963,Rural population (% of total population),SP.RUR.TOTL.ZS,87.738
+Sudan,SDN,1962,Rural population (% of total population),SP.RUR.TOTL.ZS,88.263
+Sudan,SDN,1961,Rural population (% of total population),SP.RUR.TOTL.ZS,88.768
+Sudan,SDN,1960,Rural population (% of total population),SP.RUR.TOTL.ZS,89.254
+Sudan,SDN,2018,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.469809523921125
+Sudan,SDN,2017,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.669291647536696
+Sudan,SDN,2016,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.546086839620371
+Sudan,SDN,2015,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.570091414060026
+Sudan,SDN,2014,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.520197901886463
+Sudan,SDN,2013,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.572797520834234
+Sudan,SDN,2012,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.554275209161364
+Sudan,SDN,2011,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.412995446669273
+Sudan,SDN,2010,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.739548961611996
+Sudan,SDN,2009,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.11069591004555
+Sudan,SDN,2008,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.352121963856742
+Sudan,SDN,2007,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.354883182198868
+Sudan,SDN,2006,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.422595140098966
+Sudan,SDN,2005,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.676630293531407
+Sudan,SDN,2004,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.662316278365721
+Sudan,SDN,2003,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.868142005485328
+Sudan,SDN,2002,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.943939149976739
+Sudan,SDN,2001,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.01118889638199
+Sudan,SDN,2000,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.00444047048376
+Sudan,SDN,1999,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.740531578022143
+Sudan,SDN,1998,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.05342421109678
+Sudan,SDN,1997,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.76872002964937
+Sudan,SDN,1996,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.56973327499112
+Sudan,SDN,1995,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.84465284427205
+Sudan,SDN,1985,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.35911634437838
+Sudan,SDN,1984,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.06807629066616
+Sudan,SDN,1982,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.08073473369122
+Sudan,SDN,1981,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2.10182432927878
+Sudan,SDN,1980,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.07273745621646
+Sudan,SDN,1979,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.621649869454014
+Sudan,SDN,1978,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.09394951404634
+Sudan,SDN,1977,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.894455685121912
+Sudan,SDN,1976,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.369386326340065
+Sudan,SDN,1975,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.911015435524033
+Sudan,SDN,1974,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.91776927566651
+Sudan,SDN,1973,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.61663897790338
+Sudan,SDN,1972,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.38794845432315
+Sudan,SDN,1971,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2.38846162839039
+Sudan,SDN,1970,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2.28878465052964
+Sudan,SDN,1969,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.63981765028292
+Sudan,SDN,1968,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2.45996701787158
+Sudan,SDN,1967,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2.34363698723262
+Sudan,SDN,1966,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2.09209277275031
+Sudan,SDN,1965,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.83906953468063
+Sudan,SDN,1964,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2.16477875732335
+Sudan,SDN,1963,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2.14697473835824
+Sudan,SDN,2018,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,7.7666334349751
+Sudan,SDN,2017,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,6.04407525289845
+Sudan,SDN,2016,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,6.40336609615882
+Sudan,SDN,2015,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,0.936513244132192
+Sudan,SDN,2014,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2.31610367749307
+Sudan,SDN,2013,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,0.58322035274893
+Sudan,SDN,2012,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.83263334490823
+Sudan,SDN,2011,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,1.1639061827231
+Sudan,SDN,2010,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,1.02146474774413
+Sudan,SDN,2009,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,1.3981799131636
+Sudan,SDN,2008,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,1.15555362860691
+Sudan,SDN,2007,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,1.64183619096961
+Sudan,SDN,2006,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2.34153153033958
+Sudan,SDN,2005,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,4.77212160600359
+Sudan,SDN,2004,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,4.17593808431899
+Sudan,SDN,2003,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,5.89525026401032
+Sudan,SDN,2002,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,5.23576341372774
+Sudan,SDN,2001,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.83114371892676
+Sudan,SDN,2000,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,4.72096466769449
+Sudan,SDN,1999,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,13.0839181201226
+Sudan,SDN,1998,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,24.3420197165029
+Sudan,SDN,1997,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,29.6876538933041
+Sudan,SDN,1996,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,25.0249734144659
+Sudan,SDN,1995,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,46.1313720692071
+Sudan,SDN,1985,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,52.5853521541077
+Sudan,SDN,1984,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,55.8907124186659
+Sudan,SDN,1982,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,34.0415602366026
+Sudan,SDN,1981,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,35.5430109870202
+Sudan,SDN,1980,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,50.7407509751427
+Sudan,SDN,1979,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,67.3770367837706
+Sudan,SDN,1978,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,60.8726012102774
+Sudan,SDN,1976,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,58.1277499973826
+Sudan,SDN,1975,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,53.0885708289987
+Sudan,SDN,1974,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,50.9922806550536
+Sudan,SDN,1973,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,65.8336609034754
+Sudan,SDN,1972,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,70.0562368801992
+Sudan,SDN,1971,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,69.9873159348018
+Sudan,SDN,1970,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,74.6161525156565
+Sudan,SDN,1969,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,70.3385232941273
+Sudan,SDN,1968,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,71.8726055041211
+Sudan,SDN,1967,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,68.7599256558985
+Sudan,SDN,1966,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,63.0583191094615
+Sudan,SDN,1965,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,60.1880386775859
+Sudan,SDN,1964,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,60.4423077305335
+Sudan,SDN,1963,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,68.9092985484173
+Sudan,SDN,2012,Economically active population in agriculture (number),EN.AGR.EMPL,7336000
+Sudan,SDN,2011,Economically active population in agriculture (number),EN.AGR.EMPL,7232000
+Sudan,SDN,2010,Economically active population in agriculture (number),EN.AGR.EMPL,7124000
+Sudan,SDN,2009,Economically active population in agriculture (number),EN.AGR.EMPL,7014000
+Sudan,SDN,2008,Economically active population in agriculture (number),EN.AGR.EMPL,6901000
+Sudan,SDN,2007,Economically active population in agriculture (number),EN.AGR.EMPL,6789000
+Sudan,SDN,2006,Economically active population in agriculture (number),EN.AGR.EMPL,6653000
+Sudan,SDN,2005,Economically active population in agriculture (number),EN.AGR.EMPL,6566000
+Sudan,SDN,2004,Economically active population in agriculture (number),EN.AGR.EMPL,6489000
+Sudan,SDN,2003,Economically active population in agriculture (number),EN.AGR.EMPL,6422000
+Sudan,SDN,2002,Economically active population in agriculture (number),EN.AGR.EMPL,6354000
+Sudan,SDN,2001,Economically active population in agriculture (number),EN.AGR.EMPL,6289000
+Sudan,SDN,2000,Economically active population in agriculture (number),EN.AGR.EMPL,6223000
+Sudan,SDN,1999,Economically active population in agriculture (number),EN.AGR.EMPL,6144000
+Sudan,SDN,1998,Economically active population in agriculture (number),EN.AGR.EMPL,6063000
+Sudan,SDN,1997,Economically active population in agriculture (number),EN.AGR.EMPL,5980000
+Sudan,SDN,1996,Economically active population in agriculture (number),EN.AGR.EMPL,5898000
+Sudan,SDN,1995,Economically active population in agriculture (number),EN.AGR.EMPL,5760000
+Sudan,SDN,1994,Economically active population in agriculture (number),EN.AGR.EMPL,5610000
+Sudan,SDN,1993,Economically active population in agriculture (number),EN.AGR.EMPL,5438000
+Sudan,SDN,1992,Economically active population in agriculture (number),EN.AGR.EMPL,5359000
+Sudan,SDN,1991,Economically active population in agriculture (number),EN.AGR.EMPL,5259000
+Sudan,SDN,1990,Economically active population in agriculture (number),EN.AGR.EMPL,5151000
+Sudan,SDN,1989,Economically active population in agriculture (number),EN.AGR.EMPL,5150000
+Sudan,SDN,1988,Economically active population in agriculture (number),EN.AGR.EMPL,5154000
+Sudan,SDN,1987,Economically active population in agriculture (number),EN.AGR.EMPL,5160000
+Sudan,SDN,1986,Economically active population in agriculture (number),EN.AGR.EMPL,5160000
+Sudan,SDN,1985,Economically active population in agriculture (number),EN.AGR.EMPL,5149000
+Sudan,SDN,1984,Economically active population in agriculture (number),EN.AGR.EMPL,5125000
+Sudan,SDN,1983,Economically active population in agriculture (number),EN.AGR.EMPL,5088000
+Sudan,SDN,1982,Economically active population in agriculture (number),EN.AGR.EMPL,4942000
+Sudan,SDN,1981,Economically active population in agriculture (number),EN.AGR.EMPL,4796000
+Sudan,SDN,1980,Economically active population in agriculture (number),EN.AGR.EMPL,4656000

@@ -1,0 +1,1406 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Guinea,GIN,2021,Agricultural land (sq. km),AG.LND.AGRI.K2,146380
+Guinea,GIN,2020,Agricultural land (sq. km),AG.LND.AGRI.K2,146350
+Guinea,GIN,2019,Agricultural land (sq. km),AG.LND.AGRI.K2,146300
+Guinea,GIN,2018,Agricultural land (sq. km),AG.LND.AGRI.K2,146220
+Guinea,GIN,2017,Agricultural land (sq. km),AG.LND.AGRI.K2,145950
+Guinea,GIN,2016,Agricultural land (sq. km),AG.LND.AGRI.K2,145650
+Guinea,GIN,2015,Agricultural land (sq. km),AG.LND.AGRI.K2,145450
+Guinea,GIN,2014,Agricultural land (sq. km),AG.LND.AGRI.K2,145330
+Guinea,GIN,2013,Agricultural land (sq. km),AG.LND.AGRI.K2,145000
+Guinea,GIN,2012,Agricultural land (sq. km),AG.LND.AGRI.K2,144000
+Guinea,GIN,2011,Agricultural land (sq. km),AG.LND.AGRI.K2,143000
+Guinea,GIN,2010,Agricultural land (sq. km),AG.LND.AGRI.K2,143000
+Guinea,GIN,2009,Agricultural land (sq. km),AG.LND.AGRI.K2,142500
+Guinea,GIN,2008,Agricultural land (sq. km),AG.LND.AGRI.K2,142400
+Guinea,GIN,2007,Agricultural land (sq. km),AG.LND.AGRI.K2,141800
+Guinea,GIN,2006,Agricultural land (sq. km),AG.LND.AGRI.K2,141300
+Guinea,GIN,2005,Agricultural land (sq. km),AG.LND.AGRI.K2,141210
+Guinea,GIN,2004,Agricultural land (sq. km),AG.LND.AGRI.K2,141230
+Guinea,GIN,2003,Agricultural land (sq. km),AG.LND.AGRI.K2,141120
+Guinea,GIN,2002,Agricultural land (sq. km),AG.LND.AGRI.K2,140910
+Guinea,GIN,2001,Agricultural land (sq. km),AG.LND.AGRI.K2,140800
+Guinea,GIN,2000,Agricultural land (sq. km),AG.LND.AGRI.K2,140790
+Guinea,GIN,1999,Agricultural land (sq. km),AG.LND.AGRI.K2,140780
+Guinea,GIN,1998,Agricultural land (sq. km),AG.LND.AGRI.K2,140670
+Guinea,GIN,1997,Agricultural land (sq. km),AG.LND.AGRI.K2,140360
+Guinea,GIN,1996,Agricultural land (sq. km),AG.LND.AGRI.K2,140350
+Guinea,GIN,1995,Agricultural land (sq. km),AG.LND.AGRI.K2,140240
+Guinea,GIN,1994,Agricultural land (sq. km),AG.LND.AGRI.K2,140480
+Guinea,GIN,1993,Agricultural land (sq. km),AG.LND.AGRI.K2,140520
+Guinea,GIN,1992,Agricultural land (sq. km),AG.LND.AGRI.K2,140550
+Guinea,GIN,1991,Agricultural land (sq. km),AG.LND.AGRI.K2,140490
+Guinea,GIN,1990,Agricultural land (sq. km),AG.LND.AGRI.K2,141410
+Guinea,GIN,1989,Agricultural land (sq. km),AG.LND.AGRI.K2,140570
+Guinea,GIN,1988,Agricultural land (sq. km),AG.LND.AGRI.K2,140810
+Guinea,GIN,1987,Agricultural land (sq. km),AG.LND.AGRI.K2,140740
+Guinea,GIN,1986,Agricultural land (sq. km),AG.LND.AGRI.K2,140980
+Guinea,GIN,1985,Agricultural land (sq. km),AG.LND.AGRI.K2,141220
+Guinea,GIN,1984,Agricultural land (sq. km),AG.LND.AGRI.K2,141360
+Guinea,GIN,1983,Agricultural land (sq. km),AG.LND.AGRI.K2,141590
+Guinea,GIN,1982,Agricultural land (sq. km),AG.LND.AGRI.K2,141730
+Guinea,GIN,1981,Agricultural land (sq. km),AG.LND.AGRI.K2,141970
+Guinea,GIN,1980,Agricultural land (sq. km),AG.LND.AGRI.K2,142210
+Guinea,GIN,1979,Agricultural land (sq. km),AG.LND.AGRI.K2,142450
+Guinea,GIN,1978,Agricultural land (sq. km),AG.LND.AGRI.K2,142480
+Guinea,GIN,1977,Agricultural land (sq. km),AG.LND.AGRI.K2,142720
+Guinea,GIN,1976,Agricultural land (sq. km),AG.LND.AGRI.K2,142960
+Guinea,GIN,1975,Agricultural land (sq. km),AG.LND.AGRI.K2,143200
+Guinea,GIN,1974,Agricultural land (sq. km),AG.LND.AGRI.K2,143340
+Guinea,GIN,1973,Agricultural land (sq. km),AG.LND.AGRI.K2,143570
+Guinea,GIN,1972,Agricultural land (sq. km),AG.LND.AGRI.K2,143810
+Guinea,GIN,1971,Agricultural land (sq. km),AG.LND.AGRI.K2,144050
+Guinea,GIN,1970,Agricultural land (sq. km),AG.LND.AGRI.K2,144290
+Guinea,GIN,1969,Agricultural land (sq. km),AG.LND.AGRI.K2,144520
+Guinea,GIN,1968,Agricultural land (sq. km),AG.LND.AGRI.K2,144760
+Guinea,GIN,1967,Agricultural land (sq. km),AG.LND.AGRI.K2,145000
+Guinea,GIN,1966,Agricultural land (sq. km),AG.LND.AGRI.K2,145240
+Guinea,GIN,1965,Agricultural land (sq. km),AG.LND.AGRI.K2,145480
+Guinea,GIN,1964,Agricultural land (sq. km),AG.LND.AGRI.K2,145710
+Guinea,GIN,1963,Agricultural land (sq. km),AG.LND.AGRI.K2,145950
+Guinea,GIN,1962,Agricultural land (sq. km),AG.LND.AGRI.K2,146190
+Guinea,GIN,1961,Agricultural land (sq. km),AG.LND.AGRI.K2,146200
+Guinea,GIN,2022,Agricultural land (% of land area),AG.LND.AGRI.ZS,69.977533371317
+Guinea,GIN,2021,Agricultural land (% of land area),AG.LND.AGRI.ZS,69.6189744424548
+Guinea,GIN,2020,Agricultural land (% of land area),AG.LND.AGRI.ZS,69.0973453524337
+Guinea,GIN,2019,Agricultural land (% of land area),AG.LND.AGRI.ZS,67.8754985349178
+Guinea,GIN,2018,Agricultural land (% of land area),AG.LND.AGRI.ZS,67.9785214878724
+Guinea,GIN,2017,Agricultural land (% of land area),AG.LND.AGRI.ZS,67.2847460524174
+Guinea,GIN,2016,Agricultural land (% of land area),AG.LND.AGRI.ZS,66.5092104834771
+Guinea,GIN,2015,Agricultural land (% of land area),AG.LND.AGRI.ZS,66.0886985186391
+Guinea,GIN,2014,Agricultural land (% of land area),AG.LND.AGRI.ZS,65.2257594009442
+Guinea,GIN,2013,Agricultural land (% of land area),AG.LND.AGRI.ZS,63.6899243040859
+Guinea,GIN,2012,Agricultural land (% of land area),AG.LND.AGRI.ZS,63.3314846166368
+Guinea,GIN,2011,Agricultural land (% of land area),AG.LND.AGRI.ZS,61.4914850236041
+Guinea,GIN,2010,Agricultural land (% of land area),AG.LND.AGRI.ZS,61.2889772912258
+Guinea,GIN,2009,Agricultural land (% of land area),AG.LND.AGRI.ZS,58.4625895328016
+Guinea,GIN,2008,Agricultural land (% of land area),AG.LND.AGRI.ZS,58.9289268272831
+Guinea,GIN,2007,Agricultural land (% of land area),AG.LND.AGRI.ZS,58.318871479733
+Guinea,GIN,2006,Agricultural land (% of land area),AG.LND.AGRI.ZS,57.7930225459873
+Guinea,GIN,2005,Agricultural land (% of land area),AG.LND.AGRI.ZS,57.5021040208367
+Guinea,GIN,2004,Agricultural land (% of land area),AG.LND.AGRI.ZS,57.4635398014
+Guinea,GIN,2003,Agricultural land (% of land area),AG.LND.AGRI.ZS,57.441909490477
+Guinea,GIN,2002,Agricultural land (% of land area),AG.LND.AGRI.ZS,57.3726965651962
+Guinea,GIN,2001,Agricultural land (% of land area),AG.LND.AGRI.ZS,57.2297574475012
+Guinea,GIN,2000,Agricultural land (% of land area),AG.LND.AGRI.ZS,57.2361102067394
+Guinea,GIN,1999,Agricultural land (% of land area),AG.LND.AGRI.ZS,57.223083184112
+Guinea,GIN,1998,Agricultural land (% of land area),AG.LND.AGRI.ZS,57.2425158717239
+Guinea,GIN,1997,Agricultural land (% of land area),AG.LND.AGRI.ZS,57.2002808074231
+Guinea,GIN,1996,Agricultural land (% of land area),AG.LND.AGRI.ZS,57.1935902653427
+Guinea,GIN,1995,Agricultural land (% of land area),AG.LND.AGRI.ZS,57.14911281133
+Guinea,GIN,1994,Agricultural land (% of land area),AG.LND.AGRI.ZS,57.1904810353248
+Guinea,GIN,1993,Agricultural land (% of land area),AG.LND.AGRI.ZS,57.0959018394921
+Guinea,GIN,1992,Agricultural land (% of land area),AG.LND.AGRI.ZS,57.0572114601986
+Guinea,GIN,1991,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.8966018232134
+Guinea,GIN,1990,Agricultural land (% of land area),AG.LND.AGRI.ZS,57.1793464105486
+Guinea,GIN,1989,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.6828788865375
+Guinea,GIN,1988,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.7183989907211
+Guinea,GIN,1987,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.5045580335341
+Guinea,GIN,1986,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.5025231971349
+Guinea,GIN,1985,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.6249023278528
+Guinea,GIN,1984,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.5701448803516
+Guinea,GIN,1983,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.5341364154322
+Guinea,GIN,1982,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.490456617288
+Guinea,GIN,1981,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.5005209181182
+Guinea,GIN,1980,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.5079684193391
+Guinea,GIN,1979,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.5054777795865
+Guinea,GIN,1978,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.4190664170601
+Guinea,GIN,1977,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.4335422432036
+Guinea,GIN,1976,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.4545010581149
+Guinea,GIN,1975,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.4106299853492
+Guinea,GIN,1974,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.4060312550871
+Guinea,GIN,1973,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.4218215855445
+Guinea,GIN,1972,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.4188914211297
+Guinea,GIN,1971,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.3985430571382
+Guinea,GIN,1970,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.3436024743611
+Guinea,GIN,1969,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.3417711216018
+Guinea,GIN,1968,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.3958977698193
+Guinea,GIN,1967,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.4007813771773
+Guinea,GIN,1966,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.3771772749471
+Guinea,GIN,1965,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.3303760377666
+Guinea,GIN,1964,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.3242715285691
+Guinea,GIN,1963,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.336480546964
+Guinea,GIN,1962,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.3771772749471
+Guinea,GIN,1961,Agricultural land (% of land area),AG.LND.AGRI.ZS,56.3934559661403
+Guinea,GIN,2022,Arable land (% of land area),AG.LND.ARBL.ZS,20.6602694123393
+Guinea,GIN,2021,Arable land (% of land area),AG.LND.ARBL.ZS,20.3472301806935
+Guinea,GIN,2020,Arable land (% of land area),AG.LND.ARBL.ZS,20.1025056975419
+Guinea,GIN,2019,Arable land (% of land area),AG.LND.ARBL.ZS,19.9697195995442
+Guinea,GIN,2018,Arable land (% of land area),AG.LND.ARBL.ZS,21.0845323945955
+Guinea,GIN,2017,Arable land (% of land area),AG.LND.ARBL.ZS,20.5018305388247
+Guinea,GIN,2016,Arable land (% of land area),AG.LND.ARBL.ZS,19.8483363177601
+Guinea,GIN,2015,Arable land (% of land area),AG.LND.ARBL.ZS,19.5101782516686
+Guinea,GIN,2014,Arable land (% of land area),AG.LND.ARBL.ZS,18.697251342992
+Guinea,GIN,2013,Arable land (% of land area),AG.LND.ARBL.ZS,17.269160833469
+Guinea,GIN,2012,Arable land (% of land area),AG.LND.ARBL.ZS,16.9222179716751
+Guinea,GIN,2011,Arable land (% of land area),AG.LND.ARBL.ZS,14.9299556405665
+Guinea,GIN,2010,Arable land (% of land area),AG.LND.ARBL.ZS,14.8265769982093
+Guinea,GIN,2009,Arable land (% of land area),AG.LND.ARBL.ZS,12.0387290411851
+Guinea,GIN,2008,Arable land (% of land area),AG.LND.ARBL.ZS,12.46224116881
+Guinea,GIN,2007,Arable land (% of land area),AG.LND.ARBL.ZS,11.9405872537848
+Guinea,GIN,2006,Arable land (% of land area),AG.LND.ARBL.ZS,11.4197969233274
+Guinea,GIN,2005,Arable land (% of land area),AG.LND.ARBL.ZS,11.1549731401595
+Guinea,GIN,2004,Arable land (% of land area),AG.LND.ARBL.ZS,11.1631124857561
+Guinea,GIN,2003,Arable land (% of land area),AG.LND.ARBL.ZS,11.1590428129578
+Guinea,GIN,2002,Arable land (% of land area),AG.LND.ARBL.ZS,11.1549731401595
+Guinea,GIN,2001,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,2000,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1999,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1998,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1997,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1996,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1995,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1994,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1993,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1992,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1991,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1990,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1989,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1988,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1987,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1986,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1985,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1984,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1983,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1982,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1981,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1980,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1979,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1978,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1977,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1976,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1975,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1974,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1973,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1972,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1971,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1970,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1969,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1968,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1967,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1966,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1965,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1964,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1963,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1962,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,1961,Arable land (% of land area),AG.LND.ARBL.ZS,11.1509034673612
+Guinea,GIN,2015,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,3296.83061745
+Guinea,GIN,2000,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,3320.80454045
+Guinea,GIN,1990,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,3343.73938387
+Guinea,GIN,2015,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,1.34237732822435
+Guinea,GIN,2000,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,1.35213883994105
+Guinea,GIN,1990,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,1.36147726748286
+Guinea,GIN,2015,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,87.1300355868
+Guinea,GIN,2000,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,63.1561125947
+Guinea,GIN,1990,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,40.2212691699
+Guinea,GIN,2015,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.0354769164542542
+Guinea,GIN,2000,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.0257154047396634
+Guinea,GIN,1990,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.0163769771975317
+Guinea,GIN,2015,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,1.3778542446786
+Guinea,GIN,2000,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,1.37785424468071
+Guinea,GIN,1990,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,1.37785424468039
+Guinea,GIN,2022,Forest area (sq. km),AG.LND.FRST.K2,61090
+Guinea,GIN,2021,Forest area (sq. km),AG.LND.FRST.K2,61490
+Guinea,GIN,2020,Forest area (sq. km),AG.LND.FRST.K2,61890
+Guinea,GIN,2019,Forest area (sq. km),AG.LND.FRST.K2,62290
+Guinea,GIN,2018,Forest area (sq. km),AG.LND.FRST.K2,62690
+Guinea,GIN,2017,Forest area (sq. km),AG.LND.FRST.K2,63090
+Guinea,GIN,2016,Forest area (sq. km),AG.LND.FRST.K2,63490
+Guinea,GIN,2015,Forest area (sq. km),AG.LND.FRST.K2,63890
+Guinea,GIN,2014,Forest area (sq. km),AG.LND.FRST.K2,64250
+Guinea,GIN,2013,Forest area (sq. km),AG.LND.FRST.K2,64610
+Guinea,GIN,2012,Forest area (sq. km),AG.LND.FRST.K2,64970
+Guinea,GIN,2011,Forest area (sq. km),AG.LND.FRST.K2,65330
+Guinea,GIN,2010,Forest area (sq. km),AG.LND.FRST.K2,65690
+Guinea,GIN,2009,Forest area (sq. km),AG.LND.FRST.K2,66050
+Guinea,GIN,2008,Forest area (sq. km),AG.LND.FRST.K2,66410
+Guinea,GIN,2007,Forest area (sq. km),AG.LND.FRST.K2,66770
+Guinea,GIN,2006,Forest area (sq. km),AG.LND.FRST.K2,67130
+Guinea,GIN,2005,Forest area (sq. km),AG.LND.FRST.K2,67490
+Guinea,GIN,2004,Forest area (sq. km),AG.LND.FRST.K2,67850
+Guinea,GIN,2003,Forest area (sq. km),AG.LND.FRST.K2,68210
+Guinea,GIN,2002,Forest area (sq. km),AG.LND.FRST.K2,68570
+Guinea,GIN,2001,Forest area (sq. km),AG.LND.FRST.K2,68930
+Guinea,GIN,2000,Forest area (sq. km),AG.LND.FRST.K2,69290
+Guinea,GIN,1999,Forest area (sq. km),AG.LND.FRST.K2,69637
+Guinea,GIN,1998,Forest area (sq. km),AG.LND.FRST.K2,69984
+Guinea,GIN,1997,Forest area (sq. km),AG.LND.FRST.K2,70331
+Guinea,GIN,1996,Forest area (sq. km),AG.LND.FRST.K2,70678
+Guinea,GIN,1995,Forest area (sq. km),AG.LND.FRST.K2,71025
+Guinea,GIN,1994,Forest area (sq. km),AG.LND.FRST.K2,71372
+Guinea,GIN,1993,Forest area (sq. km),AG.LND.FRST.K2,71719
+Guinea,GIN,1992,Forest area (sq. km),AG.LND.FRST.K2,72066
+Guinea,GIN,1991,Forest area (sq. km),AG.LND.FRST.K2,72413
+Guinea,GIN,1990,Forest area (sq. km),AG.LND.FRST.K2,72760
+Guinea,GIN,2022,Forest area (% of land area),AG.LND.FRST.ZS,24.8616311248576
+Guinea,GIN,2021,Forest area (% of land area),AG.LND.FRST.ZS,25.0244180367898
+Guinea,GIN,2020,Forest area (% of land area),AG.LND.FRST.ZS,25.1872049487221
+Guinea,GIN,2019,Forest area (% of land area),AG.LND.FRST.ZS,25.3499918606544
+Guinea,GIN,2018,Forest area (% of land area),AG.LND.FRST.ZS,25.5127787725867
+Guinea,GIN,2017,Forest area (% of land area),AG.LND.FRST.ZS,25.675565684519
+Guinea,GIN,2016,Forest area (% of land area),AG.LND.FRST.ZS,25.8383525964512
+Guinea,GIN,2015,Forest area (% of land area),AG.LND.FRST.ZS,26.0011395083835
+Guinea,GIN,2014,Forest area (% of land area),AG.LND.FRST.ZS,26.1476477291226
+Guinea,GIN,2013,Forest area (% of land area),AG.LND.FRST.ZS,26.2941559498616
+Guinea,GIN,2012,Forest area (% of land area),AG.LND.FRST.ZS,26.4406641706007
+Guinea,GIN,2011,Forest area (% of land area),AG.LND.FRST.ZS,26.5871723913397
+Guinea,GIN,2010,Forest area (% of land area),AG.LND.FRST.ZS,26.7336806120788
+Guinea,GIN,2009,Forest area (% of land area),AG.LND.FRST.ZS,26.8801888328178
+Guinea,GIN,2008,Forest area (% of land area),AG.LND.FRST.ZS,27.0266970535569
+Guinea,GIN,2007,Forest area (% of land area),AG.LND.FRST.ZS,27.1732052742959
+Guinea,GIN,2006,Forest area (% of land area),AG.LND.FRST.ZS,27.319713495035
+Guinea,GIN,2005,Forest area (% of land area),AG.LND.FRST.ZS,27.4662217157741
+Guinea,GIN,2004,Forest area (% of land area),AG.LND.FRST.ZS,27.6127299365131
+Guinea,GIN,2003,Forest area (% of land area),AG.LND.FRST.ZS,27.7592381572522
+Guinea,GIN,2002,Forest area (% of land area),AG.LND.FRST.ZS,27.9057463779912
+Guinea,GIN,2001,Forest area (% of land area),AG.LND.FRST.ZS,28.0522545987303
+Guinea,GIN,2000,Forest area (% of land area),AG.LND.FRST.ZS,28.1987628194693
+Guinea,GIN,1999,Forest area (% of land area),AG.LND.FRST.ZS,28.3399804655706
+Guinea,GIN,1998,Forest area (% of land area),AG.LND.FRST.ZS,28.4811981116718
+Guinea,GIN,1997,Forest area (% of land area),AG.LND.FRST.ZS,28.6224157577731
+Guinea,GIN,1996,Forest area (% of land area),AG.LND.FRST.ZS,28.7636334038743
+Guinea,GIN,1995,Forest area (% of land area),AG.LND.FRST.ZS,28.9048510499756
+Guinea,GIN,1994,Forest area (% of land area),AG.LND.FRST.ZS,29.0460686960768
+Guinea,GIN,1993,Forest area (% of land area),AG.LND.FRST.ZS,29.1872863421781
+Guinea,GIN,1992,Forest area (% of land area),AG.LND.FRST.ZS,29.3285039882793
+Guinea,GIN,1991,Forest area (% of land area),AG.LND.FRST.ZS,29.4697216343806
+Guinea,GIN,1990,Forest area (% of land area),AG.LND.FRST.ZS,29.6109392804819
+Guinea,GIN,2017,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,0.650222678999657
+Guinea,GIN,2012,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,0.659027777777778
+Guinea,GIN,2007,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,0.669252468265162
+Guinea,GIN,2002,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,0.673479525938542
+Guinea,GIN,2021,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,2020,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,2019,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,2018,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,2017,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,2016,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,2015,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,2014,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,2013,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,2012,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,2011,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,2010,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,2009,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,2008,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,2007,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,2006,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,2005,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,2004,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,2003,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,2002,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,2001,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,2000,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1999,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1998,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1997,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1996,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1995,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1994,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1993,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1992,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1991,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1990,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1989,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1988,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1987,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1986,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1985,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1984,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1983,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1982,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1981,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1980,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1979,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1978,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1977,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1976,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1975,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1974,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1973,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1972,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1971,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1970,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1969,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1968,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1967,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1966,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1965,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1964,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1963,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1962,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,1961,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1651
+Guinea,GIN,2022,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1380.4
+Guinea,GIN,2021,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1344.9
+Guinea,GIN,2020,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1323.7
+Guinea,GIN,2019,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1257.9
+Guinea,GIN,2018,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1186.7
+Guinea,GIN,2017,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1165.4
+Guinea,GIN,2016,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1155.5
+Guinea,GIN,2015,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1122.4
+Guinea,GIN,2014,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1123
+Guinea,GIN,2013,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1189.6
+Guinea,GIN,2012,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1152.2
+Guinea,GIN,2011,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1226
+Guinea,GIN,2010,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1184.7
+Guinea,GIN,2009,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1484.3
+Guinea,GIN,2008,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1464.7
+Guinea,GIN,2007,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1514
+Guinea,GIN,2006,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1502
+Guinea,GIN,2005,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1495.6
+Guinea,GIN,2004,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1491.3
+Guinea,GIN,2003,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1484.8
+Guinea,GIN,2002,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1487.2
+Guinea,GIN,2001,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1483
+Guinea,GIN,2000,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1492.1
+Guinea,GIN,1999,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1473.7
+Guinea,GIN,1998,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1468.2
+Guinea,GIN,1997,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1463.2
+Guinea,GIN,1996,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1458.9
+Guinea,GIN,1995,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1454.8
+Guinea,GIN,1994,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1422.3
+Guinea,GIN,1993,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1405.3
+Guinea,GIN,1992,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1392.6
+Guinea,GIN,1991,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1421.9
+Guinea,GIN,1990,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1455.1
+Guinea,GIN,1989,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1492.8
+Guinea,GIN,1988,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1536.9
+Guinea,GIN,1987,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1528.6
+Guinea,GIN,1986,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1517.2
+Guinea,GIN,1985,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1501.5
+Guinea,GIN,1984,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1473.9
+Guinea,GIN,1983,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1456.6
+Guinea,GIN,1982,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1440.3
+Guinea,GIN,1981,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1450.8
+Guinea,GIN,1980,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1432.5
+Guinea,GIN,1979,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1434.5
+Guinea,GIN,1978,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1408.9
+Guinea,GIN,1977,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1437.4
+Guinea,GIN,1976,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1454.7
+Guinea,GIN,1975,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1439.5
+Guinea,GIN,1974,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1436
+Guinea,GIN,1973,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1437.5
+Guinea,GIN,1972,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1442.1
+Guinea,GIN,1971,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1435.1
+Guinea,GIN,1970,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1407.9
+Guinea,GIN,1969,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1412.4
+Guinea,GIN,1968,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1411.5
+Guinea,GIN,1967,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1409.7
+Guinea,GIN,1966,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1392.6
+Guinea,GIN,1965,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1303.7
+Guinea,GIN,1964,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1363.8
+Guinea,GIN,1963,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1256.7
+Guinea,GIN,1962,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1368.7
+Guinea,GIN,1961,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1340
+Guinea,GIN,2023,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,5.83721189221509
+Guinea,GIN,2022,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.30630355394451
+Guinea,GIN,2021,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.15770496278309
+Guinea,GIN,2020,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.25171292113785
+Guinea,GIN,2019,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.330286821832839
+Guinea,GIN,2018,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.97511256265365
+Guinea,GIN,2017,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,5.59427174638354
+Guinea,GIN,2016,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,18.8280094343567
+Guinea,GIN,2015,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.6057679818937
+Guinea,GIN,2014,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-0.840221306496811
+Guinea,GIN,2013,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.00226821971801587
+Guinea,GIN,2012,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,7.92820721970247
+Guinea,GIN,2011,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,14.0905035719922
+Guinea,GIN,2009,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.3552372021911
+Guinea,GIN,2008,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,5.48348837799648
+Guinea,GIN,2007,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,6.14302807033806
+Guinea,GIN,2006,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.96207137841546
+Guinea,GIN,2005,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.45185683545098
+Guinea,GIN,2004,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.8469021984972
+Guinea,GIN,2003,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.57141015760488
+Guinea,GIN,2002,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.697413496345229
+Guinea,GIN,2001,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.0406493462481599
+Guinea,GIN,2000,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.227638091242679
+Guinea,GIN,1999,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.25727870580315
+Guinea,GIN,1998,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.340397518598648
+Guinea,GIN,1997,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.313599110237239
+Guinea,GIN,1996,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.421431935826052
+Guinea,GIN,1995,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.0142785414169761
+Guinea,GIN,1994,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.00425721664523434
+Guinea,GIN,1993,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.0568898869797263
+Guinea,GIN,1992,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.411131630762173
+Guinea,GIN,1991,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.881902276892439
+Guinea,GIN,1990,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.459324256828018
+Guinea,GIN,1989,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.347707963801776
+Guinea,GIN,1988,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.451030888508573
+Guinea,GIN,1987,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.4316840622809
+Guinea,GIN,1986,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.288746084714818
+Guinea,GIN,1985,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.00487106070480292
+Guinea,GIN,1984,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.00379990828354241
+Guinea,GIN,1983,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.00251158406644185
+Guinea,GIN,1982,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-0.00335400729639429
+Guinea,GIN,1981,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-0.0135801384706118
+Guinea,GIN,1980,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.00574563759780183
+Guinea,GIN,1979,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-0.00585777249695146
+Guinea,GIN,1978,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.00778998593688985
+Guinea,GIN,1977,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-0.0264665763008397
+Guinea,GIN,1976,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-0.0103507700439215
+Guinea,GIN,1975,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.014255822458477
+Guinea,GIN,1974,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.0254769570053182
+Guinea,GIN,1973,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.0151395153282935
+Guinea,GIN,2023,Access to electricity (% of population),EG.ELC.ACCS.ZS,51.1
+Guinea,GIN,2022,Access to electricity (% of population),EG.ELC.ACCS.ZS,47.7
+Guinea,GIN,2021,Access to electricity (% of population),EG.ELC.ACCS.ZS,46.8
+Guinea,GIN,2020,Access to electricity (% of population),EG.ELC.ACCS.ZS,44.7
+Guinea,GIN,2019,Access to electricity (% of population),EG.ELC.ACCS.ZS,42.2
+Guinea,GIN,2018,Access to electricity (% of population),EG.ELC.ACCS.ZS,45
+Guinea,GIN,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,35.4
+Guinea,GIN,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,33.5
+Guinea,GIN,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,34.9
+Guinea,GIN,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,33.5
+Guinea,GIN,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,32.2
+Guinea,GIN,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,26.2
+Guinea,GIN,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,29.5
+Guinea,GIN,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,28.1
+Guinea,GIN,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,26.7
+Guinea,GIN,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,25.4
+Guinea,GIN,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,24.1
+Guinea,GIN,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,22.8
+Guinea,GIN,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,20.2
+Guinea,GIN,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,20.2
+Guinea,GIN,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,18.9
+Guinea,GIN,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,17.7
+Guinea,GIN,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,16.4
+Guinea,GIN,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,15.2
+Guinea,GIN,1999,Access to electricity (% of population),EG.ELC.ACCS.ZS,16.4
+Guinea,GIN,2021,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guinea,GIN,2020,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guinea,GIN,2019,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guinea,GIN,2018,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guinea,GIN,2017,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guinea,GIN,2016,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guinea,GIN,2015,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guinea,GIN,2014,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guinea,GIN,2013,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guinea,GIN,2012,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guinea,GIN,2011,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guinea,GIN,2010,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guinea,GIN,2009,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guinea,GIN,2008,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guinea,GIN,2007,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guinea,GIN,2006,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guinea,GIN,2005,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guinea,GIN,2004,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guinea,GIN,2003,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guinea,GIN,2002,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guinea,GIN,2001,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guinea,GIN,2000,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guinea,GIN,2021,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,87.3880185184573
+Guinea,GIN,2020,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,60.943640303447
+Guinea,GIN,2019,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,62.8653387387124
+Guinea,GIN,2018,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,62.2439483452711
+Guinea,GIN,2017,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,69.2572297108116
+Guinea,GIN,2016,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,67.9223408055449
+Guinea,GIN,2015,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,78.8595407224331
+Guinea,GIN,2014,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,60.2775392626651
+Guinea,GIN,2013,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,74.0753574280248
+Guinea,GIN,2012,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,67.604753820034
+Guinea,GIN,2011,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,75.7838906868033
+Guinea,GIN,2010,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,77.2507136213477
+Guinea,GIN,2009,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,70.2011760140883
+Guinea,GIN,2008,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,74.3490896150881
+Guinea,GIN,2007,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,64.691153094096
+Guinea,GIN,2006,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,63.0935557781223
+Guinea,GIN,2005,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,60.7594434975623
+Guinea,GIN,2004,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,61.4617940199336
+Guinea,GIN,2003,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,46.3499420625724
+Guinea,GIN,2002,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,58.6206896551724
+Guinea,GIN,2001,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,57.2614107883817
+Guinea,GIN,2000,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,55.9693318729463
+Guinea,GIN,2021,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guinea,GIN,2020,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guinea,GIN,2019,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guinea,GIN,2018,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guinea,GIN,2017,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guinea,GIN,2016,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guinea,GIN,2015,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guinea,GIN,2014,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guinea,GIN,2013,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guinea,GIN,2012,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guinea,GIN,2011,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guinea,GIN,2010,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guinea,GIN,2009,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guinea,GIN,2008,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guinea,GIN,2007,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guinea,GIN,2006,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guinea,GIN,2005,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guinea,GIN,2004,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guinea,GIN,2003,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guinea,GIN,2002,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guinea,GIN,2001,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guinea,GIN,2000,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guinea,GIN,2021,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guinea,GIN,2020,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guinea,GIN,2019,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guinea,GIN,2018,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guinea,GIN,2017,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guinea,GIN,2016,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guinea,GIN,2015,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guinea,GIN,2014,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guinea,GIN,2013,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guinea,GIN,2012,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guinea,GIN,2011,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guinea,GIN,2010,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guinea,GIN,2009,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guinea,GIN,2008,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guinea,GIN,2007,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guinea,GIN,2006,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guinea,GIN,2005,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guinea,GIN,2004,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guinea,GIN,2003,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guinea,GIN,2002,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guinea,GIN,2001,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guinea,GIN,2000,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guinea,GIN,2021,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,11.8678065012871
+Guinea,GIN,2020,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,38.1581793177747
+Guinea,GIN,2019,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,36.1072489645382
+Guinea,GIN,2018,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,36.7104093689549
+Guinea,GIN,2017,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,30.701629077694
+Guinea,GIN,2016,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,32.0519649806667
+Guinea,GIN,2015,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,21.1253456139259
+Guinea,GIN,2014,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,39.698916987508
+Guinea,GIN,2013,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,25.8990312909592
+Guinea,GIN,2012,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,32.2648556876061
+Guinea,GIN,2011,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,24.0489032722042
+Guinea,GIN,2010,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,22.6001475352
+Guinea,GIN,2009,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,29.6600304450348
+Guinea,GIN,2008,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,25.6509103849119
+Guinea,GIN,2007,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,35.308846905904
+Guinea,GIN,2006,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,36.9064442218777
+Guinea,GIN,2005,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,39.2405565024377
+Guinea,GIN,2004,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,38.5382059800665
+Guinea,GIN,2003,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,53.6500579374276
+Guinea,GIN,2002,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,41.3793103448276
+Guinea,GIN,2001,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,42.7385892116183
+Guinea,GIN,2000,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,44.0306681270537
+Guinea,GIN,2021,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,88.1321934987129
+Guinea,GIN,2020,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,61.8418206822253
+Guinea,GIN,2019,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,63.8927510354618
+Guinea,GIN,2018,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,63.2895906310451
+Guinea,GIN,2017,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,69.298370922306
+Guinea,GIN,2016,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,67.9480350193333
+Guinea,GIN,2015,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,78.8746543860741
+Guinea,GIN,2014,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,60.301083012492
+Guinea,GIN,2013,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,74.1009687090408
+Guinea,GIN,2012,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,67.7351443123939
+Guinea,GIN,2011,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,75.9510967277958
+Guinea,GIN,2010,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,77.3998524648
+Guinea,GIN,2009,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,70.3399695549652
+Guinea,GIN,2008,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,74.3490896150881
+Guinea,GIN,2007,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,64.691153094096
+Guinea,GIN,2006,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,63.0935557781223
+Guinea,GIN,2005,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,60.7594434975623
+Guinea,GIN,2004,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,61.4617940199336
+Guinea,GIN,2003,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,46.3499420625724
+Guinea,GIN,2002,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,58.6206896551724
+Guinea,GIN,2001,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,57.2614107883817
+Guinea,GIN,2000,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,55.9693318729463
+Guinea,GIN,2021,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,22520000
+Guinea,GIN,2020,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,22010000
+Guinea,GIN,2019,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,21060000
+Guinea,GIN,2018,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,20000000
+Guinea,GIN,2017,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,720000
+Guinea,GIN,2016,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,410000
+Guinea,GIN,2015,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,170000
+Guinea,GIN,2014,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,170000
+Guinea,GIN,2013,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,170000
+Guinea,GIN,2012,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,960000
+Guinea,GIN,2011,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,930000
+Guinea,GIN,2010,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,930000
+Guinea,GIN,2009,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,930000
+Guinea,GIN,2008,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Guinea,GIN,2007,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Guinea,GIN,2006,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Guinea,GIN,2005,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Guinea,GIN,2004,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Guinea,GIN,2003,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Guinea,GIN,2002,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Guinea,GIN,2001,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Guinea,GIN,2000,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Guinea,GIN,2021,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.744174980255571
+Guinea,GIN,2020,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.898180378778295
+Guinea,GIN,2019,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.02741229674945
+Guinea,GIN,2018,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.04564228577404
+Guinea,GIN,2017,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.0411412114943974
+Guinea,GIN,2016,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.0256942137883925
+Guinea,GIN,2015,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.0151136636409705
+Guinea,GIN,2014,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.0235437498268842
+Guinea,GIN,2013,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.0256112810160146
+Guinea,GIN,2012,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.130390492359932
+Guinea,GIN,2011,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.167206040992449
+Guinea,GIN,2010,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.149138843452324
+Guinea,GIN,2009,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.138793540876936
+Guinea,GIN,2008,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Guinea,GIN,2007,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Guinea,GIN,2006,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Guinea,GIN,2005,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Guinea,GIN,2004,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Guinea,GIN,2003,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Guinea,GIN,2002,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Guinea,GIN,2001,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Guinea,GIN,2000,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Guinea,GIN,2022,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,66.6
+Guinea,GIN,2021,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,66.8
+Guinea,GIN,2020,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,65.8
+Guinea,GIN,2019,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,68.3
+Guinea,GIN,2018,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,73.2
+Guinea,GIN,2017,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,72
+Guinea,GIN,2016,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,75.3
+Guinea,GIN,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,76.2
+Guinea,GIN,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,78.6
+Guinea,GIN,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,78.5
+Guinea,GIN,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,76.4
+Guinea,GIN,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,74.8
+Guinea,GIN,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,75.7
+Guinea,GIN,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,79.2
+Guinea,GIN,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,80.2
+Guinea,GIN,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,80.4
+Guinea,GIN,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,81.1
+Guinea,GIN,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,81.6
+Guinea,GIN,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,83.2
+Guinea,GIN,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,83.5
+Guinea,GIN,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,84.3
+Guinea,GIN,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,84.8
+Guinea,GIN,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,85.5
+Guinea,GIN,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,86.3
+Guinea,GIN,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,84.3
+Guinea,GIN,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,85.2
+Guinea,GIN,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,88.8
+Guinea,GIN,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,90
+Guinea,GIN,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,86
+Guinea,GIN,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,86.2
+Guinea,GIN,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,86.6
+Guinea,GIN,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,89.6
+Guinea,GIN,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,89.5
+Guinea,GIN,2009,"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",EN.CLC.MDAT.ZS,0.180212227284055
+Guinea,GIN,2015,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,0.877802965275317
+Guinea,GIN,2000,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,0.903497365468628
+Guinea,GIN,1990,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,1.0285731586996
+Guinea,GIN,2015,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,1.46906306056809
+Guinea,GIN,2000,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,1.12485475770521
+Guinea,GIN,1990,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,1.02511270401663
+Guinea,GIN,2015,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,2.34686602584341
+Guinea,GIN,2000,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,2.02835212317384
+Guinea,GIN,1990,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,2.05368586271624
+Guinea,GIN,2024,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.7653523924612
+Guinea,GIN,2023,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.6537203789561
+Guinea,GIN,2022,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.5749201875442
+Guinea,GIN,2021,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.5226805153097
+Guinea,GIN,2020,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.495890154222
+Guinea,GIN,2019,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.4942676832424
+Guinea,GIN,2018,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.507310401586
+Guinea,GIN,2017,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.5247418809124
+Guinea,GIN,2016,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.5440291293901
+Guinea,GIN,2015,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.5648661901391
+Guinea,GIN,2014,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.5805637690967
+Guinea,GIN,2013,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.5887913488654
+Guinea,GIN,2012,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.5923470237505
+Guinea,GIN,2011,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.5963003938327
+Guinea,GIN,2010,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.6040731098223
+Guinea,GIN,2009,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.6092673421315
+Guinea,GIN,2008,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.6123648456844
+Guinea,GIN,2007,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.6112082643839
+Guinea,GIN,2006,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.5953187374744
+Guinea,GIN,2005,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.5467844795997
+Guinea,GIN,2004,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.485818064013
+Guinea,GIN,2003,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.4443989768206
+Guinea,GIN,2002,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.4182439930708
+Guinea,GIN,2001,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.2939779577422
+Guinea,GIN,2000,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.1361223002191
+Guinea,GIN,1999,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.0704379112083
+Guinea,GIN,1998,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.0446969125178
+Guinea,GIN,1997,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,13.9687216710354
+Guinea,GIN,1996,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,13.8520096756321
+Guinea,GIN,1995,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,13.7578014441203
+Guinea,GIN,1994,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,13.660073297775
+Guinea,GIN,1993,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,13.5906698164201
+Guinea,GIN,1992,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,13.5286879520118
+Guinea,GIN,1991,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,13.4854056178389
+Guinea,GIN,1990,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,13.5524294981921
+Guinea,GIN,1989,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,13.5454569001535
+Guinea,GIN,1988,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,13.4231167653528
+Guinea,GIN,1987,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,13.3033501587574
+Guinea,GIN,1986,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,13.1788341806552
+Guinea,GIN,1985,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,13.0428226429865
+Guinea,GIN,1984,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,12.8933142777061
+Guinea,GIN,1983,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,12.727699132843
+Guinea,GIN,1982,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,12.6315821568116
+Guinea,GIN,1981,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,12.5786073033437
+Guinea,GIN,1980,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,12.5102750534481
+Guinea,GIN,1979,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,12.4265544031264
+Guinea,GIN,1978,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,12.3307503668621
+Guinea,GIN,1977,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,12.2271057968044
+Guinea,GIN,1976,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,12.1210986536555
+Guinea,GIN,1975,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,12.0156832713205
+Guinea,GIN,1974,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.9151142558361
+Guinea,GIN,1973,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.82056594244
+Guinea,GIN,1972,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.2106807675955
+Guinea,GIN,1971,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,10.0743938280676
+Guinea,GIN,1970,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,9.0609194314015
+Guinea,GIN,1969,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,8.15513422099421
+Guinea,GIN,1968,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,7.34469655582669
+Guinea,GIN,1967,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,6.61279411943063
+Guinea,GIN,1966,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,5.95347558306877
+Guinea,GIN,1965,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,5.35834535340025
+Guinea,GIN,1964,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,4.82215721458263
+Guinea,GIN,1963,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,4.33708331267192
+Guinea,GIN,1962,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,3.90055242920381
+Guinea,GIN,1961,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,3.50720296522967
+Guinea,GIN,1960,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,3.15338529651657
+Guinea,GIN,2021,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.89
+Guinea,GIN,2020,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.89
+Guinea,GIN,2019,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.89
+Guinea,GIN,2018,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.89
+Guinea,GIN,2017,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.8656923077
+Guinea,GIN,2016,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.8413846154
+Guinea,GIN,2015,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.8170769231
+Guinea,GIN,2014,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.7927692308
+Guinea,GIN,2013,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.7684615385
+Guinea,GIN,2012,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.7441538462
+Guinea,GIN,2011,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.7198461538
+Guinea,GIN,2010,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.6955384615
+Guinea,GIN,2009,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.6712307692
+Guinea,GIN,2008,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.6469230769
+Guinea,GIN,2007,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.6226153846
+Guinea,GIN,2006,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.5983076923
+Guinea,GIN,2005,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.574
+Guinea,GIN,2004,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.56975
+Guinea,GIN,2003,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.5655
+Guinea,GIN,2002,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.56125
+Guinea,GIN,2001,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.557
+Guinea,GIN,2000,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.578
+Guinea,GIN,1999,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.5904615385
+Guinea,GIN,1998,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.6029230769
+Guinea,GIN,1997,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.6153846154
+Guinea,GIN,1996,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.6278461538
+Guinea,GIN,1995,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.6403076923
+Guinea,GIN,1994,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.6527692308
+Guinea,GIN,1993,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.6652307692
+Guinea,GIN,1992,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.6776923077
+Guinea,GIN,1991,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.6901538462
+Guinea,GIN,1990,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.7026153846
+Guinea,GIN,1989,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.7150769231
+Guinea,GIN,1988,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.7275384615
+Guinea,GIN,1987,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.74
+Guinea,GIN,2021,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.393805309734513
+Guinea,GIN,2020,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.393805309734513
+Guinea,GIN,2019,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.393805309734513
+Guinea,GIN,2018,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.393805309734513
+Guinea,GIN,2017,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.383049693672566
+Guinea,GIN,2016,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.372294077610619
+Guinea,GIN,2015,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.361538461548673
+Guinea,GIN,2014,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.350782845486726
+Guinea,GIN,2013,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.340027229424779
+Guinea,GIN,2012,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.329271613362832
+Guinea,GIN,2011,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.318515997256637
+Guinea,GIN,2010,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.30776038119469
+Guinea,GIN,2009,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.297004765132743
+Guinea,GIN,2008,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.286249149070796
+Guinea,GIN,2007,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.27549353300885
+Guinea,GIN,2006,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.264737916946903
+Guinea,GIN,2005,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.253982300884956
+Guinea,GIN,2004,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.252101769911504
+Guinea,GIN,2003,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.250221238938053
+Guinea,GIN,2002,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.248340707964602
+Guinea,GIN,2001,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.24646017699115
+Guinea,GIN,2000,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.255752212389381
+Guinea,GIN,1999,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.261266167477876
+Guinea,GIN,1998,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.266780122522124
+Guinea,GIN,1997,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.272294077610619
+Guinea,GIN,1996,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.277808032654867
+Guinea,GIN,1995,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.283321987743363
+Guinea,GIN,1994,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.288835942831858
+Guinea,GIN,1993,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.294349897876106
+Guinea,GIN,1992,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.299863852964602
+Guinea,GIN,1991,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.305377808053097
+Guinea,GIN,1990,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.310891763097345
+Guinea,GIN,1989,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.316405718185841
+Guinea,GIN,1988,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.321919673230089
+Guinea,GIN,1987,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.327433628318584
+Guinea,GIN,2024,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,37.6
+Guinea,GIN,2023,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,37.6
+Guinea,GIN,2022,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,37.6
+Guinea,GIN,2021,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,37.6
+Guinea,GIN,2020,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,35.8
+Guinea,GIN,2019,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,35.6
+Guinea,GIN,2018,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,35.6
+Guinea,GIN,2017,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,35.6
+Guinea,GIN,2016,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,30.7
+Guinea,GIN,2015,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,30.7
+Guinea,GIN,2014,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,30.7
+Guinea,GIN,2013,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,30.7
+Guinea,GIN,2024,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.6
+Guinea,GIN,2023,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.5
+Guinea,GIN,2022,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.5
+Guinea,GIN,2021,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.5
+Guinea,GIN,2020,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.5
+Guinea,GIN,2019,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.5
+Guinea,GIN,2018,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.5
+Guinea,GIN,2017,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.5
+Guinea,GIN,2016,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.5
+Guinea,GIN,2015,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.5
+Guinea,GIN,2014,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.5
+Guinea,GIN,2013,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.5
+Guinea,GIN,2024,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,26.2
+Guinea,GIN,2023,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,26.1
+Guinea,GIN,2022,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,26.1
+Guinea,GIN,2021,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,26.1
+Guinea,GIN,2020,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,24.9
+Guinea,GIN,2019,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,24.8
+Guinea,GIN,2018,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,24.8
+Guinea,GIN,2017,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,24.8
+Guinea,GIN,2016,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,21.4
+Guinea,GIN,2015,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,21.4
+Guinea,GIN,2014,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,21.4
+Guinea,GIN,2013,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,21.4
+Guinea,GIN,2024,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.9
+Guinea,GIN,2023,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,3
+Guinea,GIN,2022,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,3
+Guinea,GIN,2021,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,3
+Guinea,GIN,2020,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.9
+Guinea,GIN,2019,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.9
+Guinea,GIN,2018,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.9
+Guinea,GIN,2017,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.9
+Guinea,GIN,2016,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.9
+Guinea,GIN,2015,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.8
+Guinea,GIN,2014,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.7
+Guinea,GIN,2013,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.7
+Guinea,GIN,2012,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.6
+Guinea,GIN,2011,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.6
+Guinea,GIN,2010,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.6
+Guinea,GIN,2009,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.6
+Guinea,GIN,2008,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.6
+Guinea,GIN,2007,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.7
+Guinea,GIN,2006,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.6
+Guinea,GIN,2005,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.7
+Guinea,GIN,2024,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.6412623645019
+Guinea,GIN,2023,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.4714397653024
+Guinea,GIN,2022,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,28.3819737139685
+Guinea,GIN,2021,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,27.0715374807562
+Guinea,GIN,2020,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,26.3032774879888
+Guinea,GIN,2019,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,26.4272768142306
+Guinea,GIN,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,22.9400092652548
+Guinea,GIN,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,20.5284733113745
+Guinea,GIN,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,17.5899474364211
+Guinea,GIN,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,18.478241904135
+Guinea,GIN,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,17.5238169176245
+Guinea,GIN,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,17.5452728357444
+Guinea,GIN,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,16.8316746641336
+Guinea,GIN,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,16.0697496615218
+Guinea,GIN,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,17.4849504866218
+Guinea,GIN,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,16.3606168762438
+Guinea,GIN,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,15.980005361399
+Guinea,GIN,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,16.81970768631
+Guinea,GIN,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,15.5845641334162
+Guinea,GIN,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,15.2811594891059
+Guinea,GIN,2004,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,15.9897180256217
+Guinea,GIN,2003,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,14.2516528815736
+Guinea,GIN,2002,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,14.8357430403433
+Guinea,GIN,2001,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,14.9105463439258
+Guinea,GIN,2000,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,14.3900980537913
+Guinea,GIN,1999,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,14.7423669356158
+Guinea,GIN,1998,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,14.515103584545
+Guinea,GIN,1997,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,13.7972153135207
+Guinea,GIN,1996,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,11.9331422778597
+Guinea,GIN,1995,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,12.7008257861854
+Guinea,GIN,1994,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,13.8322440595613
+Guinea,GIN,1993,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,11.9298005854044
+Guinea,GIN,1992,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,11.3546588484465
+Guinea,GIN,1991,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,12.5239928147863
+Guinea,GIN,1990,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,16.9325720436087
+Guinea,GIN,1989,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,16.1652070145089
+Guinea,GIN,1988,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,15.9612999610389
+Guinea,GIN,1987,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,17.9690193749745
+Guinea,GIN,1986,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,16.3140255567812
+Guinea,GIN,2019,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.804893851280212
+Guinea,GIN,2018,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.797581851482391
+Guinea,GIN,2016,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.768221795558929
+Guinea,GIN,2015,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.765342056751251
+Guinea,GIN,2014,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.785929977893829
+Guinea,GIN,2013,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.774895191192627
+Guinea,GIN,2012,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.774029850959778
+Guinea,GIN,2011,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.779540002346039
+Guinea,GIN,2008,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.752470016479492
+Guinea,GIN,2006,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.727469980716705
+Guinea,GIN,2005,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.707319974899292
+Guinea,GIN,2004,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.682900011539459
+Guinea,GIN,2003,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.670920014381409
+Guinea,GIN,2002,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.641359984874725
+Guinea,GIN,2001,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.618799984455109
+Guinea,GIN,1999,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.555509984493256
+Guinea,GIN,1996,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.485469996929169
+Guinea,GIN,1994,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.449319988489151
+Guinea,GIN,1993,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.432850003242493
+Guinea,GIN,1991,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.429080009460449
+Guinea,GIN,1990,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.419270008802414
+Guinea,GIN,1989,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.41525000333786
+Guinea,GIN,1987,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.412099987268448
+Guinea,GIN,1986,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.429199993610382
+Guinea,GIN,1985,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.425960004329681
+Guinea,GIN,1984,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.442129999399185
+Guinea,GIN,1983,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.442019999027252
+Guinea,GIN,1982,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.453240007162094
+Guinea,GIN,1981,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.459820002317429
+Guinea,GIN,1971,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.401730000972748
+Guinea,GIN,2021,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,63.183910369873
+Guinea,GIN,2020,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,60.7978096008301
+Guinea,GIN,2019,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,56.9965400695801
+Guinea,GIN,2018,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,56.6452713012695
+Guinea,GIN,2017,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,55.4486312866211
+Guinea,GIN,2016,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,62.4415283203125
+Guinea,GIN,2015,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,62.8346481323242
+Guinea,GIN,2014,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,64.0024795532227
+Guinea,GIN,2013,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,61.940990447998
+Guinea,GIN,2012,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,61.0377883911133
+Guinea,GIN,2011,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,60.1625938415527
+Guinea,GIN,2010,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,56.667350769043
+Guinea,GIN,2009,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,56.353328704834
+Guinea,GIN,2008,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,50.5710983276367
+Guinea,GIN,2007,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,57.431999206543
+Guinea,GIN,2006,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,57.1159896850586
+Guinea,GIN,2005,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,52.7905387878418
+Guinea,GIN,2004,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,46.9465408325195
+Guinea,GIN,2003,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,37.6587104797363
+Guinea,GIN,2002,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,37.6643218994141
+Guinea,GIN,2001,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,33.8385696411133
+Guinea,GIN,2000,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,32.083740234375
+Guinea,GIN,1999,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,29.4720592498779
+Guinea,GIN,1998,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,25.8174800872803
+Guinea,GIN,1996,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,30.8855495452881
+Guinea,GIN,1995,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,20.0266094207764
+Guinea,GIN,1994,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,19.9592399597168
+Guinea,GIN,1993,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,18.7122707366943
+Guinea,GIN,1992,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,16.2383308410645
+Guinea,GIN,1991,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,16.4508590698242
+Guinea,GIN,1990,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,18.4360198974609
+Guinea,GIN,1989,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,12.2918901443481
+Guinea,GIN,1988,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,11.2664403915405
+Guinea,GIN,1987,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,13.9132604598999
+Guinea,GIN,1986,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,14.4307804107666
+Guinea,GIN,1985,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,15.0787897109985
+Guinea,GIN,1984,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,18.3892593383789
+Guinea,GIN,1983,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,17.9112491607666
+Guinea,GIN,1982,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,18.3005199432373
+Guinea,GIN,1981,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,16.966480255127
+Guinea,GIN,1980,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,20.6618099212646
+Guinea,GIN,1978,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,19.161190032959
+Guinea,GIN,1977,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,17.7371597290039
+Guinea,GIN,2023,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,95
+Guinea,GIN,2022,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,97.8
+Guinea,GIN,2021,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,100.5
+Guinea,GIN,2020,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,103.2
+Guinea,GIN,2019,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,105.7
+Guinea,GIN,2018,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,108
+Guinea,GIN,2017,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,109.9
+Guinea,GIN,2016,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,111.7
+Guinea,GIN,2015,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,114.1
+Guinea,GIN,2014,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,115.6
+Guinea,GIN,2013,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,116.7
+Guinea,GIN,2012,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,118.4
+Guinea,GIN,2011,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,120.1
+Guinea,GIN,2010,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,122
+Guinea,GIN,2009,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,124.1
+Guinea,GIN,2008,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,126.6
+Guinea,GIN,2007,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,129.4
+Guinea,GIN,2006,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,132.7
+Guinea,GIN,2005,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,136.6
+Guinea,GIN,2004,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,141.2
+Guinea,GIN,2003,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,146.4
+Guinea,GIN,2002,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,152.2
+Guinea,GIN,2001,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,158.6
+Guinea,GIN,2000,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,165.4
+Guinea,GIN,1999,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,172.3
+Guinea,GIN,1998,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,179.2
+Guinea,GIN,1997,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,186.1
+Guinea,GIN,1996,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,193
+Guinea,GIN,1995,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,200
+Guinea,GIN,1994,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,207
+Guinea,GIN,1993,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,213.9
+Guinea,GIN,1992,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,220.7
+Guinea,GIN,1991,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,227.1
+Guinea,GIN,1990,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,233.1
+Guinea,GIN,1989,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,238.6
+Guinea,GIN,1988,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,243.7
+Guinea,GIN,1987,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,248.4
+Guinea,GIN,1986,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,252.9
+Guinea,GIN,1985,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,257.6
+Guinea,GIN,1984,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,262.3
+Guinea,GIN,1983,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,267.1
+Guinea,GIN,1982,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,271.8
+Guinea,GIN,1981,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,276.5
+Guinea,GIN,1980,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,281.5
+Guinea,GIN,1979,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,286.7
+Guinea,GIN,1978,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,291.8
+Guinea,GIN,1977,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,296.6
+Guinea,GIN,1976,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,301.2
+Guinea,GIN,1975,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,305.5
+Guinea,GIN,1974,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,309.2
+Guinea,GIN,1973,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,312.7
+Guinea,GIN,1972,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,315.9
+Guinea,GIN,1971,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,319.1
+Guinea,GIN,1970,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,322
+Guinea,GIN,1969,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,324.8
+Guinea,GIN,1968,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,327.8
+Guinea,GIN,1967,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,330.9
+Guinea,GIN,1966,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,333.6
+Guinea,GIN,1965,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,336.4
+Guinea,GIN,1964,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,339.3
+Guinea,GIN,1963,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,341.8
+Guinea,GIN,1962,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,344.3
+Guinea,GIN,1961,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,347.2
+Guinea,GIN,1960,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,349.5
+Guinea,GIN,2016,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,0.517
+Guinea,GIN,2022,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,15
+Guinea,GIN,2018,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,16.3
+Guinea,GIN,2016,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,18.3
+Guinea,GIN,2012,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,18.8
+Guinea,GIN,2007,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,16.4
+Guinea,GIN,2005,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,22.7
+Guinea,GIN,1999,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,20
+Guinea,GIN,1994,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,21.2
+Guinea,GIN,2018,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,11.7
+Guinea,GIN,2012,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,21.3
+Guinea,GIN,2007,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,44
+Guinea,GIN,2002,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,50.3
+Guinea,GIN,1994,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,37.5
+Guinea,GIN,1991,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,86.4
+Guinea,GIN,2024,Population growth (annual %),SP.POP.GROW,2.39595802290484
+Guinea,GIN,2023,Population growth (annual %),SP.POP.GROW,2.46199049961035
+Guinea,GIN,2022,Population growth (annual %),SP.POP.GROW,2.48250409145397
+Guinea,GIN,2021,Population growth (annual %),SP.POP.GROW,2.50610419423246
+Guinea,GIN,2020,Population growth (annual %),SP.POP.GROW,2.55139953603925
+Guinea,GIN,2019,Population growth (annual %),SP.POP.GROW,2.56100451729991
+Guinea,GIN,2018,Population growth (annual %),SP.POP.GROW,2.54385572881799
+Guinea,GIN,2017,Population growth (annual %),SP.POP.GROW,2.55652318226129
+Guinea,GIN,2016,Population growth (annual %),SP.POP.GROW,2.56690869267138
+Guinea,GIN,2015,Population growth (annual %),SP.POP.GROW,2.53151277572433
+Guinea,GIN,2014,Population growth (annual %),SP.POP.GROW,2.48019346390261
+Guinea,GIN,2013,Population growth (annual %),SP.POP.GROW,2.44471498509098
+Guinea,GIN,2012,Population growth (annual %),SP.POP.GROW,2.45416156342286
+Guinea,GIN,2011,Population growth (annual %),SP.POP.GROW,2.47697352651722
+Guinea,GIN,2010,Population growth (annual %),SP.POP.GROW,2.45929310036327
+Guinea,GIN,2009,Population growth (annual %),SP.POP.GROW,2.44158489420853
+Guinea,GIN,2008,Population growth (annual %),SP.POP.GROW,2.41908604968745
+Guinea,GIN,2007,Population growth (annual %),SP.POP.GROW,2.31497296404672
+Guinea,GIN,2006,Population growth (annual %),SP.POP.GROW,2.09058658116716
+Guinea,GIN,2005,Population growth (annual %),SP.POP.GROW,2.00041954618802
+Guinea,GIN,2004,Population growth (annual %),SP.POP.GROW,2.14071157501219
+Guinea,GIN,2003,Population growth (annual %),SP.POP.GROW,2.24251877202579
+Guinea,GIN,2002,Population growth (annual %),SP.POP.GROW,1.55813303817429
+Guinea,GIN,2001,Population growth (annual %),SP.POP.GROW,1.3098114321983
+Guinea,GIN,2000,Population growth (annual %),SP.POP.GROW,1.96135964318577
+Guinea,GIN,1999,Population growth (annual %),SP.POP.GROW,2.24064838568983
+Guinea,GIN,1998,Population growth (annual %),SP.POP.GROW,1.8812346948277
+Guinea,GIN,1997,Population growth (annual %),SP.POP.GROW,2.05511135158285
+Guinea,GIN,1996,Population growth (annual %),SP.POP.GROW,2.82968670530382
+Guinea,GIN,1995,Population growth (annual %),SP.POP.GROW,2.79434245679932
+Guinea,GIN,1994,Population growth (annual %),SP.POP.GROW,2.99788557428445
+Guinea,GIN,1993,Population growth (annual %),SP.POP.GROW,3.04542453399326
+Guinea,GIN,1992,Population growth (annual %),SP.POP.GROW,3.19168243312344
+Guinea,GIN,1991,Population growth (annual %),SP.POP.GROW,4.00298960201175
+Guinea,GIN,1990,Population growth (annual %),SP.POP.GROW,3.45583486210679
+Guinea,GIN,1989,Population growth (annual %),SP.POP.GROW,2.59519135197266
+Guinea,GIN,1988,Population growth (annual %),SP.POP.GROW,2.61583840073543
+Guinea,GIN,1987,Population growth (annual %),SP.POP.GROW,2.56698876959701
+Guinea,GIN,1986,Population growth (annual %),SP.POP.GROW,2.46988162367405
+Guinea,GIN,1985,Population growth (annual %),SP.POP.GROW,2.3494586683239
+Guinea,GIN,1984,Population growth (annual %),SP.POP.GROW,2.2193346066594
+Guinea,GIN,1983,Population growth (annual %),SP.POP.GROW,2.11447232994811
+Guinea,GIN,1982,Population growth (annual %),SP.POP.GROW,2.00919860191692
+Guinea,GIN,1981,Population growth (annual %),SP.POP.GROW,1.88155401416115
+Guinea,GIN,1980,Population growth (annual %),SP.POP.GROW,1.76158496918686
+Guinea,GIN,1979,Population growth (annual %),SP.POP.GROW,1.65558047894271
+Guinea,GIN,1978,Population growth (annual %),SP.POP.GROW,1.58544787408347
+Guinea,GIN,1977,Population growth (annual %),SP.POP.GROW,1.55554843907411
+Guinea,GIN,1976,Population growth (annual %),SP.POP.GROW,1.55949851370945
+Guinea,GIN,1975,Population growth (annual %),SP.POP.GROW,1.58900751393153
+Guinea,GIN,1974,Population growth (annual %),SP.POP.GROW,1.63286020856153
+Guinea,GIN,1973,Population growth (annual %),SP.POP.GROW,1.67905541612983
+Guinea,GIN,1972,Population growth (annual %),SP.POP.GROW,1.73206559165963
+Guinea,GIN,1971,Population growth (annual %),SP.POP.GROW,1.79936243747705
+Guinea,GIN,1970,Population growth (annual %),SP.POP.GROW,1.86972276538896
+Guinea,GIN,1969,Population growth (annual %),SP.POP.GROW,1.91785217785192
+Guinea,GIN,1968,Population growth (annual %),SP.POP.GROW,1.92185971247423
+Guinea,GIN,1967,Population growth (annual %),SP.POP.GROW,1.89898449225515
+Guinea,GIN,1966,Population growth (annual %),SP.POP.GROW,1.86995152307995
+Guinea,GIN,1965,Population growth (annual %),SP.POP.GROW,1.84155572885827
+Guinea,GIN,1964,Population growth (annual %),SP.POP.GROW,1.81674374730281
+Guinea,GIN,1963,Population growth (annual %),SP.POP.GROW,1.79369877461217
+Guinea,GIN,1962,Population growth (annual %),SP.POP.GROW,1.77232348862438
+Guinea,GIN,1961,Population growth (annual %),SP.POP.GROW,1.75030596022107
+Guinea,GIN,2024,"Population, total",SP.POP.TOTL,14754785
+Guinea,GIN,2023,"Population, total",SP.POP.TOTL,14405468
+Guinea,GIN,2022,"Population, total",SP.POP.TOTL,14055137
+Guinea,GIN,2021,"Population, total",SP.POP.TOTL,13710513
+Guinea,GIN,2020,"Population, total",SP.POP.TOTL,13371183
+Guinea,GIN,2019,"Population, total",SP.POP.TOTL,13034346
+Guinea,GIN,2018,"Population, total",SP.POP.TOTL,12704774
+Guinea,GIN,2017,"Population, total",SP.POP.TOTL,12385659
+Guinea,GIN,2016,"Population, total",SP.POP.TOTL,12073030
+Guinea,GIN,2015,"Population, total",SP.POP.TOTL,11767070
+Guinea,GIN,2014,"Population, total",SP.POP.TOTL,11472924
+Guinea,GIN,2013,"Population, total",SP.POP.TOTL,11191873
+Guinea,GIN,2012,"Population, total",SP.POP.TOTL,10921581
+Guinea,GIN,2011,"Population, total",SP.POP.TOTL,10656810
+Guinea,GIN,2010,"Population, total",SP.POP.TOTL,10396086
+Guinea,GIN,2009,"Population, total",SP.POP.TOTL,10143534
+Guinea,GIN,2008,"Population, total",SP.POP.TOTL,9898870
+Guinea,GIN,2007,"Population, total",SP.POP.TOTL,9662281
+Guinea,GIN,2006,"Population, total",SP.POP.TOTL,9441171
+Guinea,GIN,2005,"Population, total",SP.POP.TOTL,9245844
+Guinea,GIN,2004,"Population, total",SP.POP.TOTL,9062726
+Guinea,GIN,2003,"Population, total",SP.POP.TOTL,8870781
+Guinea,GIN,2002,"Population, total",SP.POP.TOTL,8674066
+Guinea,GIN,2001,"Population, total",SP.POP.TOTL,8539960
+Guinea,GIN,2000,"Population, total",SP.POP.TOTL,8428832
+Guinea,GIN,1999,"Population, total",SP.POP.TOTL,8265123
+Guinea,GIN,1998,"Population, total",SP.POP.TOTL,8081990
+Guinea,GIN,1997,"Population, total",SP.POP.TOTL,7931370
+Guinea,GIN,1996,"Population, total",SP.POP.TOTL,7770035
+Guinea,GIN,1995,"Population, total",SP.POP.TOTL,7553249
+Guinea,GIN,1994,"Population, total",SP.POP.TOTL,7345107
+Guinea,GIN,1993,"Population, total",SP.POP.TOTL,7128177
+Guinea,GIN,1992,"Population, total",SP.POP.TOTL,6914366
+Guinea,GIN,1991,"Population, total",SP.POP.TOTL,6697166
+Guinea,GIN,1990,"Population, total",SP.POP.TOTL,6434374
+Guinea,GIN,1989,"Population, total",SP.POP.TOTL,6215811
+Guinea,GIN,1988,"Population, total",SP.POP.TOTL,6056574
+Guinea,GIN,1987,"Population, total",SP.POP.TOTL,5900198
+Guinea,GIN,1986,"Population, total",SP.POP.TOTL,5750668
+Guinea,GIN,1985,"Population, total",SP.POP.TOTL,5610373
+Guinea,GIN,1984,"Population, total",SP.POP.TOTL,5480096
+Guinea,GIN,1983,"Population, total",SP.POP.TOTL,5359814
+Guinea,GIN,1982,"Population, total",SP.POP.TOTL,5247672
+Guinea,GIN,1981,"Population, total",SP.POP.TOTL,5143288
+Guinea,GIN,1980,"Population, total",SP.POP.TOTL,5047419
+Guinea,GIN,1979,"Population, total",SP.POP.TOTL,4959283
+Guinea,GIN,1978,"Population, total",SP.POP.TOTL,4877854
+Guinea,GIN,1977,"Population, total",SP.POP.TOTL,4801128
+Guinea,GIN,1976,"Population, total",SP.POP.TOTL,4727022
+Guinea,GIN,1975,"Population, total",SP.POP.TOTL,4653876
+Guinea,GIN,1974,"Population, total",SP.POP.TOTL,4580510
+Guinea,GIN,1973,"Population, total",SP.POP.TOTL,4506324
+Guinea,GIN,1972,"Population, total",SP.POP.TOTL,4431292
+Guinea,GIN,1971,"Population, total",SP.POP.TOTL,4355200
+Guinea,GIN,1970,"Population, total",SP.POP.TOTL,4277535
+Guinea,GIN,1969,"Population, total",SP.POP.TOTL,4198300
+Guinea,GIN,1968,"Population, total",SP.POP.TOTL,4118550
+Guinea,GIN,1967,"Population, total",SP.POP.TOTL,4040153
+Guinea,GIN,1966,"Population, total",SP.POP.TOTL,3964155
+Guinea,GIN,1965,"Population, total",SP.POP.TOTL,3890716
+Guinea,GIN,1964,"Population, total",SP.POP.TOTL,3819722
+Guinea,GIN,1963,"Population, total",SP.POP.TOTL,3750954
+Guinea,GIN,1962,"Population, total",SP.POP.TOTL,3684273
+Guinea,GIN,1961,"Population, total",SP.POP.TOTL,3619551
+Guinea,GIN,1960,"Population, total",SP.POP.TOTL,3556749
+Guinea,GIN,2024,Urban population growth (annual %),SP.URB.GROW,3.52389488078414
+Guinea,GIN,2023,Urban population growth (annual %),SP.URB.GROW,3.5629393235652
+Guinea,GIN,2022,Urban population growth (annual %),SP.URB.GROW,3.56081691702057
+Guinea,GIN,2021,Urban population growth (annual %),SP.URB.GROW,3.55549711935691
+Guinea,GIN,2020,Urban population growth (annual %),SP.URB.GROW,3.57356648941391
+Guinea,GIN,2019,Urban population growth (annual %),SP.URB.GROW,3.55220301194189
+Guinea,GIN,2018,Urban population growth (annual %),SP.URB.GROW,3.50864116909519
+Guinea,GIN,2017,Urban population growth (annual %),SP.URB.GROW,3.49123937701277
+Guinea,GIN,2016,Urban population growth (annual %),SP.URB.GROW,3.47057619243144
+Guinea,GIN,2015,Urban population growth (annual %),SP.URB.GROW,3.40322673847374
+Guinea,GIN,2014,Urban population growth (annual %),SP.URB.GROW,3.31903742875281
+Guinea,GIN,2013,Urban population growth (annual %),SP.URB.GROW,3.28774399358157
+Guinea,GIN,2012,Urban population growth (annual %),SP.URB.GROW,3.30142687011195
+Guinea,GIN,2011,Urban population growth (annual %),SP.URB.GROW,3.32848861684817
+Guinea,GIN,2010,Urban population growth (annual %),SP.URB.GROW,3.31515077163227
+Guinea,GIN,2009,Urban population growth (annual %),SP.URB.GROW,3.29875575552584
+Guinea,GIN,2008,Urban population growth (annual %),SP.URB.GROW,3.28063618719757
+Guinea,GIN,2007,Urban population growth (annual %),SP.URB.GROW,3.18093031453164
+Guinea,GIN,2006,Urban population growth (annual %),SP.URB.GROW,2.96102478223364
+Guinea,GIN,2005,Urban population growth (annual %),SP.URB.GROW,2.8722371962139
+Guinea,GIN,2004,Urban population growth (annual %),SP.URB.GROW,3.0170517022879
+Guinea,GIN,2003,Urban population growth (annual %),SP.URB.GROW,3.12339150999536
+Guinea,GIN,2002,Urban population growth (annual %),SP.URB.GROW,2.44045762516859
+Guinea,GIN,2001,Urban population growth (annual %),SP.URB.GROW,2.19672846915477
+Guinea,GIN,2000,Urban population growth (annual %),SP.URB.GROW,2.8529536921369
+Guinea,GIN,1999,Urban population growth (annual %),SP.URB.GROW,3.13363589889086
+Guinea,GIN,1998,Urban population growth (annual %),SP.URB.GROW,2.77898342840821
+Guinea,GIN,1997,Urban population growth (annual %),SP.URB.GROW,2.99792032845094
+Guinea,GIN,1996,Urban population growth (annual %),SP.URB.GROW,3.82554784212744
+Guinea,GIN,1995,Urban population growth (annual %),SP.URB.GROW,3.79337842262597
+Guinea,GIN,1994,Urban population growth (annual %),SP.URB.GROW,4.00355267305397
+Guinea,GIN,1993,Urban population growth (annual %),SP.URB.GROW,4.05078235562724
+Guinea,GIN,1992,Urban population growth (annual %),SP.URB.GROW,4.20726637697339
+Guinea,GIN,1991,Urban population growth (annual %),SP.URB.GROW,5.01829892014805
+Guinea,GIN,1990,Urban population growth (annual %),SP.URB.GROW,4.47798012869824
+Guinea,GIN,1989,Urban population growth (annual %),SP.URB.GROW,3.61691109535582
+Guinea,GIN,1988,Urban population growth (annual %),SP.URB.GROW,3.64446352662591
+Guinea,GIN,1987,Urban population growth (annual %),SP.URB.GROW,3.60256850020116
+Guinea,GIN,1986,Urban population growth (annual %),SP.URB.GROW,3.50508457559478
+Guinea,GIN,1985,Urban population growth (annual %),SP.URB.GROW,3.38783023458849
+Guinea,GIN,1984,Urban population growth (annual %),SP.URB.GROW,3.26475911749536
+Guinea,GIN,1983,Urban population growth (annual %),SP.URB.GROW,4.67069433811498
+Guinea,GIN,1982,Urban population growth (annual %),SP.URB.GROW,5.65962466032581
+Guinea,GIN,1981,Urban population growth (annual %),SP.URB.GROW,5.56443737018436
+Guinea,GIN,1980,Urban population growth (annual %),SP.URB.GROW,5.50174377912321
+Guinea,GIN,1979,Urban population growth (annual %),SP.URB.GROW,5.43152791182239
+Guinea,GIN,1978,Urban population growth (annual %),SP.URB.GROW,5.40033801518742
+Guinea,GIN,1977,Urban population growth (annual %),SP.URB.GROW,5.40349556757019
+Guinea,GIN,1976,Urban population growth (annual %),SP.URB.GROW,5.45888784555463
+Guinea,GIN,1975,Urban population growth (annual %),SP.URB.GROW,5.51868450644146
+Guinea,GIN,1974,Urban population growth (annual %),SP.URB.GROW,5.60124293813343
+Guinea,GIN,1973,Urban population growth (annual %),SP.URB.GROW,5.67274418176914
+Guinea,GIN,1972,Urban population growth (annual %),SP.URB.GROW,5.77169186922617
+Guinea,GIN,1971,Urban population growth (annual %),SP.URB.GROW,5.8712856870369
+Guinea,GIN,1970,Urban population growth (annual %),SP.URB.GROW,5.9645198268933
+Guinea,GIN,1969,Urban population growth (annual %),SP.URB.GROW,6.04454426835105
+Guinea,GIN,1968,Urban population growth (annual %),SP.URB.GROW,6.08453244230446
+Guinea,GIN,1967,Urban population growth (annual %),SP.URB.GROW,6.08714487435681
+Guinea,GIN,1966,Urban population growth (annual %),SP.URB.GROW,6.08714480073795
+Guinea,GIN,1965,Urban population growth (annual %),SP.URB.GROW,6.08346948370789
+Guinea,GIN,1964,Urban population growth (annual %),SP.URB.GROW,6.08703716480279
+Guinea,GIN,1963,Urban population growth (annual %),SP.URB.GROW,6.08799242008442
+Guinea,GIN,1962,Urban population growth (annual %),SP.URB.GROW,6.08537468821294
+Guinea,GIN,1961,Urban population growth (annual %),SP.URB.GROW,6.08572274226787
+Guinea,GIN,2024,Urban population,SP.URB.TOTL,5683101
+Guinea,GIN,2023,Urban population,SP.URB.TOTL,5486322
+Guinea,GIN,2022,Urban population,SP.URB.TOTL,5294289
+Guinea,GIN,2021,Urban population,SP.URB.TOTL,5109086
+Guinea,GIN,2020,Urban population,SP.URB.TOTL,4930624
+Guinea,GIN,2019,Urban population,SP.URB.TOTL,4757536
+Guinea,GIN,2018,Urban population,SP.URB.TOTL,4591505
+Guinea,GIN,2017,Urban population,SP.URB.TOTL,4433199
+Guinea,GIN,2016,Urban population,SP.URB.TOTL,4281096
+Guinea,GIN,2015,Urban population,SP.URB.TOTL,4135066
+Guinea,GIN,2014,Urban population,SP.URB.TOTL,3996708
+Guinea,GIN,2013,Urban population,SP.URB.TOTL,3866233
+Guinea,GIN,2012,Urban population,SP.URB.TOTL,3741188
+Guinea,GIN,2011,Urban population,SP.URB.TOTL,3619692
+Guinea,GIN,2010,Urban population,SP.URB.TOTL,3501194
+Guinea,GIN,2009,Urban population,SP.URB.TOTL,3387027
+Guinea,GIN,2008,Urban population,SP.URB.TOTL,3277120
+Guinea,GIN,2007,Urban population,SP.URB.TOTL,3171354
+Guinea,GIN,2006,Urban population,SP.URB.TOTL,3072063
+Guinea,GIN,2005,Urban population,SP.URB.TOTL,2982432
+Guinea,GIN,2004,Urban population,SP.URB.TOTL,2897988
+Guinea,GIN,2003,Urban population,SP.URB.TOTL,2811860
+Guinea,GIN,2002,Urban population,SP.URB.TOTL,2725392
+Guinea,GIN,2001,Urban population,SP.URB.TOTL,2659685
+Guinea,GIN,2000,Urban population,SP.URB.TOTL,2601896
+Guinea,GIN,1999,Urban population,SP.URB.TOTL,2528714
+Guinea,GIN,1998,Urban population,SP.URB.TOTL,2450702
+Guinea,GIN,1997,Urban population,SP.URB.TOTL,2383535
+Guinea,GIN,1996,Urban population,SP.URB.TOTL,2313139
+Guinea,GIN,1995,Urban population,SP.URB.TOTL,2226320
+Guinea,GIN,1994,Urban population,SP.URB.TOTL,2143449
+Guinea,GIN,1993,Urban population,SP.URB.TOTL,2059330
+Guinea,GIN,1992,Urban population,SP.URB.TOTL,1977578
+Guinea,GIN,1991,Urban population,SP.URB.TOTL,1896102
+Guinea,GIN,1990,Urban population,SP.URB.TOTL,1803298
+Guinea,GIN,1989,Urban population,SP.URB.TOTL,1724328
+Guinea,GIN,1988,Urban population,SP.URB.TOTL,1663075
+Guinea,GIN,1987,Urban population,SP.URB.TOTL,1603556
+Guinea,GIN,1986,Urban population,SP.URB.TOTL,1546815
+Guinea,GIN,1985,Urban population,SP.URB.TOTL,1493537
+Guinea,GIN,1984,Urban population,SP.URB.TOTL,1443786
+Guinea,GIN,1983,Urban population,SP.URB.TOTL,1397411
+Guinea,GIN,1982,Urban population,SP.URB.TOTL,1333643
+Guinea,GIN,1981,Urban population,SP.URB.TOTL,1260260
+Guinea,GIN,1980,Urban population,SP.URB.TOTL,1192049
+Guinea,GIN,1979,Urban population,SP.URB.TOTL,1128237
+Guinea,GIN,1978,Urban population,SP.URB.TOTL,1068591
+Guinea,GIN,1977,Urban population,SP.URB.TOTL,1012414
+Guinea,GIN,1976,Urban population,SP.URB.TOTL,959160
+Guinea,GIN,1975,Urban population,SP.URB.TOTL,908204
+Guinea,GIN,1974,Urban population,SP.URB.TOTL,859441
+Guinea,GIN,1973,Urban population,SP.URB.TOTL,812625
+Guinea,GIN,1972,Urban population,SP.URB.TOTL,767810
+Guinea,GIN,1971,Urban population,SP.URB.TOTL,724749
+Guinea,GIN,1970,Urban population,SP.URB.TOTL,683422
+Guinea,GIN,1969,Urban population,SP.URB.TOTL,643851
+Guinea,GIN,1968,Urban population,SP.URB.TOTL,606086
+Guinea,GIN,1967,Urban population,SP.URB.TOTL,570308
+Guinea,GIN,1966,Urban population,SP.URB.TOTL,536628
+Guinea,GIN,1965,Urban population,SP.URB.TOTL,504937
+Guinea,GIN,1964,Urban population,SP.URB.TOTL,475135
+Guinea,GIN,1963,Urban population,SP.URB.TOTL,447076
+Guinea,GIN,1962,Urban population,SP.URB.TOTL,420670
+Guinea,GIN,1961,Urban population,SP.URB.TOTL,395834
+Guinea,GIN,1960,Urban population,SP.URB.TOTL,372463
+Guinea,GIN,2024,Urban population (% of total population),SP.URB.TOTL.IN.ZS,38.517
+Guinea,GIN,2023,Urban population (% of total population),SP.URB.TOTL.IN.ZS,38.085
+Guinea,GIN,2022,Urban population (% of total population),SP.URB.TOTL.IN.ZS,37.668
+Guinea,GIN,2021,Urban population (% of total population),SP.URB.TOTL.IN.ZS,37.264
+Guinea,GIN,2020,Urban population (% of total population),SP.URB.TOTL.IN.ZS,36.875
+Guinea,GIN,2019,Urban population (% of total population),SP.URB.TOTL.IN.ZS,36.5
+Guinea,GIN,2018,Urban population (% of total population),SP.URB.TOTL.IN.ZS,36.14
+Guinea,GIN,2017,Urban population (% of total population),SP.URB.TOTL.IN.ZS,35.793
+Guinea,GIN,2016,Urban population (% of total population),SP.URB.TOTL.IN.ZS,35.46
+Guinea,GIN,2015,Urban population (% of total population),SP.URB.TOTL.IN.ZS,35.141
+Guinea,GIN,2014,Urban population (% of total population),SP.URB.TOTL.IN.ZS,34.836
+Guinea,GIN,2013,Urban population (% of total population),SP.URB.TOTL.IN.ZS,34.545
+Guinea,GIN,2012,Urban population (% of total population),SP.URB.TOTL.IN.ZS,34.255
+Guinea,GIN,2011,Urban population (% of total population),SP.URB.TOTL.IN.ZS,33.966
+Guinea,GIN,2010,Urban population (% of total population),SP.URB.TOTL.IN.ZS,33.678
+Guinea,GIN,2009,Urban population (% of total population),SP.URB.TOTL.IN.ZS,33.391
+Guinea,GIN,2008,Urban population (% of total population),SP.URB.TOTL.IN.ZS,33.106
+Guinea,GIN,2007,Urban population (% of total population),SP.URB.TOTL.IN.ZS,32.822
+Guinea,GIN,2006,Urban population (% of total population),SP.URB.TOTL.IN.ZS,32.539
+Guinea,GIN,2005,Urban population (% of total population),SP.URB.TOTL.IN.ZS,32.257
+Guinea,GIN,2004,Urban population (% of total population),SP.URB.TOTL.IN.ZS,31.977
+Guinea,GIN,2003,Urban population (% of total population),SP.URB.TOTL.IN.ZS,31.698
+Guinea,GIN,2002,Urban population (% of total population),SP.URB.TOTL.IN.ZS,31.42
+Guinea,GIN,2001,Urban population (% of total population),SP.URB.TOTL.IN.ZS,31.144
+Guinea,GIN,2000,Urban population (% of total population),SP.URB.TOTL.IN.ZS,30.869
+Guinea,GIN,1999,Urban population (% of total population),SP.URB.TOTL.IN.ZS,30.595
+Guinea,GIN,1998,Urban population (% of total population),SP.URB.TOTL.IN.ZS,30.323
+Guinea,GIN,1997,Urban population (% of total population),SP.URB.TOTL.IN.ZS,30.052
+Guinea,GIN,1996,Urban population (% of total population),SP.URB.TOTL.IN.ZS,29.77
+Guinea,GIN,1995,Urban population (% of total population),SP.URB.TOTL.IN.ZS,29.475
+Guinea,GIN,1994,Urban population (% of total population),SP.URB.TOTL.IN.ZS,29.182
+Guinea,GIN,1993,Urban population (% of total population),SP.URB.TOTL.IN.ZS,28.89
+Guinea,GIN,1992,Urban population (% of total population),SP.URB.TOTL.IN.ZS,28.601
+Guinea,GIN,1991,Urban population (% of total population),SP.URB.TOTL.IN.ZS,28.312
+Guinea,GIN,1990,Urban population (% of total population),SP.URB.TOTL.IN.ZS,28.026
+Guinea,GIN,1989,Urban population (% of total population),SP.URB.TOTL.IN.ZS,27.741
+Guinea,GIN,1988,Urban population (% of total population),SP.URB.TOTL.IN.ZS,27.459
+Guinea,GIN,1987,Urban population (% of total population),SP.URB.TOTL.IN.ZS,27.178
+Guinea,GIN,1986,Urban population (% of total population),SP.URB.TOTL.IN.ZS,26.898
+Guinea,GIN,1985,Urban population (% of total population),SP.URB.TOTL.IN.ZS,26.621
+Guinea,GIN,1984,Urban population (% of total population),SP.URB.TOTL.IN.ZS,26.346
+Guinea,GIN,1983,Urban population (% of total population),SP.URB.TOTL.IN.ZS,26.072
+Guinea,GIN,1982,Urban population (% of total population),SP.URB.TOTL.IN.ZS,25.414
+Guinea,GIN,1981,Urban population (% of total population),SP.URB.TOTL.IN.ZS,24.503
+Guinea,GIN,1980,Urban population (% of total population),SP.URB.TOTL.IN.ZS,23.617
+Guinea,GIN,1979,Urban population (% of total population),SP.URB.TOTL.IN.ZS,22.75
+Guinea,GIN,1978,Urban population (% of total population),SP.URB.TOTL.IN.ZS,21.907
+Guinea,GIN,1977,Urban population (% of total population),SP.URB.TOTL.IN.ZS,21.087
+Guinea,GIN,1976,Urban population (% of total population),SP.URB.TOTL.IN.ZS,20.291
+Guinea,GIN,1975,Urban population (% of total population),SP.URB.TOTL.IN.ZS,19.515
+Guinea,GIN,1974,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.763
+Guinea,GIN,1973,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.033
+Guinea,GIN,1972,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.327
+Guinea,GIN,1971,Urban population (% of total population),SP.URB.TOTL.IN.ZS,16.641
+Guinea,GIN,1970,Urban population (% of total population),SP.URB.TOTL.IN.ZS,15.977
+Guinea,GIN,1969,Urban population (% of total population),SP.URB.TOTL.IN.ZS,15.336
+Guinea,GIN,1968,Urban population (% of total population),SP.URB.TOTL.IN.ZS,14.716
+Guinea,GIN,1967,Urban population (% of total population),SP.URB.TOTL.IN.ZS,14.116
+Guinea,GIN,1966,Urban population (% of total population),SP.URB.TOTL.IN.ZS,13.537
+Guinea,GIN,1965,Urban population (% of total population),SP.URB.TOTL.IN.ZS,12.978
+Guinea,GIN,1964,Urban population (% of total population),SP.URB.TOTL.IN.ZS,12.439
+Guinea,GIN,1963,Urban population (% of total population),SP.URB.TOTL.IN.ZS,11.919
+Guinea,GIN,1962,Urban population (% of total population),SP.URB.TOTL.IN.ZS,11.418
+Guinea,GIN,1961,Urban population (% of total population),SP.URB.TOTL.IN.ZS,10.936
+Guinea,GIN,1960,Urban population (% of total population),SP.URB.TOTL.IN.ZS,10.472
+Guinea,GIN,2003,"Roads, paved (% of total roads)",IS.ROD.PAVE.ZS,9.78999996185303
+Guinea,GIN,2000,"Roads, paved (% of total roads)",IS.ROD.PAVE.ZS,16.5
+Guinea,GIN,1999,"Roads, paved (% of total roads)",IS.ROD.PAVE.ZS,16.5
+Guinea,GIN,1998,"Roads, paved (% of total roads)",IS.ROD.PAVE.ZS,16.5
+Guinea,GIN,1997,"Roads, paved (% of total roads)",IS.ROD.PAVE.ZS,16.5
+Guinea,GIN,1996,"Roads, paved (% of total roads)",IS.ROD.PAVE.ZS,16.5
+Guinea,GIN,1995,"Roads, paved (% of total roads)",IS.ROD.PAVE.ZS,16.3999996185303
+Guinea,GIN,1994,"Roads, paved (% of total roads)",IS.ROD.PAVE.ZS,16.1000003814697
+Guinea,GIN,1993,"Roads, paved (% of total roads)",IS.ROD.PAVE.ZS,15.8000001907349
+Guinea,GIN,1992,"Roads, paved (% of total roads)",IS.ROD.PAVE.ZS,15.5
+Guinea,GIN,1991,"Roads, paved (% of total roads)",IS.ROD.PAVE.ZS,15.1999998092651
+Guinea,GIN,1990,"Roads, paved (% of total roads)",IS.ROD.PAVE.ZS,15.1999998092651
